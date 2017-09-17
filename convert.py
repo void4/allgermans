@@ -9,6 +9,14 @@ def idlen(a):
 
 lines = sorted([line.strip() for line in f.readlines()], key=idlen)
 
+def clearnum(s):
+    num = s.replace(",","").replace("*","")
+    if num in ["", "-"]:
+        num = 0
+    else:
+        num = int(num)
+    return num
+
 for line in lines:
     line = line.strip().split("\t")
     if len(line)>=2:
@@ -20,12 +28,8 @@ for line in lines:
             key = [d for d in root if d["name"].startswith(skey)][0]
             root = key["children"]
         if len(cid)==4:
-            num = line[1].replace(",","").replace("*","")
-            if num=="":
-                num = 0
-            else:
-                num = int(num)
-            root.append({"name":line[0].strip(), "size":num})
+            num = clearnum(line[1])
+            root.append({"name":line[0].strip(), "size":num, "males":float(clearnum(line[2]))/num if num else 0.5})
         else:
             root.append({"name":line[0].strip(), "children":[]})
     else:

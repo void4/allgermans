@@ -6,7 +6,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: auto;
   position: relative;
-  width: 2000px;
+  width: 4000px;
 }
 form {
   position: absolute;
@@ -25,7 +25,6 @@ form {
 <div style="padding-left:15px;">
 <h2>Deutschlands Berufelandschaft</h2>
 Insgesamt 31,848,915 Beschäftigte. Chart-Typ: Treemap. Inhalt: Berufsklassifikation, Berufsgruppe, Anzahl an Beschäftigten.
-Jeder Pixel entspricht ca. 8 Menschen.
 <br>
 Informationsquelle: https://statistik.arbeitsagentur.de/Statistikdaten/Detail/201612/iiia6/beschaeftigung-sozbe-bo-heft/bo-heft-d-0-201612-xlsx.xlsx
 <br>
@@ -53,9 +52,14 @@ var germanFormat = function(number) {
   return "" + preComma;
 };
 
+var berufeIm = function(s) {
+    var s = s.replace("Berufe in der", "").replace("Berufe im", "").replace("Berufe in", "").replace("Berufe", "");
+    return s.slice(s.indexOf(" ")+1);
+}
+
 const margin = {top: 40, right: 10, bottom: 10, left: 10},
-      width = 2000 - margin.left - margin.right,
-      height = 2000 - margin.top - margin.bottom,
+      width = 4000 - margin.left - margin.right,
+      height = 4000 - margin.top - margin.bottom,
       color = d3.scaleOrdinal().range(d3.schemeCategory20c);
 
 const treemap = d3.treemap().size([width, height]);
@@ -83,9 +87,9 @@ d3.json("flare.json", function(error, data) {
       .style("top", (d) => d.y0 + "px")
       .style("width", (d) => Math.max(0, d.x1 - d.x0 - 1) + "px")
       .style("height", (d) => Math.max(0, d.y1 - d.y0  - 1) + "px")
-      .style("background", (d) => color(d.parent.data.name))
-      .style("font-size", (d) => Math.round(Math.log(d.data.size/20))+"px")
-      .text((d) => d.data.name + ":\n"    + germanFormat(d.data.size));
+      .style("background", (d) => color(d.parent.data.name))//d3.rgb((1-d.data.males)*255, 0, (d.data.males)*255))//
+      .style("font-size", (d) => Math.round(Math.log(d.data.size))+"px")
+      .text((d) => berufeIm(d.data.name) + ":\n"    + germanFormat(d.data.size) + " ♂: " + Math.round(d.data.males*100)+"% ♀:" + Math.round(100-d.data.males*100)+"%");
 
   d3.selectAll("input").on("change", function change() {
     const value = this.value === "count"
