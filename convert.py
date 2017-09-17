@@ -1,5 +1,6 @@
 f = open("data.txt")
 f2 = open("customdata.txt")
+f3 = open("gb.txt")
 from collections import OrderedDict
 import json
 
@@ -10,6 +11,13 @@ def idlen(a):
 
 lines = sorted([line.strip() for line in f.readlines()+f2.readlines()], key=idlen)
 
+gblines = sorted([line.strip().split("\t") for line in f3.readlines()])
+
+def findline(starts):
+    for line in gblines:
+        if line[0].split(" ")[0] == starts:
+            return line
+
 def clearnum(s):
     num = s.replace(",","").replace("*","")
     if num in ["", "-"]:
@@ -17,6 +25,8 @@ def clearnum(s):
     else:
         num = int(num)
     return num
+
+totalnum = 0
 
 for line in lines:
     line = line.strip().split("\t")
@@ -30,7 +40,10 @@ for line in lines:
             root = key["children"]
         if len(cid)==4:
             if len(line)>1:
+                gbnum = findline(cid)
                 num = clearnum(line[1])
+                if gbnum:
+                    num += clearnum(gbnum[1])
             else:
                 num = 0
             if num and len(line)>2:
@@ -38,10 +51,13 @@ for line in lines:
             else:
                 males = 0.5
             root.append({"name":line[0].strip(), "size":num, "males":males})
+            totalnum += num
         else:
             root.append({"name":line[0].strip(), "children":[]})
     else:
         print("LIENSIGNSING", line)
+
+print(totalnum)
 
 jdata = json.dumps(cats, indent=4)
 #print(jdata)

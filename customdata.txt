@@ -24,3 +24,7 @@ bb21 Studenten	2800000
 cc Renter
 cc1 Renter
 cc11 Renter	17300000
+dd Kinder
+dd1 Kinder
+dd11 Kinder <1 Jahr	740000
+dd12 Kinder zwischen 1 und 6 Jahren	3590000
