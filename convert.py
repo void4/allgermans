@@ -20,7 +20,7 @@ def clearnum(s):
 
 for line in lines:
     line = line.strip().split("\t")
-    if len(line)>=2:
+    if len(line)>=1:
         cid, cname = line[0].split(" ",1)
         #
         root = cats["children"]
@@ -29,7 +29,10 @@ for line in lines:
             key = [d for d in root if d["name"].startswith(skey)][0]
             root = key["children"]
         if len(cid)==4:
-            num = clearnum(line[1])
+            if len(line)>1:
+                num = clearnum(line[1])
+            else:
+                num = 0
             if num and len(line)>2:
                 males = float(clearnum(line[2]))/num
             else:

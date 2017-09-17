@@ -12,3 +12,15 @@
 aa Selbstständige	0
 aaa Selbständige	0
 aaaa Selbstständige	4300000
+bb In Lehre
+bb1 Schüler
+bb11 Grundschüler	2800000
+bb12 Hauptschüler	427674
+bb13 Realschüler	852514
+bb14 Gymnasiasten	2300000
+bb15 Privatschüler	1100000
+bb2 Studenten
+bb21 Studenten	2800000
+cc Renter
+cc1 Renter
+cc11 Renter	17300000
