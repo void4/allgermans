@@ -19,8 +19,16 @@ bb12 Hauptschüler	427674
 bb13 Realschüler	852514
 bb14 Gymnasiasten	2300000
 bb15 Privatschüler	1100000
-bb2 Studenten
-bb21 Studenten	2800000
+bb2 Studenten	2800000
+bb21 Studenten Geisteswissenschaften	346463
+bb22 Studenten Sport	27736
+bb23 Studenten Rechts-, Wirtschafts- und Sozialwissenschaften	1018087
+bb24 Studenten Mathematik, Naturwissenschaften	320594
+bb25 Studenten Humanmedizin/Gesundheitswissenschaften	170791
+bb26 Studenten Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin	63411
+bb27 Studenten Ingenieurwissenschaften	757173
+bb28 Studenten Kunst, Kunstwissenschaft	94148
+bb29 Studenten Sonstige Fächer und ungeklärt	5513
 cc Renter
 cc1 Renter
 cc11 Renter	17300000
