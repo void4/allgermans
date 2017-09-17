@@ -1,0 +1,872 @@
+11 Land-, Tier-, Forstwirtschaftsberufe	93,257	58,968	34,289	81,748	11,469	16,272	48,529	14,766	13,690	843
+111 Landwirtschaft	68,709	44,745	23,964	58,799	9,889	12,887	35,663	10,490	9,669	553
+1110 Berufe in der Landwirtschaft (o.S.)	67,040	43,607	23,433	57,179	9,840	12,734	34,828	10,161	9,317	531
+1111 Berufe in der Landtechnik	185	156	29	179	6	24	93	29	39	*
+1112 Landwirtschaftliche Sachverständige	303	215	88	292	11	9	145	66	83	4
+1113 Berufe landwirtsch.-techn. Laboratorium	328	169	159	314	14	66	170	56	36	*
+1118 Berufe in der Landwirtschaft (s.s.T.)	289	182	107	280	9	35	130	55	69	7
+1119 Aufsicht und Führung - Landwirtschaft	564	416	148	555	9	19	297	123	125	6
+112 Tierwirtschaft	3,479	1,718	1,761	3,205	271	389	1,834	730	526	49
+1121 Berufe in der Nutztierhaltung	2,747	1,345	1,402	2,551	194	309	1,476	559	403	37
+1122 Berufe in der Geflügelhaltung	401	193	208	339	61	55	190	97	59	8
+1123 Berufe in der Imkerei	38	19	19	*	*	*	25	6	*	-
+1128 Berufe in der Tierwirtschaft (s.s.T.)	204	100	104	194	10	20	103	41	40	*
+1129 Aufsicht und Führung - Tierwirtschaft	89	61	28	*	*	*	40	27	*	*
+113 Pferdewirtschaft	3,773	1,411	2,362	3,485	285	800	2,165	434	374	29
+1130 Berufe in der Pferdewirtschaft (o.S.)	2,752	925	1,827	2,529	223	603	1,674	289	186	18
+1131 Berufe i.d. Pferdewirtschaft-Pferdezucht	61	29	32	56	5	13	28	12	8	-
+1132 Berufe in der Pferdewirtschaft - Reiten	514	109	405	483	29	157	292	45	20	*
+1133 Hufbeschlagschmiede/-schmiedinnen	83	69	14	77	6	8	50	14	11	*
+1134 Kutscher/innen	302	252	50	286	16	12	87	66	137	6
+1139 Aufsicht und Führung - Pferdewirtschaft	61	27	34	54	6	7	34	8	12	*
+114 Fischwirtschaft	778	568	210	740	37	62	379	147	190	22
+1140 Berufe in der Fischwirtschaft (o.S.)	516	380	136	486	30	46	257	99	114	14
+1141 Berufe in der Fischzucht	112	*	*	108	4	9	67	15	21	4
+1142 Berufe in der Fischerei	130	*	*	126	3	*	*	28	47	4
+1149 Aufsicht und Führung - Fischwirtschaft	20	*	*	20	-	*	*	5	8	-
+115 Tierpflege	7,718	2,963	4,755	7,259	449	1,186	4,554	1,205	773	81
+1150 Berufe in der Tierpflege (o.S.)	5,468	2,357	3,111	5,066	394	938	3,119	844	567	61
+1151 Berufe in der Nutztierpflege	179	118	61	167	12	13	82	41	43	5
+1152 Berufe in der Haus-, Zootierpflege	1,306	329	977	1,276	29	185	781	217	123	11
+1158 Berufe in der Tierpflege (s.s.T.)	729	147	582	718	10	50	558	90	31	*
+1159 Aufsicht und Führung - Tierpflege	36	12	24	32	4	-	14	13	9	*
+116 Weinbau	409	298	111	381	28	70	181	66	92	*
+1160 Berufe im Weinbau	385	278	107	357	28	*	*	59	83	*
+1169 Aufsicht und Führung - Weinbau	24	20	4	24	-	*	*	7	9	-
+117 Forst-,Jagdwirtschaft, Landschaftspflege	8,391	7,265	1,126	7,879	510	878	3,753	1,694	2,066	107
+1171 Berufe in der Forstwirtschaft	4,920	4,481	439	4,616	302	707	2,349	832	1,032	51
+1172 Berufe in der Natur-, Landschaftspflege	851	694	157	815	36	94	368	199	190	*
+1173 Berufe in der Jagdwirtschaft, Wildhege	113	104	9	109	4	6	43	27	37	*
+1174 Sammeln von Pflanzen, Naturprodukten	37	16	21	34	3	12	7	11	7	-
+1179 Aufsicht,Führung-Forst,Landschaftspflege	2,470	1,970	500	2,305	165	59	986	625	800	40
+12 Gartenbauberufe, Floristik	84,940	54,654	30,286	78,116	6,720	8,020	41,532	17,456	17,932	1,013
+121 Gartenbau	73,518	54,079	19,439	66,993	6,437	7,611	34,022	15,306	16,579	924
+1210 Berufe im Gartenbau (o.S.)	62,401	45,552	16,849	56,691	5,634	6,524	28,490	13,211	14,176	771
+1211 Berufe im Obst-, Gemüsebau	543	269	274	478	65	53	277	106	107	4
+1212 Berufe BaumschuleStauden,Zierpflanzenbau	1,295	564	731	1,236	59	89	699	255	252	16
+1213 Berufe in der Friedhofsgärtnerei	1,061	734	327	1,026	34	32	431	269	329	15
+1214 Berufe Garten-,Landschafts,Sportplatzbau	7,775	6,607	1,168	7,124	640	902	3,959	1,386	1,528	106
+1219 Aufsicht und Führung - Gartenbau	443	353	90	438	5	11	166	79	187	12
+122 Floristik	11,422	575	10,847	11,123	283	409	7,510	2,150	1,353	89
+1220 Berufe in der Floristik	11,276	563	10,713	10,981	279	405	7,416	2,125	1,330	89
+1229 Aufsicht und Führung - Floristik	146	12	134	142	4	4	94	25	23	-
+21 Rohstoffgewinn,Glas-,Keramikverarbeitung	9,043	7,065	1,978	8,183	854	1,251	3,919	1,669	2,204	155
+211 Berg-, Tagebau und Sprengtechnik	1,430	1,021	409	1,370	59	210	639	279	302	21
+2111 Berufe im Berg- und Tagebau	961	570	391	914	46	82	382	246	251	*
+2112 Berufe in der Sprengtechnik	76	67	9	*	*	7	27	18	24	*
+2119 Aufsicht,Führung-Bergbau,Sprengtechn.	393	384	9	*	*	121	230	15	27	-
+212 Naturstein-,Mineral-,Baustoffherstell.	5,116	4,603	513	4,581	530	611	2,211	943	1,351	94
+2120 Naturstein,Mineral,Baustoffherstell(o.S)	2,098	1,845	253	1,858	240	347	953	353	445	25
+2121 Berufe Naturstein-,Mineralaufbereitung	1,180	1,051	129	992	187	135	562	214	269	25
+2122 Berufe in der Baustoffherstellung	644	602	42	600	43	*	193	*	254	32
+2123 Berufe in der Steinmetztechnik	1,036	954	82	982	51	71	462	205	298	*
+2129 Aufsicht-Naturstein,Mineral,Baustoffher.	158	151	7	149	9	*	41	*	85	*
+213 Industrielle Glasherstell.,-verarbeitung	1,563	918	645	1,454	109	233	665	278	387	28
+2131 Berufe in der Glasherstellung	974	590	384	883	91	187	414	158	215	17
+2132 Berufe im Glasapparatebau	40	30	10	*	*	*	12	*	21	*
+2133 Berufe in der industriellen Glasbläserei	22	*	*	22	-	-	*	*	16	*
+2134 Berufe in der Glasveredelung	297	168	129	287	10	30	124	70	73	4
+2135 Berufe in der Glasapparatejustierung	*	*	-	*	-	-	*	-	*	-
+2136 Berufe in der Feinoptik	214	101	113	*	*	11	105	44	54	4
+2139 Aufsicht-Industri.Glasherst.,-verarbeit.	*	*	*	*	-	*	*	-	*	-
+214 Industrielle Keramikherstell.,-verarbeit	934	523	411	778	156	197	404	169	164	12
+2141 Industriekeramik (Verfahren,Anlagentech)	850	479	371	698	152	191	358	152	149	12
+2142 Industriekeramik (Modelltechnik)	*	44	*	*	4	6	*	17	15	-
+2149 Aufsicht-Industrielle Keramikherstellung	*	-	*	*	-	-	*	-	-	-
+22 Kunststoff- u. Holzherst.,-verarbeitung	47,474	34,892	12,582	42,565	4,848	7,760	21,951	8,340	9,423	648
+221 Kunststoff,Kautschukherstell.,verarbeit	19,327	10,596	8,731	16,579	2,729	3,447	9,537	3,266	3,077	225
+2210 Kunststoff-,Kautschukherstellung (o.S.)	17,299	8,789	8,510	14,782	2,504	3,150	8,398	2,995	2,756	203
+2211 Berufe i.d.Reifen-,Vulkanisationstechnik	1,656	1,607	49	1,442	208	271	971	185	229	16
+2218 Kunststoff,Kautschukherst.,-verarb.(ssT)	334	165	169	*	*	*	*	76	73	3
+2219 Aufsicht-Kunststoff,Kautschukher,verarb.	38	35	3	*	*	*	*	10	19	3
+222 Farb- und Lacktechnik	3,240	2,730	510	2,758	472	346	1,667	568	659	50
+2220 Berufe in der Farb-, Lacktechnik (o.S.)	2,151	1,776	375	1,805	343	254	1,118	380	399	31
+2221 Berufe in der Fahrzeuglackierung	837	780	57	728	105	73	436	145	183	13
+2222 Berufe im Lacklaboratorium	184	110	74	161	20	19	92	32	41	*
+2229 Aufsicht - Farb-, Lacktechnik	68	64	4	64	4	-	21	11	36	*
+223 Holzbe- und -verarbeitung	24,907	21,566	3,341	23,228	1,647	3,967	10,747	4,506	5,687	373
+2230 Berufe i.d. Holzbe-,-verarbeitung (o.S.)	13,476	11,328	2,148	12,499	966	2,711	5,543	2,477	2,745	182
+2231 Berufe Holztrocknung,-konservierung	22	*	*	15	*	-	*	*	11	*
+2232 Produktion v. Holzwerkstoffen,-bauteilen	952	832	120	909	42	92	380	211	269	12
+2233 Produktion v. Fertigprodukten aus Holz	583	515	68	502	81	82	280	104	117	*
+2234 Berufe im Holz-, Möbel-, Innenausbau	8,957	8,226	731	8,424	514	1,052	4,219	1,537	2,149	149
+2235 FlechtwerkgestalterBürsten-,Pinselmacher	404	185	219	377	27	21	162	89	132	8
+2238 Berufe i.d. Holzbe-,-verarbeitung (ssT)	69	*	*	65	4	4	*	*	21	*
+2239 Aufsicht,Führung - Holzbe-,-verarbeitung	444	416	28	437	6	5	124	72	243	13
+23 Papier-,Druckberufe, tech.Mediengestalt.	38,058	17,592	20,466	34,021	4,005	7,263	19,208	6,013	5,573	413
+231 Papier- und Verpackungstechnik	6,626	2,759	3,867	5,695	918	1,059	3,071	1,324	1,172	83
+2310 Berufe Papier-,Verpackungstechnik (o.S.)	4,894	2,044	2,850	4,176	708	864	2,263	952	815	62
+2311 Berufe in der Papierherstellung	161	89	72	146	15	17	*	*	38	*
+2312 Berufe Papierverarb., Verpackungstechnik	1,563	621	942	1,365	195	178	734	335	316	16
+2319 Aufsicht - Papier-, Verpackungstechnik	8	*	3	8	-	-	*	*	3	*
+232 Technische Mediengestaltung	10,619	5,088	5,531	9,943	667	2,281	6,325	1,074	939	74
+2321 Berufe Digital-, Printmediengestaltung	4,818	2,269	2,549	4,544	272	953	2,727	572	566	48
+2322 Berufe Grafik-Kommunikations-,Fotodesign	5,674	2,746	2,928	5,280	387	1,312	3,531	487	344	*
+2328 Berufe technische Mediengestaltung (ssT)	37	20	17	33	4	4	17	*	13	*
+2329 Aufsicht,Führung-Techn. Mediengestaltung	90	53	37	86	4	12	50	12	16	-
+233 Fototechnik und Fotografie	2,157	907	1,250	2,019	134	469	1,236	228	224	13
+2331 Berufe in der Fototechnik	911	385	526	*	*	218	*	*	92	8
+2332 Berufe in der Fotografie	1,229	516	713	1,146	81	251	734	122	122	5
+2339 Aufsicht - Fototechnik und Fotografie	17	6	11	*	*	-	*	*	10	-
+234 Drucktechnik,-weiterverarb.,Buchbinderei	18,656	8,838	9,818	16,364	2,286	3,454	8,576	3,387	3,238	243
+2341 Berufe in der Drucktechnik	17,335	8,299	9,036	15,127	2,204	3,352	8,056	3,075	2,852	213
+2342 Berufe Buchbinderei, Druckweiterverarb.	1,265	496	769	1,181	82	*	509	*	351	27
+2349 Aufsicht-Drucktechnik,Buchbinderei	56	43	13	56	-	*	11	*	35	3
+24 Metallerzeugung,-bearbeitung, Metallbau	84,814	67,191	17,623	76,729	7,994	13,280	38,238	14,633	18,663	1,420
+241 Metallerzeugung	3,197	2,015	1,182	2,786	406	508	1,645	529	515	27
+2410 Berufe in der Metallerzeugung (o.S.)	946	683	263	810	135	230	454	126	136	6
+2411 Berufe in der Hüttentechnik	213	175	38	178	35	32	109	41	31	*
+2412 Berufe in der Metallumformung	1,440	686	754	1,284	153	170	801	262	207	10
+2413 Berufe in der industriellen Gießerei	493	385	108	415	77	68	234	82	109	5
+2414 Berufe handwerkl.Metall-,Glockengießerei	93	*	*	87	6	*	42	*	29	*
+2419 Aufsicht - Metallerzeugung	12	*	*	12	-	*	5	*	3	-
+242 Metallbearbeitung	42,736	30,501	12,235	37,994	4,699	8,103	19,601	6,986	8,046	644
+2420 Berufe in der Metallbearbeitung (o.S.)	32,789	22,253	10,536	28,971	3,786	6,980	14,996	5,183	5,630	402
+2421 Berufe i.d. spanlosen Metallbearbeitung	1,296	609	687	1,187	109	133	593	313	257	25
+2422 Berufe i.d. schleifenden Metallbearbeit.	2,215	1,724	491	1,796	416	230	1,077	397	511	52
+2423 Berufe i.d. spanenden Metallbearbeitung	6,194	5,697	497	5,807	379	740	2,833	1,052	1,569	154
+2424 Berufe Metallbearbeitung d. Laserstrahl	74	56	18	70	4	14	43	9	8	*
+2429 Aufsicht - Metallbearbeitung	168	162	6	163	5	6	59	32	71	*
+243 Metalloberflächenbehandlung	2,720	1,630	1,090	2,352	367	447	1,248	469	556	36
+2430 Berufe Metalloberflächenbehandlung (o.S)	2,686	1,607	1,079	2,318	367	*	1,236	*	541	*
+2438 Berufe Metalloberflächenbehandlung (ssT)	12	7	5	12	-	*	*	*	4	-
+2439 Aufsicht - Metalloberflächenbehandlung	22	16	6	22	-	-	*	*	11	*
+244 Metallbau und Schweißtechnik	28,808	27,007	1,801	26,663	2,112	3,243	12,874	5,323	7,368	563
+2441 Berufe im Metallbau	25,173	23,722	1,451	23,391	1,755	3,132	11,181	4,593	6,267	474
+2442 Berufe i.d. Schweiß-, Verbindungstechnik	2,770	2,441	329	2,432	332	98	1,414	566	692	61
+2443 Industrietaucher/innen u.a.Taucherberufe	49	43	6	*	*	*	37	*	*	*
+2449 Aufsicht - Metallbau und Schweißtechnik	816	801	15	*	*	*	242	*	401	*
+245 Feinwerk- und Werkzeugtechnik	7,353	6,038	1,315	6,934	410	979	2,870	1,326	2,178	150
+2451 Berufe in der Feinwerktechnik	3,838	2,910	928	3,543	291	647	1,639	662	890	56
+2452 Berufe in der Werkzeugtechnik	2,809	2,537	272	2,722	84	293	1,011	543	962	81
+2453 Berufe im Uhrmacherhandwerk	498	394	104	*	*	36	179	84	199	6
+2459 Aufsicht - Feinwerk- u. Werkzeugtechnik	208	197	11	*	*	3	41	37	127	7
+25 Maschinen- und Fahrzeugtechnikberufe	102,161	85,134	17,027	93,707	8,357	14,167	48,467	18,082	21,445	1,573
+251 Maschinenbau- und Betriebstechnik	70,099	54,218	15,881	64,117	5,929	9,977	33,249	12,699	14,174	1,050
+2510 Berufe Maschinenbau-, Betriebstechn.(oS)	39,327	30,484	8,843	35,817	3,480	6,407	18,759	6,585	7,576	557
+2511 Maschinen-, Gerätezusammensetzer/innen	9,655	6,839	2,816	8,695	951	1,036	4,815	1,920	1,884	139
+2512 Maschinen- und Anlagenführer/innen	5,597	4,451	1,146	5,120	473	906	2,800	866	1,025	84
+2513 Tech.ServicekräfteWartung,Instandhaltung	14,295	11,444	2,851	13,323	966	1,486	6,418	3,099	3,292	236
+2518 Berufe Maschinenbau,Betriebstechn.(ssT)	589	550	39	561	26	43	213	129	204	17
+2519 Aufsicht,Führung-Maschinenbau,Betriebst.	636	450	186	601	33	99	244	100	193	17
+252 Fahrzeug-Luft-Raumfahrt-,Schiffbautechn.	32,062	30,916	1,146	29,590	2,428	4,190	15,218	5,383	7,271	523
+2520 Berufe in der Fahrzeugtechnik (o.S.)	9,991	9,435	556	8,840	1,127	1,779	4,734	1,544	1,934	110
+2521 Berufe in der Kraftfahrzeugtechnik	15,288	14,835	453	14,174	1,096	1,611	7,628	2,601	3,448	283
+2522 Berufe i.d. Land-, Baumaschinentechnik	2,358	2,331	27	2,301	57	342	994	432	590	44
+2523 Berufe in der Luft- und Raumfahrttechnik	297	*	*	285	12	32	135	57	73	*
+2524 Berufe in der Schiffbautechnik	78	*	*	74	4	7	39	9	23	*
+2525 Berufe in der Zweiradtechnik	2,196	2,116	80	2,095	99	401	1,186	335	274	*
+2529 Aufsicht,Führung-Fahr.LuftRaum.Schiffbau	1,854	*	*	1,821	33	18	502	405	929	70
+26 Mechatronik-, Energie- u. Elektroberufe	59,085	51,070	8,015	55,628	3,410	9,299	26,672	10,478	12,636	1,024
+261 Mechatronik und Automatisierungstechnik	2,532	2,307	225	2,431	101	618	1,245	290	379	40
+2611 Berufe in der Mechatronik	1,464	1,367	97	1,391	73	463	742	114	145	*
+2612 Berufe in der Automatisierungstechnik	1,047	919	128	*	*	*	*	170	225	20
+2619 Aufsicht-Mechatronik,Automatisierungst.	21	21	-	*	*	*	*	*	*	*
+262 Energietechnik	19,680	18,720	960	18,852	814	1,805	8,300	4,068	5,507	528
+2621 Berufe in der Bauelektrik	13,000	12,758	242	12,527	468	1,047	5,465	2,718	3,770	379
+2622 Berufe in der Elektromaschinentechnik	1,350	1,113	237	1,273	74	144	565	292	349	32
+2623 Berufe i.d. Energie-, Kraftwerkstechnik	995	884	111	965	30	71	448	211	265	22
+2624 Berufe i.d. regenerativen Energietechnik	421	254	167	399	19	90	246	45	40	*
+2625 Berufe i.d. elektrischen Betriebstechnik	1,916	1,829	87	1,824	91	303	773	390	450	40
+2626 Berufe Leitungsinstallation,-wartung	1,506	1,398	108	1,381	123	144	668	288	406	43
+2629 Aufsicht - Energietechnik	492	484	8	483	9	6	135	124	227	*
+263 Elektrotechnik	36,873	30,043	6,830	34,345	2,495	6,876	17,127	6,120	6,750	456
+2630 Berufe in der Elektrotechnik (o.S.)	27,444	21,763	5,681	25,360	2,062	5,533	12,567	4,536	4,808	299
+2631 Berufe Informations,Telekommunikationst.	7,474	6,534	940	7,093	373	1,157	3,778	1,231	1,308	114
+2632 Berufe in der Mikrosystemtechnik	182	103	79	171	11	32	98	26	26	3
+2633 Berufe Luftver.,Schiff,Fahrzeugelektron.	184	177	7	178	5	15	82	33	54	6
+2638 Berufe in der Elektrotechnik (s.s.T.)	665	565	100	633	31	134	337	80	114	7
+2639 Aufsicht - Elektrotechnik	924	901	23	910	13	5	265	214	440	27
+27 Techn.Entwickl.Konstr.Produktionssteuer.	28,710	18,297	10,413	26,768	1,920	3,681	14,030	4,834	6,165	510
+271 Technische Forschung und Entwicklung	3,829	3,207	622	3,658	171	468	1,645	615	1,101	77
+2710 Berufe tech. Forschung, Entwicklung (oS)	3,693	3,101	592	3,530	163	457	1,583	596	1,057	73
+2718 Berufe tech.Forschung, Entwicklung (ssT)	82	61	21	77	5	11	37	10	24	*
+2719 Führung - Techn. Forschung, Entwicklung	54	45	9	51	3	-	25	9	20	*
+272 Techn. Zeichnen, Konstruktion, Modellbau	9,277	5,140	4,137	9,008	260	1,416	4,982	1,344	1,535	136
+2721 Technische Zeichner/innen	6,357	2,739	3,618	6,197	156	1,031	3,693	823	810	79
+2722 Berufe i.d. Konstruktion u. im Gerätebau	2,036	1,696	340	1,963	68	252	909	347	528	43
+2723 Berufe im Modellbau	385	306	79	374	11	*	146	*	106	7
+2728 Techn.Zeichnen, Konstrukt.,Modellb.(ssT)	429	342	87	407	22	91	210	*	*	3
+2729 Aufsicht,Führung-TechZeich.Konstr.Modell	70	57	13	67	3	*	24	*	*	4
+273 Technische Produktionsplanung,-steuerung	15,604	9,950	5,654	14,102	1,489	1,797	7,403	2,875	3,529	297
+2730 Berufe tech. Produktionsplan.,-steuerung	3,559	2,432	1,127	3,296	259	487	1,620	626	826	70
+2731 Berufe technische Qualitätssicherung	9,552	5,383	4,169	8,423	1,120	1,221	4,842	1,656	1,833	148
+2739 Aufsicht,Führung-Produktionsplan,steuer.	2,493	2,135	358	2,383	110	89	941	593	870	79
+28 Textil- und Lederberufe	26,416	7,869	18,547	22,817	3,558	2,231	12,390	5,975	5,820	408
+281 Textiltechnik und -produktion	6,219	2,348	3,871	5,359	854	913	2,987	1,168	1,151	77
+2810 Berufe in der Textiltechnik (o.S.)	3,730	1,427	2,303	3,187	537	638	1,794	660	638	41
+2811 Berufe in der Textilgestaltung	504	102	402	*	*	41	270	110	83	8
+2812 Berufe in der Textilherstellung	981	344	637	878	103	77	399	230	275	18
+2813 Berufe in der Garn- und Seilherstellung	539	269	270	397	142	95	294	81	69	5
+2814 Berufe in der Textilveredlung	406	164	242	*	*	59	210	76	61	*
+2819 Aufsicht,Führung-Textiltechn.,-produkt.	59	42	17	*	*	3	20	11	25	*
+282 Textilverarbeitung	16,077	3,466	12,611	14,006	2,041	1,051	7,466	3,944	3,616	259
+2821 Berufe im Modedesign	365	90	275	324	40	128	167	36	34	3
+2822 Berufe i.d. Bekleidungsherstellung	11,386	2,070	9,316	9,715	1,647	642	5,272	2,870	2,602	187
+2823 Technische Konfektionäre, Segelmacher	1,665	789	876	1,479	185	194	843	341	287	24
+2824 Berufe Polsterei, Fahrzeuginnenausstat.	2,561	494	2,067	2,392	166	84	1,145	675	657	42
+2829 Aufsicht,Führung - Textilverarbeitung	100	23	77	96	3	3	39	22	36	3
+283 Leder-, Pelzherstellung u. -verarbeitung	4,120	2,055	2,065	3,452	663	267	1,937	863	1,053	72
+2830 Berufe Leder-,Pelzherstell.,-verarb.(oS)	1,122	578	544	961	159	149	513	220	240	15
+2831 Berufe in der Lederherstellung	74	34	40	*	*	*	*	*	23	3
+2832 Berufe Sattlerei, Herst. Lederutensilien	554	270	284	503	51	31	261	112	150	10
+2833 Berufe in der Schuhherstellung	2,102	1,017	1,085	1,666	433	76	1,071	463	492	28
+2834 Berufe in der Pelzbe- und -verarbeitung	124	29	95	109	15	*	*	35	53	8
+2839 Aufsicht,Führung-Leder-,Pelzher.,verarb.	144	127	17	*	*	*	34	*	95	8
+29 Lebensmittelherstellung u. -verarbeitung	256,272	110,965	145,307	190,168	65,054	51,881	142,689	38,358	23,344	1,885
+291 Getränkeherstellung	1,216	900	316	1,162	52	216	460	236	304	22
+2910 Berufe in der Getränkeherstellung (o.S.)	426	285	141	400	25	109	145	90	82	5
+2911 Brauer/innen und Mälzer/innen	276	244	32	*	*	48	99	45	84	5
+2912 Weinküfer/innen	191	117	74	181	10	26	86	29	50	5
+2913 Brenner/innen, Destillateure/innen	*	60	*	*	-	*	25	*	27	*
+2914 Berufe in der Fruchtsafttechnik	119	86	33	109	10	19	51	27	22	3
+2915 Nahrungsmittel- u. Getränkekoster/innen	*	25	*	*	*	*	17	*	9	*
+2919 Aufsicht,Führung - Getränkeherstellung	89	83	6	89	-	*	37	*	30	*
+292 Lebensmittel- u. Genussmittelherstellung	40,008	24,661	15,347	32,509	7,391	6,656	19,708	6,693	6,951	480
+2920 Berufe i.d. Lebensmittelherstellung (oS)	21,229	10,902	10,327	17,244	3,939	4,685	10,022	3,521	3,001	220
+2921 Berufe Mühlenprodukt-,Futtermittelherst.	290	239	51	273	17	*	128	*	76	8
+2922 Berufe Back-, Konditoreiwarenherstell.	9,402	6,565	2,837	7,014	2,335	1,367	5,688	1,194	1,153	75
+2923 Berufe in der Fleischverarbeitung	5,875	5,064	811	5,148	720	261	2,572	1,277	1,765	123
+2924 Berufe in der Fischverarbeitung	377	178	199	299	78	27	188	96	66	*
+2925 Berufe in der Milchproduktherstellung	349	195	154	296	53	47	180	60	62	7
+2926 Berufe in der Süßwarenherstellung	422	94	328	385	37	95	182	86	59	*
+2927 Berufe in der Tabakwarenherstellung	33	16	17	28	5	*	20	*	7	-
+2928 Berufe i.d.Lebensmittelherstellung (ssT)	802	314	488	620	180	115	420	151	116	7
+2929 Aufsicht,Führung-Lebens-,Genussmittelher	1,229	1,094	135	1,202	27	*	308	*	646	32
+293 Speisenzubereitung	215,048	85,404	129,644	156,497	57,611	45,009	122,521	31,429	16,089	1,383
+2930 Köche/Köchinnen (o.S.)	212,746	84,074	128,672	154,574	57,233	44,531	121,279	31,095	15,841	1,357
+2931 Vor-, Kalt- und Süßspeisenköche/innen	369	130	239	319	50	55	189	76	49	6
+2932 Grill-, Braten- u. Fischköche/-köchinnen	1,060	659	401	812	247	362	545	94	59	5
+2938 Köche/Köchinnen (s.s.T.)	247	126	121	235	12	29	112	55	51	5
+2939 Aufsicht, Führung - Speisenzubereitung	626	415	211	557	69	32	396	109	89	10
+31 Bauplanung,Architektur,Vermessungsberufe	12,532	9,083	3,449	11,927	593	1,619	5,426	2,099	3,387	245
+311 Bauplanung u. -überwachung, Architektur	10,442	7,416	3,026	9,892	539	1,335	4,667	1,710	2,730	189
+3110 Berufe Bauplanung u. -überwachung (o.S.)	4,487	3,418	1,069	4,296	189	721	1,896	696	1,174	80
+3111 Berufe in der Architektur	2,842	1,332	1,510	2,661	173	461	1,622	317	442	24
+3112 Berufe in der Stadt- und Raumplanung	248	75	173	217	31	41	149	30	28	-
+3113 Berufe Bauplanung Verkehrswege, -anlagen	94	79	15	*	*	7	29	17	41	6
+3114 Berufe in der Wasserwirtschaft	171	131	40	*	*	9	82	29	51	*
+3115 Berufe Bauwerkserhaltung und -erneuerung	186	169	17	163	22	10	93	32	51	*
+3116 Bausachverständige und Baukontrolleure	469	413	56	438	31	26	150	110	183	10
+3117 Berufe i.d. Bauabrechnung, -kalkulation	286	221	65	277	9	17	93	81	95	6
+3119 Aufsicht,Führung-Bauplan,-überw,Archit.	1,659	1,578	81	1,582	77	43	553	398	665	58
+312 Vermessung und Kartografie	2,090	1,667	423	2,035	54	284	759	389	657	56
+3121 Berufe in der Vermessungstechnik	2,001	1,611	390	*	*	275	711	374	640	*
+3122 Berufe in der Kartografie	89	56	33	*	*	9	48	15	17	*
+32 Hoch- und Tiefbauberufe	64,580	62,527	2,053	51,665	12,692	9,311	35,106	10,223	9,940	843
+321 Hochbau	58,822	57,123	1,699	46,614	11,991	8,659	32,590	9,107	8,466	704
+3210 Berufe im Hochbau (o.S.)	49,977	48,433	1,544	39,005	10,771	7,994	28,390	7,379	6,214	497
+3211 Berufe im Beton- und Stahlbetonbau	1,345	1,321	24	733	606	103	850	216	176	17
+3212 Berufe im Maurerhandwerk	3,741	3,691	50	3,382	355	259	1,476	854	1,152	112
+3213 Berufe im Schornsteinbau	117	*	*	107	10	10	49	28	30	*
+3214 Berufe in der Dachdeckerei	1,849	1,822	27	1,770	77	170	966	325	388	33
+3215 Berufe im Fassadenbau	87	87	-	60	25	6	53	13	15	-
+3216 Berufe im Gerüstbau	733	715	18	667	65	79	519	93	42	5
+3217 Berufe im Bauwerksabbruch	72	*	*	45	27	11	44	5	12	*
+3219 Aufsicht - Hochbau	901	869	32	845	55	27	243	194	437	35
+322 Tiefbau	5,758	5,404	354	5,051	701	652	2,516	1,116	1,474	139
+3220 Berufe im Tiefbau (o.S.)	4,018	3,733	285	3,499	515	483	1,812	764	959	91
+3221 Pflasterer/innen, Steinsetzer/innen	400	392	8	326	73	19	226	79	76	4
+3222 Berufe im Straßen- und Asphaltbau	533	515	18	492	40	69	165	109	190	19
+3223 Berufe im Gleisbau	169	163	6	127	42	41	86	20	22	*
+3224 Berufe im Brunnenbau	162	*	*	158	4	7	80	37	38	7
+3225 Berufe im Kanal- und Tunnelbau	80	*	*	69	11	14	30	11	25	*
+3226 Berufe im Kultur- und Wasserbau	180	156	24	171	9	14	66	44	56	6
+3229 Aufsicht - Tiefbau	216	*	*	209	7	5	51	52	108	9
+33 (Innen-)Ausbauberufe	37,602	34,981	2,621	32,280	5,264	4,793	19,430	6,035	7,344	537
+331 Bodenverlegung	6,093	5,890	203	5,099	979	703	3,065	1,027	1,298	108
+3310 Berufe in der Bodenverlegung (o.S.)	3,648	3,514	134	2,991	647	545	1,977	563	563	46
+3311 Berufe Fliesen-,Platten-,Mosaikverlegung	1,658	1,620	38	1,473	183	100	684	311	563	46
+3312 Berufe Estrich- und Terrazzoverlegung	359	352	7	238	119	26	215	67	51	5
+3313 Berufe in der Parkettverlegung	304	280	24	278	25	29	157	60	58	3
+3319 Aufsicht - Bodenverlegung	124	124	-	119	5	3	32	26	63	8
+332 Maler.,Stuckat.,Bauwerksabd,Bautenschutz	13,298	12,233	1,065	11,728	1,556	1,350	6,536	2,308	3,104	225
+3321 Berufe für Maler- und Lackiererarbeiten	11,176	10,223	953	9,924	1,240	1,237	5,572	1,953	2,414	195
+3322 Berufe für Stuckateurarbeiten	993	953	40	755	236	71	554	167	201	14
+3323 Berufe in der Bauwerksabdichtung	127	114	13	106	21	9	70	17	31	-
+3324 Berufe im Holz- und Bautenschutz	135	130	5	113	22	13	78	22	22	-
+3329 Aufsicht-MalerStuckBauwerksabdBautensch.	867	813	54	830	37	20	262	149	436	16
+333 Aus-,Trockenbau.Iso.Zimmer.Glas.Roll.bau	18,211	16,858	1,353	15,453	2,729	2,740	9,829	2,700	2,942	204
+3330 Berufe im Aus- und Trockenbau (o.S.)	10,166	9,365	801	7,944	2,200	1,655	5,952	1,380	1,179	79
+3331 Berufe in der Isolierung	494	470	24	425	69	39	211	110	134	9
+3332 Berufe in der Zimmerei	2,463	2,289	174	2,390	72	421	1,333	336	373	35
+3333 Berufe in der Bautischlerei	3,142	2,899	243	2,827	311	505	1,580	521	536	46
+3334 Berufe in der Glaserei	772	717	55	733	38	60	331	128	253	15
+3335 Berufe im Rollladen- und Jalousiebau	482	451	31	455	27	46	190	109	137	11
+3339 Aufsicht-Aus-,Trockenbau.Iso.Zimm.Glas.	692	667	25	679	12	14	232	116	330	9
+34 Gebäude- u. versorgungstechnische Berufe	307,143	253,559	53,584	283,150	23,665	12,127	125,496	77,543	91,976	4,996
+341 Gebäudetechnik	274,362	223,507	50,855	252,235	21,827	8,494	112,732	70,960	82,175	4,370
+3410 Berufe in der Gebäudetechnik (o.S.)	258,975	210,584	48,391	237,353	21,330	7,659	107,670	66,865	76,780	4,071
+3411 Platz-, Gerätewarte/innen	14,937	12,552	2,385	14,462	467	821	4,901	3,969	5,246	288
+3419 Aufsicht - Gebäudetechnik	450	371	79	420	30	14	161	126	149	11
+342 Klempnerei,Sanitär,Heizung,Klimatechnik	15,644	15,323	321	14,861	769	1,798	5,997	2,986	4,863	366
+3420 Berufe in der Klempnerei (o.S.)	4,963	4,826	137	4,587	372	885	2,110	847	1,121	77
+3421 Berufe Sanitär-, Heizungs-, Klimatechnik	9,128	8,966	162	8,756	363	824	3,416	1,857	3,031	245
+3422 Berufe im Ofen- und Luftheizungsbau	222	*	*	215	7	18	88	52	64	*
+3423 Berufe in der Kältetechnik	407	*	*	395	12	58	153	79	117	*
+3429 Aufsicht-Klemp.Sanitär,Heizung,Klimatech	924	*	*	908	15	13	230	151	530	31
+343 Ver- und Entsorgung	17,137	14,729	2,408	16,054	1,069	1,835	6,767	3,597	4,938	260
+3430 Berufe in der Ver- und Entsorgung (o.S.)	11,518	9,562	1,956	10,693	816	1,353	4,641	2,366	3,158	161
+3431 Berufe Wasserversorgung,Abwassertechnik	1,692	1,572	120	1,646	46	123	660	398	511	24
+3432 Berufe im Rohrleitungsbau	319	312	7	287	31	23	94	86	116	12
+3433 Berufe in der Abfallwirtschaft	1,835	1,594	241	1,722	111	169	685	402	579	33
+3434 Berufe Anlagen-, Behälter-, Apparatebau	1,317	1,269	48	1,257	58	148	573	235	361	22
+3439 Aufsicht - Ver- und Entsorgung	456	420	36	449	7	19	114	110	213	8
+41 Mathematik-Biologie-Chemie-,Physikberufe	14,596	6,928	7,668	13,424	1,157	2,946	6,798	2,230	2,622	205
+411 Mathematik und Statistik	439	239	200	416	23	97	213	61	68	3
+4110 Berufe in der Mathematik (o.S.)	149	87	62	135	14	55	58	15	21	*
+4111 Berufe in der Statistik	222	107	115	216	6	36	116	34	36	*
+4118 Berufe in der Mathematik (s.s.T.)	52	*	*	*	*	*	28	*	*	-
+4119 Führung - Mathematik und Statistik	16	*	*	*	*	*	11	*	*	-
+412 Biologie	3,578	1,512	2,066	3,363	214	654	1,677	526	721	29
+4120 Berufe in der Biologie (o.S.)	483	199	284	423	60	164	261	39	19	*
+4121 Berufe im biologisch-techn. Laboratorium	2,526	1,059	1,467	2,429	96	351	1,105	416	654	23
+4122 Berufe in der biologischen Präparation	206	93	113	186	20	74	92	20	20	-
+4123 Berufe in der Biologie (Ökologie)	47	19	28	*	*	*	28	9	*	-
+4124 Berufe in der Biologie (Botanik)	16	6	10	*	*	*	9	*	*	-
+4125 Berufe in der Biologie (Zoologie)	46	25	21	41	5	11	20	9	6	-
+4126 Berufe in der Biologie (Mikrobiologie)	18	9	9	*	*	*	12	*	-	-
+4127 Berufe in der Biologie (Humanbiologie)	57	20	37	51	6	5	40	6	6	3
+4128 Berufe in der Biologie (s.s.T.)	150	67	83	129	21	33	96	12	9	-
+4129 Aufsicht und Führung - Biologie	29	15	14	*	*	4	14	8	3	*
+413 Chemie	8,914	3,923	4,991	8,121	780	1,836	4,132	1,443	1,503	149
+4130 Berufe in der Chemie (o.S.)	269	180	89	245	24	59	108	35	67	6
+4131 Berufe in der Chemie- und Pharmatechnik	6,795	2,968	3,827	6,114	669	1,497	3,075	1,094	1,129	111
+4132 Berufe im chemisch-techn. Laboratorium	1,679	667	1,012	1,601	77	255	870	282	272	28
+4133 Steuerer chemische Verfahrensanlagen	*	*	*	*	*	*	*	*	-	-
+4134 Steuerer Erdöl-,Erdgasraffinationsanlag.	*	*	*	*	-	-	*	-	*	-
+4138 Berufe in der Chemie (s.s.T.)	111	63	48	104	7	*	56	*	22	*
+4139 Aufsicht und Führung - Chemie	55	*	*	*	*	*	*	21	*	*
+414 Physik	1,665	1,254	411	1,524	140	359	776	200	330	24
+4140 Berufe in der Physik (o.S.)	398	326	72	339	59	103	230	25	40	*
+4141 Berufe physikalisch-techn. Laboratorium	280	182	98	263	16	91	135	*	*	-
+4142 Berufe in der Werkstofftechnik	451	326	125	408	43	79	183	70	119	10
+4143 Berufe in der Baustoffprüfung	253	193	60	*	*	*	89	*	82	*
+4148 Berufe in der Physik (s.s.T.)	272	220	52	260	12	43	135	45	49	8
+4149 Aufsicht und Führung - Physik	11	7	4	*	*	*	4	*	*	-
+42 Geologie-,Geografie-,Umweltschutzberufe	3,098	2,221	877	3,006	90	487	1,583	449	579	46
+421 Geologie, Geografie und Meteorologie	804	531	273	764	40	238	427	61	78	8
+4211 Berufe in der Geotechnik	243	164	79	237	6	76	117	21	29	4
+4212 Berufe in der Geologie	412	288	124	382	30	119	225	29	39	*
+4213 Berufe in der Geografie	81	44	37	*	*	25	51	*	*	-
+4214 Berufe in der Meteorologie	68	35	33	*	*	18	34	*	*	*
+422 Umweltschutztechnik	1,155	985	170	1,130	25	156	606	143	250	20
+4220 Berufe in der Umweltschutztechnik (o.S.)	428	309	119	409	19	84	223	47	74	7
+4221 Schornsteinfeger/innen	565	521	44	*	*	*	306	*	129	10
+4228 Berufe i.d. Umweltschutztechnik (s.s.T.)	*	*	*	*	*	*	6	*	*	-
+4229 Aufsicht - Umweltschutztechnik	*	*	*	*	-	*	71	*	*	3
+423 Umweltmanagement und -beratung	1,139	705	434	1,112	25	93	550	245	251	18
+4231 Berufe Umweltschutzverwaltung, -beratung	928	528	400	*	*	84	462	190	192	15
+4232 Gewässer-Immissionsschutz,Abfallbeauftr.	165	134	31	*	*	9	69	42	45	*
+4233 Strahlenschutzbeauftragte	*	*	3	*	-	-	*	13	*	*
+4239 Führung - Umweltmanagement und -beratung	*	*	-	*	-	-	*	-	*	-
+43 Informatik- und andere IKT-Berufe	27,240	23,177	4,063	26,035	1,190	4,927	17,465	3,026	1,822	173
+431 Informatik	10,520	8,648	1,872	10,085	427	2,090	6,603	1,130	697	65
+4310 Berufe in der Informatik (o.S.)	7,470	6,510	960	7,169	296	1,451	4,726	820	473	47
+4311 Berufe in der Wirtschaftsinformatik	1,563	998	565	1,512	49	266	949	206	142	6
+4312 Berufe in der technischen Informatik	448	370	78	428	19	96	257	49	46	8
+4313 Berufe in der Bio- und Medizininformatik	71	*	*	*	*	*	44	*	*	-
+4314 Berufe in der Geoinformatik	*	*	*	*	*	*	*	*	-	-
+4315 Berufe in der Medieninformatik	939	699	240	885	54	249	606	*	*	4
+4319 Führung - Informatik	*	*	-	*	-	-	*	-	-	-
+432 IT-Systemanalyse,Anwenderber,IT-Vertrieb	3,463	2,862	601	3,330	133	450	2,137	534	342	32
+4321 Berufe in der IT-Systemanalyse	290	242	48	278	12	54	173	39	24	*
+4322 Berufe in der IT-Anwendungsberatung	2,618	2,227	391	2,517	101	306	1,637	419	256	27
+4323 Berufe im IT-Vertrieb	551	389	162	531	20	90	327	72	62	*
+4329 Führung-IT-System,-Anwendung,-Vertrieb	4	4	-	4	-	-	-	4	-	-
+433 IT-Netzwerkt.,-Koord.,-Administr.,-Orga.	7,754	7,012	742	7,517	234	860	5,450	961	483	49
+4331 Berufe in der IT-Netzwerktechnik	337	316	21	317	20	46	217	45	29	7
+4332 Berufe in der IT-Koordination	275	214	61	265	10	42	171	30	32	5
+4333 Berufe in der IT-Organisation	1,084	927	157	1,051	32	117	736	155	76	8
+4334 Berufe in der IT-Systemadministation	5,083	4,777	306	4,948	133	540	3,654	619	270	24
+4335 Berufe Datenbankentwickl., -administr.	339	241	98	325	14	50	215	42	32	-
+4336 Berufe in der Webadministration	235	169	66	224	11	38	167	23	7	-
+4338 IT-Netzwerkt.,-Koord.,-Admin.,-Org.(ssT)	159	143	16	151	8	13	117	15	14	*
+4339 Führung-IT-Netzw.,-Koord.,-Admin.,-Orga.	242	225	17	236	6	14	173	32	23	*
+434 Softwareentwicklung und Programmierung	5,503	4,655	848	5,103	396	1,527	3,275	401	300	27
+4341 Berufe in der Softwareentwicklung	3,241	2,732	509	2,998	241	1,041	1,835	197	168	16
+4342 Berufe in der Programmierung	2,184	1,875	309	2,032	150	478	1,387	191	128	11
+4349 Führung-Softwareentwickl.,Programmierung	78	48	30	73	5	8	53	13	4	-
+51 Verkehr, Logistik (außer Fahrzeugführ.)	715,374	406,617	308,757	646,220	68,572	227,489	281,617	109,716	96,551	6,288
+511 Tech.Betrieb Eisenb.,Luft,Schiffsverkehr	1,748	1,329	419	1,582	164	263	912	296	277	17
+5111 Berufe im technischen Eisenbahnbetrieb	486	365	121	425	61	109	253	*	*	*
+5112 Berufe technischer Luftverkehrsbetrieb	392	*	*	338	54	66	245	*	*	*
+5113 Berufe technisch. Schiffsverkehrsbetrieb	513	446	67	484	29	50	249	102	112	9
+5118 TechBetriebEisenb.Luft,Schiffsverk.(ssT)	353	*	*	*	*	*	*	86	67	4
+5119 Aufsicht-TechBetr.Eisenb.LuftSchiffsverk	4	*	*	*	*	*	*	-	*	-
+512 Überwachung,WartungVerkehrsinfrastruktur	1,879	1,690	189	1,707	167	167	865	315	532	22
+5121 Straßen- und Tunnelwärter/innen	859	779	80	*	*	69	348	167	275	14
+5122 Überwach.,Wartung Eisenbahninfrastruktur	613	552	61	491	117	89	381	75	68	5
+5123 Berufe in der Flugsicherungstechnik	*	*	*	*	-	*	*	*	4	*
+5124 Wasserstraßen- und Brückenwärter/innen	384	*	*	*	*	*	127	*	181	*
+5129 Aufsicht - Überw.,Wart.Verkehrsinfraktur	*	*	-	*	-	*	*	-	4	-
+513 Lagerwirt.,Post,Zustellung,Güterumschlag	697,056	393,971	303,085	629,485	67,004	224,943	272,536	106,426	93,150	6,031
+5131 Berufe in der Lagerwirtschaft	308,077	178,751	129,326	262,591	45,118	74,539	146,267	46,539	40,731	2,945
+5132 Berufe für Post- und Zustelldienste	387,263	213,876	173,387	365,357	21,707	150,130	125,538	59,553	52,042	3,048
+5133 Berufe im Güter- und Warenumschlag	1,103	840	263	962	141	216	531	187	169	17
+5139 Aufsicht,Führung-Lagerw.Zustell.Güterum.	613	504	109	575	38	58	200	147	208	21
+514 Servicekräfte im Personenverkehr	3,006	1,337	1,669	2,763	242	313	1,336	722	635	50
+5141 Servicefachkräfte Straßen-,Schienenverk.	2,202	1,038	1,164	2,077	125	174	844	634	550	42
+5142 Servicefachkräfte im Luftverkehr	730	254	476	*	*	134	453	74	69	*
+5143 Servicefachkräfte im Schiffsverkehr	*	*	*	*	-	*	7	*	7	*
+5149 Aufsicht-Personenverkehr(Servicebereich)	*	*	*	*	*	*	32	*	9	*
+515 Überwachung u. Steuerung Verkehrsbetrieb	3,435	2,852	583	3,250	182	321	1,536	745	833	74
+5150 Berufe Überwachung Verkehrsbetrieb (oS)	479	309	170	452	27	108	222	74	75	8
+5151 Berufe Überwachung Straßenverkehrsbetr.	304	214	90	288	16	28	142	74	60	4
+5152 Berufe Überwachung Eisenbahnverkehrsbetr	316	293	23	289	26	32	156	64	64	7
+5153 Berufe Überwachung Luftverkehrsbetrieb	333	269	64	319	14	54	206	37	36	*
+5154 Berufe Überwachung Schiffsverkehrsbetr.	189	138	51	*	*	5	52	51	81	9
+5158 Berufe Überwachung Verkehrsbetrieb (ssT)	62	57	5	*	*	-	35	13	14	*
+5159 Aufsicht,Führung-Überwach. Verkehrsbetr.	1,752	1,572	180	1,657	94	94	723	432	503	43
+516 Kaufleute - Verkehr und Logistik	8,250	5,438	2,812	7,433	813	1,482	4,432	1,212	1,124	94
+5161 Verkehrskaufleute	47	28	19	44	3	*	29	*	11	-
+5162 Speditions- und Logistikkaufleute	6,856	4,548	2,308	6,125	727	1,345	3,708	924	879	76
+5163 Straßen- und Schienenverkehrskaufleute	774	563	211	720	54	96	414	150	114	13
+5164 Luftverkehrskaufleute	81	49	32	75	6	13	52	*	*	-
+5165 Schifffahrtskaufleute	78	52	26	73	5	9	37	12	20	-
+5166 Kurier-Express-Postdienstleistungskaufl.	308	113	195	293	15	13	136	85	74	*
+5169 Führung-Verkehr,Logistik (kaufm.Bereich)	106	85	21	103	3	*	56	29	*	*
+52 Führer von Fahrzeug- u. Transportgeräten	358,551	307,788	50,763	330,643	27,084	27,348	144,536	86,865	99,801	7,635
+521 Fahrzeugführung im Straßenverkehr	345,444	295,154	50,290	318,020	26,609	25,604	138,594	84,669	96,576	7,350
+5211 Berufskraftfahrer(Personentransport/PKW)	80,206	65,191	15,015	72,854	6,977	2,788	34,508	22,383	20,527	1,579
+5212 Berufskraftfahrer (Güterverkehr/LKW)	75,373	70,659	4,714	70,926	4,379	2,406	32,400	18,072	22,495	1,891
+5213 Bus-, Straßenbahnfahrer/innen	35,150	28,465	6,685	33,600	1,531	398	11,382	10,640	12,730	1,017
+5218 Fahrzeugführer im Straßenverkehr(s.s.T.)	154,715	130,839	23,876	140,640	13,722	20,012	60,304	33,574	40,824	2,863
+522 Fahrzeugführung im Eisenbahnverkehr	370	352	18	363	7	12	227	59	72	7
+5220 Triebfahrzeugführer Eisenbahnverkehr(oS)	370	352	18	363	7	12	227	59	72	7
+523 Fahrzeugführung im Flugverkehr	113	105	8	108	5	8	65	26	14	*
+5231 Piloten und Verkehrsflugzeugführer	72	67	5	*	*	*	43	15	*	-
+5238 Fahrzeugführer im Flugverkehr (s.s.T.)	41	38	3	*	*	*	22	11	*	*
+524 Fahrzeugführung im Schiffsverkehr	810	719	91	781	28	54	282	150	324	18
+5241 Nautische Schiffsoffiziere und Kapitäne	113	96	17	110	3	5	44	17	47	*
+5242 Schiffsführer Binnen-,Hafenverkehr	697	623	74	671	25	49	238	133	277	*
+525 Bau- und Transportgeräteführung	11,814	11,458	356	11,371	435	1,670	5,368	1,961	2,815	259
+5251 Führer land-,forstwirtschaftl. Maschinen	5,631	5,495	136	5,511	117	1,097	3,121	728	685	78
+5252 Führer Erdbewegungs-,verwandte Maschinen	3,086	3,058	28	*	*	154	902	698	1,332	111
+5253 Kranführer, Bediener Hebeeinrichtungen	3,027	2,839	188	*	*	419	1,325	520	763	65
+5259 Aufsicht - Bau-, Transportgeräteführung	70	66	4	*	*	-	20	15	35	5
+53 Schutz-,Sicherheits-, Überwachungsberufe	136,448	96,858	39,590	123,987	12,077	23,603	71,249	20,316	21,280	1,507
+531 Obj.-,Pers.-,Brandschutz,Arbeitssicherh.	133,650	95,346	38,304	121,320	11,949	23,460	69,727	19,659	20,804	1,474
+5311 Berufe im Objekt-,Werte-, Personenschutz	111,963	78,127	33,836	101,162	10,489	19,435	57,320	16,795	18,413	1,291
+5312 Berufe Arbeitssicherh. Sicherheitstech.	8,313	6,987	1,326	7,469	809	1,377	4,936	1,017	983	75
+5313 Berufe im Brandschutz	3,353	3,131	222	3,305	45	280	2,225	560	288	23
+5314 Berufe in der Badeaufsicht	5,326	3,425	1,901	5,140	179	1,909	2,544	482	391	33
+5315 Detektive/Detektivinnen	1,315	1,140	175	1,069	227	144	910	154	107	9
+5316 Inkassobeauftragte	282	144	138	278	4	35	109	66	72	5
+5318 Obj.Pers.Brandschutz,Arbeitssicherh(ssT)	1,117	721	396	1,071	44	67	536	263	251	18
+5319 Aufsicht,Führung-Objekt-,Brandschutz	1,981	1,671	310	1,826	152	213	1,147	322	299	20
+532 Polizei,Kriminald.,Gerichts,Justizvollz.	436	324	112	417	16	24	215	116	81	8
+5321 Berufe im Polizeivollzugsdienst	134	106	28	125	6	15	63	39	17	*
+5322 Berufe im Kriminaldienst	12	7	5	12	-	*	*	5	*	-
+5323 Berufe im Gerichtsvollzug	185	153	32	182	3	*	99	47	*	*
+5324 Berufe im Justizvollzugsdienst	105	58	47	98	7	*	*	25	26	3
+533 Gewerbe,Gesundheitsaufsicht,Desinfektion	2,362	1,188	1,174	2,250	112	119	1,307	541	395	25
+5331 Berufe in der Gewerbeaufsicht	88	67	21	79	9	29	40	*	*	*
+5332 Gesundheitsaufsicht, Hygieneüberwachung	1,107	244	863	1,032	75	41	718	222	126	9
+5333 Berufe in der Lebensmittelkontrolle	649	455	194	642	7	*	254	216	*	11
+5334 Berufe Desinfektion,Schädlingsbekämpfung	490	406	84	476	14	38	278	87	87	*
+5339 Aufsicht,Führung-Gewerbe,Gesundheitsauf.	28	16	12	21	7	*	17	*	6	*
+54 Reinigungsberufe	1,147,422	268,410	879,012	846,717	299,063	83,644	686,998	251,557	125,223	9,573
+541 Reinigung	1,147,422	268,410	879,012	846,717	299,063	83,644	686,998	251,557	125,223	9,573
+5410 Berufe in der Reinigung (o.S.)	1,002,991	204,611	798,380	742,334	259,243	67,537	600,738	224,412	110,304	8,339
+5411 Berufe in der Gebäudereinigung	95,133	31,695	63,438	64,862	30,125	7,649	59,869	18,894	8,721	788
+5412 Berufe in der Glas-, Fensterreinigung	1,575	1,069	506	1,319	250	135	972	285	183	17
+5413 Berufe in der Textilreinigung	10,857	1,168	9,689	9,308	1,523	536	4,897	3,085	2,339	171
+5414 Berufe i.d. Maschinen-, Anlagenreinigung	13,406	10,988	2,418	9,164	4,234	2,367	8,491	1,629	919	62
+5415 Berufe in der Fahrzeugreinigung	20,464	18,025	2,439	17,107	3,319	5,321	10,466	2,427	2,250	160
+5418 Berufe in der Reinigung (s.s.T.)	2,011	394	1,617	1,793	216	70	1,027	592	322	27
+5419 Aufsicht - Reinigung	985	460	525	830	153	29	538	233	185	9
+61 Einkaufs-, Vertriebs- und Handelsberufe	48,122	25,964	22,158	45,892	2,208	4,815	23,061	9,365	10,881	787
+611 Einkauf und Vertrieb	29,902	16,892	13,010	28,244	1,644	3,467	14,020	5,740	6,675	523
+6111 Berufe im Einkauf	2,727	1,393	1,334	2,544	183	271	1,388	506	562	40
+6112 Berufe im Vertrieb (außer IKT)	21,664	11,916	9,748	20,563	1,092	2,363	9,897	4,259	5,145	404
+6113 Handelsmakler/innen u. Auktionator/innen	346	189	157	*	*	*	160	*	97	6
+6114 Kaufleute im Automatenservice	1,558	932	626	1,387	169	97	769	400	292	18
+6115 Berufe im Geld- und Pfandverleih	20	10	10	*	*	*	11	*	4	-
+6116 Berufe im Verleih (außer Geld u. Pfand)	2,417	1,657	760	2,289	127	654	1,190	292	281	19
+6119 Führung - Einkauf und Vertrieb	1,170	795	375	1,110	58	59	605	212	294	36
+612 Handel	6,361	2,897	3,464	6,122	234	738	3,167	1,017	1,439	106
+6120 Kaufleute im Handel (o.S.)	1,039	423	616	987	49	160	508	180	191	*
+6121 Kaufleute im Groß- und Außenhandel	4,750	2,167	2,583	4,591	157	525	2,381	748	1,096	79
+6128 Kaufleute im Handel (s.s.T.)	549	291	258	524	25	53	268	84	144	13
+6129 Führung - Handel	23	16	7	20	3	-	10	5	8	*
+613 Immobilienwirtschaft,Facility-Management	11,859	6,175	5,684	11,526	330	610	5,874	2,608	2,767	158
+6131 Berufe Immobilienvermarktung,-verwaltung	10,798	5,393	5,405	10,539	257	553	5,357	2,355	2,533	138
+6132 Berufe im Facility-Management	941	695	246	871	70	*	457	*	201	*
+6139 Führung-Immobilienwirt., Facility-Manag.	120	87	33	116	3	*	60	*	33	*
+62 Verkaufsberufe	854,994	214,515	640,479	779,506	74,181	260,818	394,961	122,102	77,112	6,443
+621 Verkauf (ohne Produktspezialisierung)	605,344	171,720	433,624	551,388	53,083	194,084	280,190	81,509	49,561	4,158
+6210 Berufe im Verkauf (ohne Produktspezial.)	525,877	145,203	380,674	477,872	47,197	166,842	242,777	72,684	43,574	3,690
+6211 Kassierer/innen, Kartenverkäufer/innen	62,290	19,082	43,208	57,862	4,383	22,310	29,533	6,664	3,783	308
+6212 Verkaufsstand-, Marktverkäufer/innen	4,818	2,502	2,316	4,502	307	830	2,251	897	840	66
+6218 Berufe im Verkauf (o. Produktspez.)(ssT)	8,446	3,301	5,145	7,490	952	3,254	3,814	726	652	48
+6219 Aufsicht und Führung - Verkauf	3,913	1,632	2,281	3,662	244	848	1,815	538	712	46
+622 Verkauf Bekleid.,Elektro,KFZ,Hartwaren	95,032	17,846	77,186	88,225	6,734	22,859	42,586	17,261	12,325	1,034
+6221 Berufe im Verkauf (Bekleid.,Leder,Sport)	55,367	5,791	49,576	50,856	4,472	15,512	23,573	9,794	6,487	591
+6222 Berufe im Verkauf (Schmuck, Uhren)	7,338	325	7,013	6,816	518	1,591	3,447	1,504	796	66
+6223 Berufe im Verkauf (Büro, Geschenk,Spiel)	7,963	1,192	6,771	7,658	300	1,299	3,796	1,761	1,107	75
+6224 Berufe im Verkauf (Elektro,Haushaltsw.)	5,544	1,638	3,906	5,111	423	1,128	2,887	953	576	44
+6225 Berufe im Verkauf (Möbel, Einrichtung)	3,521	1,175	2,346	3,344	175	756	1,473	592	700	59
+6226 Berufe im Verkauf (Garten, Heimwerk.)	5,695	2,187	3,508	5,513	180	799	2,802	1,042	1,052	86
+6227 Berufe im Verkauf (KFZ, Zweirad,Zubehör)	5,025	3,371	1,654	4,618	401	752	2,360	911	1,002	70
+6228 Berufe im Verkauf (ssT)	4,579	2,167	2,412	4,309	265	1,022	2,248	704	605	43
+623 Verkauf von Lebensmitteln	133,830	22,776	111,054	120,373	13,105	39,504	61,642	20,087	12,597	1,041
+6230 Berufe im Verkauf von Lebensmitteln (oS)	44,946	14,014	30,932	38,173	6,542	13,349	22,495	6,221	2,881	224
+6231 Berufe Verkauf Back-, Konditoreiwaren	65,131	5,514	59,617	59,228	5,798	23,822	26,843	8,778	5,688	507
+6232 Berufe im Verkauf von Fleischwaren	16,725	1,153	15,572	16,281	435	836	8,990	3,773	3,126	242
+6238 Berufe Verkauf von Lebensmitteln (s.s.T)	7,028	2,095	4,933	6,691	330	1,497	3,314	1,315	902	68
+624 Verkauf drog.apotheken.Waren,Medizinbed.	17,460	1,615	15,845	16,270	1,182	3,954	8,855	2,550	2,101	171
+6241 Verkauf drogerie-,apothekenübliche Waren	16,279	1,337	14,942	15,109	1,162	3,900	8,274	2,275	1,830	148
+6242 Berufe Verkauf Sanitäts-, Medizinbedarf	1,181	278	903	1,161	20	54	581	275	271	23
+625 Buch-Kunst-Antiquitäten-,Musikfachhandel	3,328	558	2,770	3,250	77	417	1,688	695	528	39
+6251 Berufe im Buchhandel	2,867	403	2,464	2,823	43	356	1,466	608	437	33
+6252 Berufe im Kunst- und Antiquitätenhandel	329	82	247	299	30	39	157	60	73	*
+6253 Berufe im Musikfachhandel	132	73	59	128	4	22	65	27	18	*
+63 Tourismus-, Hotel- und Gaststättenberufe	795,145	257,412	537,733	695,032	97,912	309,004	395,570	58,390	32,180	2,450
+631 Tourismus und Sport	19,651	7,010	12,641	18,650	979	4,069	9,590	2,916	3,076	167
+6311 Tourismuskaufleute	7,419	1,696	5,723	7,023	385	785	4,108	1,287	1,239	86
+6312 Sport-, Fitnesskaufleute, Sportmanager	2,673	1,369	1,304	2,597	74	785	1,513	228	147	*
+6313 Animateur/innen, Gästebetreuer/innen	6,794	2,676	4,118	6,366	422	2,155	2,976	831	832	33
+6314 Reiseleiter/innen, Fremdenführer/innen	2,644	1,213	1,431	2,550	92	338	922	542	842	38
+6319 Führung - Tourismus und Sport	121	56	65	114	6	6	71	28	16	*
+632 Hotellerie	53,309	12,582	40,727	43,871	9,326	11,576	29,306	7,227	5,200	394
+6321 Hotelkaufleute	1,165	355	810	1,091	72	168	636	178	183	18
+6322 Berufe im Hotelservice	50,077	11,789	38,288	40,979	8,999	11,228	27,590	6,632	4,627	345
+6329 Aufsicht und Führung - Hotellerie	2,067	438	1,629	1,801	255	180	1,080	417	390	31
+633 Gastronomie	694,000	223,531	470,469	606,000	85,948	281,165	343,892	46,507	22,435	1,818
+6330 Berufe im Gastronomieservice (o.S.)	665,471	208,855	456,616	582,079	81,396	269,744	329,049	45,145	21,532	1,753
+6331 Berufe in der Systemgastronomie	8,692	4,164	4,528	6,379	2,292	4,675	3,635	261	121	10
+6332 Barkeeper/innen	13,982	8,323	5,659	12,316	1,638	5,365	8,217	273	127	10
+6338 Berufe in der Gastronomie (s.s.T.)	2,943	894	2,049	2,564	377	848	1,425	382	288	17
+6339 Aufsicht und Führung - Gastronomie	2,912	1,295	1,617	2,662	245	533	1,566	446	367	28
+634 Veranstaltungsservice, -management	28,185	14,289	13,896	26,511	1,659	12,194	12,782	1,740	1,469	71
+6340 Berufe im Veranstaltungsservice,-manag.	28,185	14,289	13,896	26,511	1,659	12,194	12,782	1,740	1,469	71
+71 Berufe Unternehmensführung,-organisation	911,733	233,470	678,263	875,449	35,629	112,165	485,739	170,240	143,588	9,206
+711 Geschäftsführung und Vorstand	22,156	16,112	6,044	21,375	765	282	11,971	5,515	4,388	298
+7110 Geschäftsführer/innen und Vorstände	22,156	16,112	6,044	21,375	765	282	11,971	5,515	4,388	298
+712 Angeh. gesetzgeb. Körp., Interessenorg.	7,525	6,228	1,297	7,505	19	32	2,926	2,978	1,589	131
+7121 Angehörige gesetzgebender Körperschaften	5,969	5,015	954	5,960	9	15	2,279	2,439	1,236	102
+7122 Leit. Bedienstete Interessenorganisation	1,419	1,166	253	1,411	7	13	600	490	316	*
+7123 Betriebsinterne Wahlämter	137	47	90	134	3	4	47	49	37	*
+713 Unternehmensorganisation und -strategie	74,197	26,469	47,728	71,735	2,425	6,534	38,784	14,773	14,106	1,165
+7130 Berufe kaufm.,techn.Betriebswirtsch.(oS)	62,476	19,140	43,336	60,469	1,974	5,761	32,729	12,269	11,717	939
+7131 Berufe Unternehmensorganisation,-planung	3,202	1,959	1,243	3,072	129	231	1,645	683	643	44
+7132 Berufe in der Unternehmensberatung	1,832	1,325	507	1,744	87	207	871	351	403	31
+7133 Berufe in der Wirtschaftsförderung	16	6	10	*	*	*	8	4	*	*
+7138 Berufe Unternehmensorga.,strategie (ssT)	287	160	127	*	*	*	125	64	*	*
+7139 Aufsicht,Führung-Unternehmensorg,strateg	6,384	3,879	2,505	6,155	227	305	3,406	1,402	1,271	144
+714 Büro und Sekretariat	801,547	182,541	619,006	768,803	32,145	104,747	428,508	145,769	122,522	7,512
+7140 Büro- und Sekretariatskräfte (o.S.)	784,776	179,427	605,349	753,392	30,801	103,452	419,390	142,144	119,789	7,350
+7141 Fremdsprachensekretäre,-korrespondenten	997	202	795	908	87	42	550	184	221	11
+7142 Dolmetscher/innen und Übersetzer/innen	2,614	890	1,724	1,661	942	362	1,749	271	232	13
+7143 Steno-, Phonotypisten/-typistinnen	9,092	794	8,298	8,898	193	664	4,758	2,204	1,466	83
+7144 Kodierer,Korrekturleser,verw.Bürokräfte	718	229	489	698	20	69	354	132	163	10
+7145 Berufe i.d. Auskunft, Kundeninformation	447	120	327	435	12	85	209	96	57	3
+7149 Aufsicht - Büro und Sekretariat	2,903	879	2,024	2,811	90	73	1,498	738	594	42
+715 Personalwesen und -dienstleistung	6,308	2,120	4,188	6,031	275	570	3,550	1,205	983	100
+7151 Berufe Personalentwickl.,-sachbearbeit.	3,515	757	2,758	3,410	105	260	1,978	710	567	66
+7152 Berufe in der Personaldienstleistung	2,475	1,216	1,259	2,311	163	307	1,379	416	373	29
+7159 Führung - Personalwesen, -dienstleistung	318	147	171	310	7	3	193	79	43	5
+72 Finanzdienstl.Rechnungsw.,Steuerberatung	92,095	22,992	69,103	90,132	1,934	3,154	51,260	19,976	17,705	1,381
+721 Versicherungs- u. Finanzdienstleistungen	14,272	5,825	8,447	13,956	310	957	7,155	3,241	2,919	224
+7211 Bankkaufleute	3,547	1,311	2,236	3,449	98	337	1,717	857	636	62
+7212 Anlageberater u. sonst. Finanzdienstl.	2,743	1,151	1,592	2,661	80	112	1,408	619	604	30
+7213 Versicherungskaufleute	7,603	3,149	4,454	7,482	117	436	3,848	1,701	1,618	128
+7214 Finanzanalysten/innen	214	127	87	204	10	41	121	25	27	-
+7218 Berufe Versicherungs,Finanzdienstl.(ssT)	73	21	52	*	*	27	25	13	8	*
+7219 Führung-Versicherung-,Finanzdienstleist.	92	66	26	*	*	4	36	26	26	*
+722 Rechnungswesen, Controlling und Revision	57,100	12,932	44,168	55,786	1,293	1,386	30,507	13,214	11,993	899
+7221 Berufe in der Buchhaltung	52,482	10,287	42,195	51,303	1,159	1,072	28,037	12,323	11,050	827
+7222 Berufe in Kostenrechnung und Kalkulation	1,162	749	413	1,137	24	56	462	240	404	26
+7223 Berufe im Controlling	2,141	1,229	912	2,055	86	191	1,348	333	269	20
+7224 Berufe in Wirtschaftsprüfung	588	363	225	577	11	64	322	95	107	8
+7229 Führung-Rechnungsw.,Controlling,Revision	727	304	423	714	13	3	338	223	163	18
+723 Steuerberatung	20,723	4,235	16,488	20,390	331	811	13,598	3,521	2,793	258
+7230 Berufe in der Steuerberatung	20,723	4,235	16,488	20,390	331	811	13,598	3,521	2,793	258
+73 Berufe in Recht und Verwaltung	66,751	18,374	48,377	64,698	2,024	7,801	36,325	12,787	9,838	762
+731 Rechtsberatung, -sprechung und -ordnung	15,097	2,859	12,238	14,718	366	1,416	9,967	2,065	1,649	128
+7310 Rechtsberatung, -sprechung,-ordnung(oS)	886	397	489	851	35	172	575	68	71	*
+7311 Assistenz Rechtsanwaltskanzlei,Notariat	11,532	1,040	10,492	11,246	273	1,086	7,645	1,607	1,194	111
+7312 Notare/Notarinnen	199	117	82	*	*	*	120	*	45	*
+7313 Rechtsanwälte/-anwältinnen	1,265	613	652	1,238	27	77	844	171	173	4
+7314 Staatsanwälte/-anwältinnen	*	*	*	*	*	-	*	*	*	-
+7315 Richter/innen	12	*	*	*	*	-	*	*	*	-
+7316 Berufe im Verfassungsschutz	*	*	-	*	-	-	-	-	*	-
+7318 Rechtsberatung,-sprechung,-ordnung (ssT)	1,178	672	506	1,151	27	77	761	179	161	10
+7319 Führung-Rechtsberatung,sprechung,ordnung	19	9	10	19	-	*	12	3	*	-
+732 Verwaltung	45,927	13,870	32,057	44,446	1,467	5,543	23,777	9,528	7,079	569
+7320 Berufe i.d. öffentlichen Verwaltung (oS)	26,592	10,274	16,318	25,653	934	4,052	13,052	5,253	4,235	334
+7321 Berufe Sozialverwaltung, versicherung	818	277	541	778	40	172	428	130	88	13
+7322 Verwalt. Berufe Sozial-,Gesundheitswesen	13,893	1,902	11,991	13,464	421	1,069	8,132	2,919	1,773	143
+7323 Berufe in der Steuerverwaltung	173	67	106	*	*	8	78	42	45	3
+7324 Berufe im Zolldienst	*	*	18	*	-	-	20	*	7	-
+7325 Berufe in der Justizverwaltung	*	*	121	*	*	16	67	*	47	7
+7328 Berufe öffentliche Verwaltung (s.s.T.)	3,616	850	2,766	3,561	54	213	1,714	939	750	58
+7329 Aufsicht und Führung - Verwaltung	645	449	196	635	10	13	286	212	134	11
+733 Medien-Dokumentations-Informationsdienst	5,727	1,645	4,082	5,534	191	842	2,581	1,194	1,110	65
+7331 Berufe im Archivwesen	1,269	586	683	1,247	21	136	435	276	422	21
+7332 Berufe im Bibliothekswesen	2,049	288	1,761	1,972	77	249	849	549	402	28
+7333 Berufe Dokumentations,Informationsdienst	1,264	562	702	1,202	62	288	712	139	125	10
+7334 Berufe i.d. medizinischen Dokumentation	676	148	528	652	23	158	430	57	31	*
+7339 Führung-Medien-Dokument.-,Informationsd.	469	61	408	461	8	11	155	173	130	*
+81 Medizinische Gesundheitsberufe	288,090	48,835	239,255	270,954	16,902	25,398	194,953	43,048	24,691	2,394
+811 Arzt- und Praxishilfe	101,528	5,239	96,289	97,629	3,816	6,936	68,909	16,926	8,757	870
+8110 Medizinische Fachangestellte (o.S.)	70,619	3,803	66,816	68,207	2,360	4,703	46,164	12,990	6,762	663
+8111 Zahnmedizinische Fachangestellte	24,021	845	23,176	22,802	1,197	1,562	18,258	2,779	1,422	156
+8112 Podologen/Podologinnen	2,457	152	2,305	2,307	144	75	1,596	529	257	19
+8113 Orthoptisten/Orthoptistinnen	524	13	511	510	13	11	349	122	42	5
+8114 Tiermedizinische Fachangestellte	3,270	281	2,989	3,205	63	529	2,177	382	182	17
+8118 Medizinische Fachangestellte (s.s.T.)	637	145	492	598	39	56	365	124	92	10
+812 Medizinisches Laboratorium	8,104	1,563	6,541	7,708	396	1,265	4,729	1,315	795	83
+8121 Medizinisch-techn.Berufe im Laboratorium	6,131	1,154	4,977	5,810	321	1,077	3,459	958	637	64
+8122 Medizin-tech. Berufe Funktionsdiagnostik	210	34	176	204	6	18	123	42	27	*
+8123 Medizinisch-technische Berufe Radiologie	1,653	347	1,306	1,587	66	162	1,086	288	117	13
+8124 Medizin.-techn. Berufe Veterinärmedizin	63	9	54	60	3	4	44	10	5	-
+8129 Führung - Medizinisches Laboratorium	47	19	28	47	-	4	17	17	9	*
+813 Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.	104,110	25,902	78,208	96,587	7,441	12,383	69,483	14,789	7,455	942
+8130 Berufe Gesundheits-, Krankenpflege (o.S)	83,543	15,843	67,700	76,604	6,862	10,000	54,448	12,634	6,461	814
+8131 Berufe in der Fachkrankenpflege	5,895	1,110	4,785	5,610	284	156	4,366	933	440	58
+8132 Berufe in der Fachkinderkrankenpflege	514	26	488	500	14	14	427	65	8	*
+8133 Berufe operations-/med.-techn. Assistenz	1,345	535	810	1,286	59	294	887	106	58	8
+8134 Berufe im Rettungsdienst	11,164	8,149	3,015	10,999	162	1,878	8,275	701	310	36
+8135 Berufe Geburtshilfe, Entbindungspflege	491	11	480	479	12	10	363	77	41	*
+8138 Berufe Gesundheits-, Krankenpflege (ssT)	444	52	392	422	22	17	294	89	44	5
+8139 Aufsicht,Führung-Krankenpfl.,Rettungsd.	714	176	538	687	26	14	423	184	93	15
+814 Human- und Zahnmedizin	8,362	4,190	4,172	7,848	510	524	5,069	1,191	1,578	63
+8140 Ärzte/Ärztinnen (o. S.)	4,589	2,225	2,364	4,255	331	431	2,834	595	729	37
+8141 Fachärzte i.d. Kinder- u. Jugendmedizin	168	58	110	162	6	*	90	*	42	4
+8142 Fachärzte/innen in der Inneren Medizin	312	179	133	295	17	*	199	*	66	*
+8143 Fachärzte/innen in der Chirurgie	376	271	105	355	21	17	226	64	69	3
+8144 Fachärzte Hautkr.,Sinnes-Geschlechtsorg.	511	227	284	474	37	11	295	67	138	*
+8145 Fachärzte/-ärztinnen Anästhesiologie	298	154	144	291	7	6	197	72	23	*
+8146 Fachärzte Neurol.,Psychiatr.,Psychother.	230	105	125	217	13	3	135	48	44	*
+8147 Zahnärzte/innen, Kieferorthopäden/innen	1,113	518	595	1,057	55	37	620	130	326	6
+8148 Ärzte/Ärztinnen (s.s.T.)	537	283	254	522	15	9	345	95	88	4
+8149 Führung - Human- und Zahnmedizin	228	170	58	220	8	*	128	*	53	4
+815 Tiermedizin und Tierheilkunde	1,528	533	995	1,484	43	24	1,036	290	178	10
+8150 Tierärzte/-ärztinnen (o.S.)	1,240	458	782	1,205	35	9	835	245	151	7
+8151 Tierärzte/-ärztinnen f. Groß-, Nutztiere	98	49	49	*	*	-	54	*	*	*
+8152 Tierärzte/ärztinnen für Haus-, Heimtiere	119	15	104	*	*	*	95	10	*	*
+8153 Tierheilpraktiker/innen	14	*	*	*	*	*	10	*	-	-
+8158 Berufe Tiermedizin, Tierheilkunde (ssT)	53	8	45	50	3	*	38	*	-	-
+8159 Führung - Tiermedizin und Tierheilkunde	4	*	*	4	-	-	4	-	-	-
+816 Psychologie, nichtärztl. Psychotherapie	2,385	594	1,791	2,302	83	315	1,518	334	218	25
+8161 Berufe i.d. nicht klinischen Psychologie	307	98	209	294	13	70	163	47	27	4
+8162 Berufe in der klinischen Psychologie	1,370	296	1,074	1,327	43	215	889	153	113	14
+8163 Berufe nicht ärztliche Psychotherapie	708	200	508	681	27	30	466	134	78	7
+817 Nicht ärztliche Therapie und Heilkunde	46,243	8,542	37,701	42,000	4,189	3,264	34,243	6,062	2,674	236
+8171 Berufe in der Physiotherapie	33,767	6,134	27,633	29,828	3,891	2,086	25,199	4,574	1,908	169
+8172 Berufe in der Ergotherapie	5,166	582	4,584	5,068	93	348	3,784	671	363	38
+8173 Berufe in der Sprachtherapie	2,571	127	2,444	2,525	46	230	2,092	172	77	5
+8174 Berufe in der Musik-, Kunsttherapie	388	64	324	*	*	*	220	99	*	3
+8175 Berufe in der Heilkunde und Homöopathie	935	195	740	910	24	75	647	142	71	*
+8176 Berufe i.d. Diät- und Ernährungstherapie	474	25	449	457	17	*	357	63	*	3
+8178 Berufe nichtärztl. Therapie,Heilk.(ssT)	2,884	1,404	1,480	2,784	100	500	1,898	334	152	15
+8179 Führung - Nichtärztl. Therapie,Heilkunde	58	11	47	*	*	*	46	7	*	*
+818 Pharmazie	15,830	2,272	13,558	15,396	424	687	9,966	2,141	3,036	165
+8180 Apotheker, Pharmazeuten	6,668	1,712	4,956	6,521	146	56	3,467	951	2,194	79
+8181 Fachärzte/innen in der Pharmakologie	3	*	*	3	-	-	*	*	-	-
+8182 Berufe pharmazeutisch-techn. Assistenz	8,793	419	8,374	8,513	271	603	6,305	1,131	754	83
+8188 Berufe in der Pharmazie (s.s.T.)	283	118	165	276	7	*	150	*	61	3
+8189 Führung - Pharmazie	83	*	*	83	-	*	*	*	27	-
+82 Nichtmed.Gesundheit,Körperpfl.,Medizint.	147,326	31,870	115,456	132,007	15,022	12,840	88,645	25,048	20,793	1,578
+821 Altenpflege	62,049	10,384	51,665	55,578	6,424	6,079	36,225	12,329	7,416	768
+8210 Berufe in der Altenpflege (o.S.)	61,307	10,224	51,083	54,888	6,372	6,057	35,831	12,134	7,285	757
+8218 Berufe in der Altenpflege (s.s.T.)	570	99	471	523	47	*	314	144	*	5
+8219 Führung - Altenpflege	172	61	111	167	5	*	80	51	*	6
+822 Ernährungs-,Gesundheitsberatung,Wellness	3,699	756	2,943	3,399	298	566	2,481	450	202	20
+8221 Berufe in der Gesundheitsberatung	754	188	566	729	25	108	489	98	59	9
+8222 Wellnessberufe	1,989	406	1,583	1,733	254	398	1,330	187	74	4
+8223 Berufe in der Ernährungsberatung	586	70	516	573	13	37	405	100	44	4
+8224 Qualitätsbeauftragte im Gesundheitswesen	222	74	148	*	*	5	152	46	19	*
+8228 Ernährungs,Gesundheitsber.,Wellness(ssT)	148	18	130	*	*	18	105	19	6	*
+823 Körperpflege	56,639	5,246	51,393	48,664	7,743	4,690	38,533	7,730	5,686	431
+8231 Berufe im Friseurgewerbe	41,076	4,140	36,936	35,756	5,131	2,434	27,819	6,203	4,620	367
+8232 Berufe in der Kosmetik	13,391	587	12,804	10,881	2,470	2,158	9,530	1,227	476	39
+8233 Tätowierer/innen und Piercer/innen	339	153	186	291	46	60	261	*	*	-
+8234 Berufe in der Maskenbildnerei	124	13	111	119	5	21	70	*	*	*
+8239 Aufsicht - Körperpflege	1,709	353	1,356	1,617	91	17	853	270	569	*
+824 Bestattungswesen	12,133	10,680	1,453	11,953	175	518	3,899	2,331	5,385	191
+8240 Berufe im Bestattungswesen	12,024	10,597	1,427	11,844	175	514	3,860	2,315	5,335	*
+8249 Aufsicht und Führung - Bestattungswesen	109	83	26	109	-	4	39	16	50	*
+825 Medizin-, Orthopädie- und Rehatechnik	12,806	4,804	8,002	12,413	382	987	7,507	2,208	2,104	168
+8250 Medizintechnik (o.S.)	447	324	123	437	10	61	222	74	90	6
+8251 Berufe in der Orthopädie-, Rehatechnik	770	543	227	746	23	62	386	135	187	19
+8252 Berufe in der Augenoptik	4,448	858	3,590	4,369	76	491	2,991	484	482	34
+8253 Berufe in der Hörgeräteakustik	454	112	342	446	8	48	301	66	39	*
+8254 Berufe in der Zahntechnik	5,798	2,514	3,284	5,538	253	312	3,099	1,323	1,064	102
+8259 Aufsicht,Führung-Med-Orthopäd,Rehatechn.	889	453	436	877	12	13	508	126	242	*
+83 Erziehung,soz.,hauswirt.Berufe,Theologie	206,916	36,285	170,631	194,120	12,671	22,841	107,864	47,921	28,290	2,339
+831 Erziehung,Sozialarb.,Heilerziehungspfl.	125,081	21,593	103,488	119,123	5,900	18,237	68,946	26,065	11,833	1,223
+8311 Berufe i.d. Kinderbetreuung, -erziehung	76,052	10,223	65,829	72,161	3,847	11,775	42,204	15,606	6,467	685
+8312 Berufe i.d. Sozialarbeit,Sozialpädagogik	22,198	4,950	17,248	21,360	830	2,182	12,453	5,203	2,360	243
+8313 Berufe Heilerziehungspflege, Sonderpäd.	14,637	3,708	10,929	14,108	529	3,017	8,249	2,193	1,178	130
+8314 Berufe in der Haus- und Familienpflege	10,277	2,106	8,171	9,681	590	1,161	5,055	2,550	1,511	138
+8315 Berufe Sozial-,Erziehungs-,Suchtberatung	1,110	348	762	1,034	76	81	595	258	176	13
+8319 Aufsicht,Führung-Erziehung,Sozialarbeit	807	258	549	779	28	21	390	255	141	14
+832 Hauswirtschaft und Verbraucherberatung	58,520	6,451	52,069	52,244	6,214	3,852	31,246	15,656	7,766	737
+8321 Berufe in der Hauswirtschaft	57,434	6,278	51,156	51,201	6,171	3,833	30,737	15,322	7,542	720
+8322 Berufe in der Verbraucherberatung	111	39	72	*	*	6	55	35	15	-
+8329 Aufsicht-Hauswirtschaft,Verbraucherber.	975	134	841	*	*	13	454	299	209	17
+833 Theologie und Gemeindearbeit	23,315	8,241	15,074	22,753	557	752	7,672	6,200	8,691	379
+8331 Berufe in der Theologie	1,000	640	360	876	123	43	407	242	308	12
+8332 Berufe in der Gemeindearbeit	3,642	1,669	1,973	3,530	111	126	1,160	971	1,385	69
+8333 Angehörige geistl. Orden, Mutterhäuser	83	17	66	68	14	*	37	*	*	-
+8338 Berufe in Theologie,Gemeindearbeit (ssT)	18,578	5,908	12,670	18,270	306	568	6,062	4,969	6,979	298
+8339 Führung - Theologie und Gemeindearbeit	12	7	5	9	3	*	6	*	*	-
+84 Lehrende und ausbildende Berufe	179,474	90,733	88,741	168,249	11,172	62,751	96,049	13,166	7,507	592
+841 Lehrtätigkeit an allgemeinbild. Schulen	14,899	3,801	11,098	13,911	977	2,487	7,830	3,014	1,568	145
+8411 Lehrkräfte in der Primarstufe	1,088	216	872	1,013	75	171	585	183	149	20
+8412 Lehrkräfte in der Sekundarstufe	5,192	1,613	3,579	4,787	403	352	2,838	1,272	730	79
+8413 Lehrkräfte an Sonderschulen	551	164	387	515	36	42	276	130	103	6
+8414 Berufe in der Lehrerausbildung	1,004	227	777	954	50	268	524	151	61	*
+8418 Lehrkräfte allgemeinbild. Schulen (ssT)	6,988	1,536	5,452	6,569	410	1,654	3,577	1,245	512	35
+8419 Führung - Allgemeinbildende Schulen	76	45	31	73	3	-	30	33	13	*
+842 Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd	6,388	3,173	3,215	6,168	218	810	3,391	1,273	914	104
+8421 Lehrkräfte für berufsbildende Fächer	4,072	1,689	2,383	3,928	144	657	2,210	761	444	55
+8422 Berufe betriebl. Ausbildung, Berufspäd.	2,140	1,389	751	2,067	71	148	1,098	467	427	43
+8429 Führung - BBS, betriebl.Ausb., Betr.päd.	176	95	81	173	3	5	83	45	43	6
+843 Lehr-,Forschungstätigkeit an Hochschulen	80,262	42,237	38,025	74,128	6,129	43,625	35,638	539	460	26
+8430 Berufe i. d. Hochschullehre, -forschung	80,185	42,184	38,001	74,056	6,124	43,611	35,597	528	449	26
+8439 Führung - Hochschullehre und -forschung	77	53	24	72	5	14	41	11	11	-
+844 Lehrtätigk. außerschul.Bildungseinricht.	18,161	8,492	9,669	16,667	1,488	6,443	8,991	1,780	947	95
+8440 Berufe in der Erwachsenenbildung (o.S.)	13,062	6,525	6,537	12,111	948	6,143	5,786	689	444	50
+8441 Berufe in der Musikpädagogik	2,382	1,069	1,313	2,175	207	102	1,528	555	197	16
+8442 Berufe in der Religionspädagogik	356	61	295	346	10	*	222	90	*	*
+8443 Berufe in der Kunst-, Theaterpädagogik	134	28	106	127	7	22	78	*	*	-
+8444 Berufe im IT-Anwendungstraining	206	134	72	201	4	*	123	*	24	*
+8445 (Fremd-)Sprachenlehrer/innen	941	149	792	660	280	62	620	173	86	9
+8448 Lehrkräfte außerschul.Bild.einrich.(ssT)	918	457	461	892	25	88	555	159	116	15
+8449 Führung-Außerschul.Bildungseinrichtungen	162	69	93	155	7	*	79	50	*	*
+845 Fahr-,Sportunterricht außerschul. Bild.	59,764	33,030	26,734	57,375	2,360	9,386	40,199	6,560	3,618	222
+8450 Sportlehrer/innen (o.S.)	17,215	9,325	7,890	16,460	749	2,393	11,696	2,090	1,036	60
+8451 Fahrlehrer/innen	6,830	6,210	620	6,706	118	81	3,508	1,621	1,620	106
+8452 Fluglehrer/innen	87	82	5	81	6	10	40	20	17	-
+8453 Tanzlehrer/innen	2,703	767	1,936	2,555	147	946	1,546	145	66	-
+8454 Trainer/innen - Ballsportarten	6,544	6,249	295	6,202	338	577	5,342	494	131	11
+8455 Trainer/innen - Fitness und Gymnastik	21,100	8,140	12,960	20,293	799	3,794	15,117	1,713	476	24
+8458 Sportlehrer/innen (s.s.T.)	5,285	2,257	3,028	5,078	203	1,585	2,950	477	272	21
+91 Geistes-Gesellschafts-Wirtschaftswissen.	14,117	4,184	9,933	13,272	841	3,266	7,885	2,009	957	68
+911 Sprach-, Literaturwissenschaften	212	65	147	184	28	35	124	31	22	*
+9110 Berufe in Sprach-, Literaturwissen.(oS)	132	35	97	118	14	21	73	21	17	*
+9111 Berufe in der Germanistik	22	9	13	17	5	5	14	*	*	-
+9112 Berufe in der Anglistik, Amerikanistik	10	*	*	*	*	*	3	3	*	-
+9113 Berufe in der Romanistik	7	3	4	*	*	*	4	*	*	-
+9114 Berufe i.d. Slawistik, verw. Bereichen	7	*	*	*	*	4	3	-	-	-
+9115 Berufe in der Arabistik, Orientalistik	*	*	*	-	*	-	*	-	-	-
+9116 Berufe Sprach-, Literaturwis. asiat.Raum	8	*	*	8	-	*	*	-	*	-
+9117 Berufe in der Altphilologie	*	*	-	*	-	-	*	-	-	-
+9118 Berufe Sprach-,Literaturwissensch. (ssT)	21	10	11	*	*	*	16	*	-	-
+912 Geisteswissenschaften	518	227	291	472	46	123	297	45	53	-
+9121 Berufe in Philosophie, Religion, Ethik	125	46	79	106	19	27	79	11	8	-
+9122 Berufe in Geschichtswissenschaften	135	73	62	128	7	23	60	19	33	-
+9123 Berufe in der Archäologie	103	46	57	95	8	20	70	7	6	-
+9124 Berufe in Medien-, Theaterwissenschaft	115	51	64	108	7	50	59	3	3	-
+9125 Berufe in der Regionalwissenschaft	23	6	17	18	5	*	20	-	*	-
+9126 Berufe in der Anthropologie, Ethnologie	17	5	12	17	-	*	9	5	*	-
+913 Gesellschaftswissenschaften	13,039	3,670	9,369	12,289	746	3,012	7,311	1,889	827	64
+9131 Berufe in der Politologie	260	163	97	247	12	46	177	14	23	*
+9132 Berufe in der Soziologie	188	68	120	179	9	65	100	13	10	*
+9133 Berufe in der Erziehungswissenschaft	8,304	1,660	6,644	7,958	346	989	5,220	1,558	537	48
+9134 Berufe in der Markt-, Meinungsforschung	4,236	1,766	2,470	3,858	375	1,901	1,786	296	253	13
+9135 Berufe in der Demografie	*	-	*	*	-	-	-	-	*	-
+9138 Berufe Gesellschaftswissenschaften (ssT)	*	13	*	*	4	11	28	8	*	-
+914 Wirtschaftswissenschaften	348	222	126	327	21	96	153	44	55	3
+9140 Berufe in Wirtschaftswissenschaften (oS)	310	204	106	*	*	90	136	37	47	*
+9148 Berufe in Wirtschaftswissenschaften(ssT)	38	18	20	*	*	6	17	7	8	*
+92 Werbung,Marketing,kaufm,red.Medienberufe	33,381	12,920	20,461	31,615	1,746	7,949	18,266	3,916	3,250	246
+921 Werbung und Marketing	24,193	9,186	15,007	22,811	1,363	5,862	13,335	2,831	2,165	176
+9211 Berufe in Werbung und Marketing	11,818	4,862	6,956	11,163	648	2,621	7,118	1,153	926	76
+9212 Berufe im Dialogmarketing	8,811	2,739	6,072	8,310	493	2,550	4,286	1,182	793	72
+9213 Berufe im Kundenmanagement	3,420	1,514	1,906	3,198	218	685	1,826	478	431	*
+9219 Führung - Werbung und Marketing	144	71	73	140	4	6	105	18	15	*
+922 Öffentlichkeitsarbeit	1,735	718	1,017	1,660	75	380	966	171	218	16
+9220 Berufe in der Öffentlichkeitsarbeit	1,711	710	1,001	1,636	75	*	950	*	*	16
+9229 Führung - Öffentlichkeitsarbeit	24	8	16	24	-	*	16	*	*	-
+923 Verlags- und Medienwirtschaft	2,447	872	1,575	2,339	108	439	1,248	382	378	25
+9230 Verlags- und Medienkaufleute (o.S.)	1,812	632	1,180	1,746	66	401	928	245	238	14
+9238 Verlags- und Medienkaufleute (s.s.T.)	583	205	378	544	39	33	302	123	125	8
+9239 Führung - Verlags- und Medienwirtschaft	52	35	17	49	3	5	18	14	15	3
+924 Redaktion und Journalismus	5,006	2,144	2,862	4,805	200	1,268	2,717	532	489	29
+9241 Redakteure/innen, Journalisten/innen	4,486	1,978	2,508	4,301	184	1,230	2,424	444	388	24
+9242 Lektoren/innen	413	117	296	400	13	30	234	68	81	5
+9243 Autoren/Autorinnen, Schriftsteller/innen	76	36	40	73	3	8	39	15	14	-
+9249 Führung - Redaktion und Journalismus	31	13	18	31	-	-	20	5	6	-
+93 Produktdesign, Kunsthandwerk	9,544	4,052	5,492	8,955	585	999	4,872	1,676	1,997	112
+931 Produkt- und Industriedesign	546	251	295	473	73	143	327	34	42	3
+9310 Berufe im Produkt- und Industriedesign	546	251	295	473	73	143	327	34	42	3
+932 Innenarchitektur, Raumausstattung	4,522	1,873	2,649	4,330	192	447	2,342	763	970	50
+9321 Berufe in der Innenarchitektur	518	177	341	489	29	*	313	*	67	4
+9322 Berufe im visuellen Marketing	1,101	443	658	1,063	38	144	594	163	200	8
+9323 Berufe in der Raumausstattung	2,799	1,187	1,612	2,674	125	242	1,401	503	653	34
+9329 Aufsicht-Innenarchitektur,Raumausstatt.	104	66	38	104	-	*	34	*	50	4
+933 Kunsthandwerk und bildende Kunst	1,796	666	1,130	1,624	170	204	891	375	326	23
+9330 Berufe Kunsthandwerk, bildend.Kunst (oS)	563	225	338	477	85	94	297	102	70	7
+9331 Berufe in der Bildhauerei	117	58	59	106	11	*	56	*	29	3
+9332 Kunstmaler/innen, Zeichner/innen	172	87	85	*	*	32	93	26	21	*
+9333 Berufe Drechslerei, Spielzeugherstellung	274	99	175	260	14	23	108	69	74	4
+9334 Berufe im Vergolderhandwerk	31	11	20	*	*	*	18	*	*	*
+9335 Berufe in der Wachszieherei	131	25	106	124	7	9	68	27	27	*
+9338 Berufe Kunsthandwerk, bild. Kunst (ssT)	416	125	291	374	41	17	216	101	82	5
+9339 Aufsicht - Kunsthandwerk,bildende Kunst	92	36	56	*	*	21	35	*	*	-
+934 Kunsthandwerkl. Keramik-, Glasgestaltung	420	151	269	395	25	21	208	84	107	4
+9341 Berufe kunsthandwerkl. Keramikgestaltung	218	76	142	200	18	13	121	40	44	*
+9342 Berufe kunsthand.GlasKeram,Porzellanmal.	118	20	98	*	*	*	58	25	*	*
+9343 Berufe kunsthandwerkliche Glasbläserei	69	47	22	*	*	*	19	*	31	*
+9349 Aufsicht-Kunsthandw.Keramik,Glasgestalt.	15	8	7	*	*	-	10	*	*	-
+935 Kunsthandwerkliche Metallgestaltung	1,846	818	1,028	1,742	102	136	936	351	423	19
+9351 Berufe kunsthandwerkl. Metallgestaltung	*	30	*	*	-	*	14	*	10	*
+9352 Kunsthandw.Schmuckherst.,Edelsteinbearb.	1,118	394	724	1,029	88	67	626	202	223	8
+9353 Berufe in der Gravur	208	125	83	*	*	11	67	56	74	5
+9354 Berufe Schilder-,Lichtreklameherstellung	410	226	184	400	9	54	203	75	78	3
+9359 Aufsicht-Kunsthandwerkl.Metallgestaltung	*	43	*	*	*	*	26	*	38	*
+936 Musikinstrumentenbau	414	293	121	391	23	48	168	69	129	13
+9360 Berufe im Musikinstrumentenbau (o.S.)	74	50	24	71	3	6	27	11	30	3
+9361 Berufe im Streich-, Zupfinstrumentenbau	73	48	25	68	5	13	36	7	17	*
+9362 Berufe im Holzblasinstrumentenbau	34	*	*	30	4	*	20	6	*	-
+9363 Berufe im Metallblasinstrumentenbau	10	*	*	*	*	*	*	*	*	-
+9364 Berufe im Klavier- und Cembalobau	70	55	15	*	*	6	25	18	21	6
+9365 Berufe im Orgel- und Harmoniumbau	97	75	22	90	7	15	34	13	35	*
+9368 Berufe im Musikinstrumentenbau (s.s.T.)	36	14	22	36	-	3	18	8	7	-
+9369 Aufsicht - Musikinstrumentenbau	20	*	*	*	*	-	*	*	11	-
+94 Darstellende, unterhaltende Berufe	49,456	34,956	14,500	46,157	3,278	15,890	24,213	4,672	4,681	211
+941 Musik-, Gesang-, Dirigententätigkeiten	12,673	7,216	5,457	12,100	572	697	6,460	2,700	2,816	115
+9411 Musiker/innen	9,860	5,652	4,208	9,461	398	476	4,818	2,128	2,438	90
+9412 Sänger/innen	518	245	273	442	76	139	298	46	35	-
+9413 Dirigenten/Dirigentinnen	2,188	1,257	931	2,114	74	59	1,279	516	334	*
+9414 Komponisten/Komponistinnen	23	15	8	*	*	4	12	3	4	*
+9418 Musik-,Gesangs-, Dirigententätigk. (ssT)	84	47	37	*	*	19	53	7	5	-
+942 Schauspiel, Tanz und Bewegungskunst	18,783	15,674	3,109	17,146	1,633	10,011	7,987	397	388	17
+9421 Schauspieler/innen	783	389	394	752	31	219	402	85	77	5
+9422 Tänzer/innen, Choreografen/innen	615	220	395	455	160	357	243	*	*	-
+9423 Mannequins, Dressmen, sonstige Models	502	95	407	479	22	*	260	89	*	*
+9424 Athleten, Berufssportler	14,854	14,000	854	13,562	1,289	8,482	6,304	43	25	*
+9425 Berufe personenbezog. Dienstleistungen	27	4	23	21	6	*	18	*	5	-
+9428 BerufeSchauspielTanz,Bewegungskunst(ssT)	2,002	966	1,036	1,877	125	851	760	169	222	8
+943 Moderation und Unterhaltung	3,901	2,411	1,490	3,549	340	984	2,419	311	187	12
+9430 Berufe in Moderation, Unterhaltung (oS)	303	179	124	287	16	82	170	30	21	-
+9431 Komiker/innen, Kabarettisten/innen	16	8	8	*	*	*	9	*	*	-
+9432 Zauberer/innen, Illusionisten/innen	16	11	5	*	*	*	10	*	*	-
+9433 Hörfunk-, Fernsehmoderatoren/innen	112	58	54	107	5	22	72	4	14	-
+9434 Berufe im Bereich Glücks- und Wettspiel	2,369	1,196	1,173	2,100	258	679	1,387	193	110	*
+9438 Berufe in Moderation, Unterhaltung (ssT)	1,085	959	126	1,026	58	196	771	80	38	*
+944 Theater-, Film- und Fernsehproduktion	1,366	713	653	1,276	89	500	704	83	79	3
+9440 Berufe Theater-,Film-,Fernsehproduk.(oS)	815	471	344	748	66	330	402	49	34	*
+9441 Berufe in der Regie	330	137	193	318	12	138	169	11	12	*
+9448 Berufe Theater-,Film-, Fernsehprod.(ssT)	76	22	54	72	4	15	45	6	10	-
+9449 Aufsicht,Führung-TheaterFilm,Fernsehprod	145	83	62	138	7	17	88	17	23	*
+945 Veranstaltungs-, Kamera-, Tontechnik	9,214	7,379	1,835	8,771	442	2,990	5,110	603	511	23
+9451 Berufe Veranstaltungs- und Bühnentechnik	6,306	5,042	1,264	5,978	328	2,185	3,387	380	354	13
+9452 Berufe in der Kameratechnik	1,648	1,327	321	1,580	67	520	937	114	77	5
+9453 Berufe in der Bild- und Tontechnik	825	660	165	786	39	228	486	61	50	*
+9458 Berufe Veranstalt.-Kamera-,Tontech.(ssT)	320	278	42	*	*	43	236	24	17	*
+9459 Aufsicht-Veranstaltungs-Kamera-,Tontech.	115	72	43	*	*	14	64	24	13	*
+946 Bühnen- und Kostümbildnerei, Requisite	845	246	599	803	42	180	430	129	106	10
+9461 Berufe i.d. Bühnen- und Kostümbildnerei	282	*	*	266	16	77	145	21	39	3
+9462 Berufe in der Requisite	548	*	*	522	26	97	279	105	67	7
+9469 Aufsicht-Bühnen-,Kostümbildn.,Requisite	15	*	*	15	-	6	6	3	-	-
+947 Museumstechnik und -management	2,674	1,317	1,357	2,512	160	528	1,103	449	594	31
+9470 Museumsberufe (o.S.)	1,431	599	832	1,370	61	253	532	266	380	17
+9471 Berufe Museums- und Ausstellungstechnik	477	224	253	463	14	75	163	99	140	7
+9472 Kunstsachverständige	106	40	66	95	11	15	54	20	17	3
+9479 Führung - Museum	660	454	206	584	74	185	354	64	57	4

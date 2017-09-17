@@ -28,3 +28,6 @@ dd Kinder
 dd1 Kinder
 dd11 Kinder <1 Jahr	740000
 dd12 Kinder zwischen 1 und 6 Jahren	3590000
+ee Arbeitslose
+ee1 Arbeitslose
+ee11 Arbeitslose	2600000
