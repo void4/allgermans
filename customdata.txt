@@ -1,0 +1,11 @@
+00 Beamte	4690000	152,409	57,287	177,729	31,891	36,223	136,509	35,300	1,664	355	17,549	12,508	5,041
+001 Bundesbereich	0
+0011 Bundesbeamte	180000
+0012 Berufs- und Zeitsoldaten	163800
+002 Landesbereich	0
+0021 Landesbeamte	2364100
+003 Kommunaler Bereich	0
+0031 Kommunalbeamte	186100
+aa Selbstständige	0
+aaa Selbständige	0
+aaaa Selbstständige	4300000
