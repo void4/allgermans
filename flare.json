@@ -1,0 +1,3673 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 104609,
+                            "name": "1110 Berufe in der Landwirtschaft (o.S.)"
+                        },
+                        {
+                            "size": 1650,
+                            "name": "1111 Berufe in der Landtechnik"
+                        },
+                        {
+                            "size": 1324,
+                            "name": "1112 Landwirtschaftliche Sachverst\u00e4ndige"
+                        },
+                        {
+                            "size": 3538,
+                            "name": "1113 Berufe landwirtsch.-techn. Laboratorium"
+                        },
+                        {
+                            "size": 2953,
+                            "name": "1118 Berufe in der Landwirtschaft (s.s.T.)"
+                        },
+                        {
+                            "size": 3918,
+                            "name": "1119 Aufsicht und F\u00fchrung - Landwirtschaft"
+                        }
+                    ],
+                    "name": "111 Landwirtschaft"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 16791,
+                            "name": "1121 Berufe in der Nutztierhaltung"
+                        },
+                        {
+                            "size": 1768,
+                            "name": "1122 Berufe in der Gefl\u00fcgelhaltung"
+                        },
+                        {
+                            "size": 135,
+                            "name": "1123 Berufe in der Imkerei"
+                        },
+                        {
+                            "size": 774,
+                            "name": "1128 Berufe in der Tierwirtschaft (s.s.T.)"
+                        },
+                        {
+                            "size": 927,
+                            "name": "1129 Aufsicht und F\u00fchrung - Tierwirtschaft"
+                        }
+                    ],
+                    "name": "112 Tierwirtschaft"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 7798,
+                            "name": "1130 Berufe in der Pferdewirtschaft (o.S.)"
+                        },
+                        {
+                            "size": 548,
+                            "name": "1131 Berufe i.d. Pferdewirtschaft-Pferdezucht"
+                        },
+                        {
+                            "size": 1930,
+                            "name": "1132 Berufe in der Pferdewirtschaft - Reiten"
+                        },
+                        {
+                            "size": 467,
+                            "name": "1133 Hufbeschlagschmiede/-schmiedinnen"
+                        },
+                        {
+                            "size": 268,
+                            "name": "1134 Kutscher/innen"
+                        },
+                        {
+                            "size": 342,
+                            "name": "1139 Aufsicht und F\u00fchrung - Pferdewirtschaft"
+                        }
+                    ],
+                    "name": "113 Pferdewirtschaft"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 804,
+                            "name": "1140 Berufe in der Fischwirtschaft (o.S.)"
+                        },
+                        {
+                            "size": 422,
+                            "name": "1141 Berufe in der Fischzucht"
+                        },
+                        {
+                            "size": 640,
+                            "name": "1142 Berufe in der Fischerei"
+                        },
+                        {
+                            "size": 109,
+                            "name": "1149 Aufsicht und F\u00fchrung - Fischwirtschaft"
+                        }
+                    ],
+                    "name": "114 Fischwirtschaft"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 12672,
+                            "name": "1150 Berufe in der Tierpflege (o.S.)"
+                        },
+                        {
+                            "size": 1563,
+                            "name": "1151 Berufe in der Nutztierpflege"
+                        },
+                        {
+                            "size": 4961,
+                            "name": "1152 Berufe in der Haus-, Zootierpflege"
+                        },
+                        {
+                            "size": 2237,
+                            "name": "1158 Berufe in der Tierpflege (s.s.T.)"
+                        },
+                        {
+                            "size": 333,
+                            "name": "1159 Aufsicht und F\u00fchrung - Tierpflege"
+                        }
+                    ],
+                    "name": "115 Tierpflege"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 2701,
+                            "name": "1160 Berufe im Weinbau"
+                        },
+                        {
+                            "size": 243,
+                            "name": "1169 Aufsicht und F\u00fchrung - Weinbau"
+                        }
+                    ],
+                    "name": "116 Weinbau"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 24423,
+                            "name": "1171 Berufe in der Forstwirtschaft"
+                        },
+                        {
+                            "size": 5070,
+                            "name": "1172 Berufe in der Natur-, Landschaftspflege"
+                        },
+                        {
+                            "size": 383,
+                            "name": "1173 Berufe in der Jagdwirtschaft, Wildhege"
+                        },
+                        {
+                            "size": 33,
+                            "name": "1174 Sammeln von Pflanzen, Naturprodukten"
+                        },
+                        {
+                            "size": 3362,
+                            "name": "1179 Aufsicht,F\u00fchrung-Forst,Landschaftspflege"
+                        }
+                    ],
+                    "name": "117 Forst-,Jagdwirtschaft, Landschaftspflege"
+                }
+            ],
+            "name": "11 Land-, Tier-, Forstwirtschaftsberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 124531,
+                            "name": "1210 Berufe im Gartenbau (o.S.)"
+                        },
+                        {
+                            "size": 2538,
+                            "name": "1211 Berufe im Obst-, Gem\u00fcsebau"
+                        },
+                        {
+                            "size": 9834,
+                            "name": "1212 Berufe BaumschuleStauden,Zierpflanzenbau"
+                        },
+                        {
+                            "size": 3779,
+                            "name": "1213 Berufe in der Friedhofsg\u00e4rtnerei"
+                        },
+                        {
+                            "size": 64483,
+                            "name": "1214 Berufe Garten-,Landschafts,Sportplatzbau"
+                        },
+                        {
+                            "size": 5478,
+                            "name": "1219 Aufsicht und F\u00fchrung - Gartenbau"
+                        }
+                    ],
+                    "name": "121 Gartenbau"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 32711,
+                            "name": "1220 Berufe in der Floristik"
+                        },
+                        {
+                            "size": 649,
+                            "name": "1229 Aufsicht und F\u00fchrung - Floristik"
+                        }
+                    ],
+                    "name": "122 Floristik"
+                }
+            ],
+            "name": "12 Gartenbauberufe, Floristik"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 20283,
+                            "name": "2111 Berufe im Berg- und Tagebau"
+                        },
+                        {
+                            "size": 1579,
+                            "name": "2112 Berufe in der Sprengtechnik"
+                        },
+                        {
+                            "size": 3027,
+                            "name": "2119 Aufsicht,F\u00fchrung-Bergbau,Sprengtechn."
+                        }
+                    ],
+                    "name": "211 Berg-, Tagebau und Sprengtechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 9051,
+                            "name": "2120 Naturstein,Mineral,Baustoffherstell(o.S)"
+                        },
+                        {
+                            "size": 9411,
+                            "name": "2121 Berufe Naturstein-,Mineralaufbereitung"
+                        },
+                        {
+                            "size": 20341,
+                            "name": "2122 Berufe in der Baustoffherstellung"
+                        },
+                        {
+                            "size": 8183,
+                            "name": "2123 Berufe in der Steinmetztechnik"
+                        },
+                        {
+                            "size": 1310,
+                            "name": "2129 Aufsicht-Naturstein,Mineral,Baustoffher."
+                        }
+                    ],
+                    "name": "212 Naturstein-,Mineral-,Baustoffherstell."
+                },
+                {
+                    "children": [
+                        {
+                            "size": 17746,
+                            "name": "2131 Berufe in der Glasherstellung"
+                        },
+                        {
+                            "size": 392,
+                            "name": "2132 Berufe im Glasapparatebau"
+                        },
+                        {
+                            "size": 304,
+                            "name": "2133 Berufe in der industriellen Glasbl\u00e4serei"
+                        },
+                        {
+                            "size": 11552,
+                            "name": "2134 Berufe in der Glasveredelung"
+                        },
+                        {
+                            "size": 104,
+                            "name": "2135 Berufe in der Glasapparatejustierung"
+                        },
+                        {
+                            "size": 3448,
+                            "name": "2136 Berufe in der Feinoptik"
+                        },
+                        {
+                            "size": 293,
+                            "name": "2139 Aufsicht-Industri.Glasherst.,-verarbeit."
+                        }
+                    ],
+                    "name": "213 Industrielle Glasherstell.,-verarbeitung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 11308,
+                            "name": "2141 Industriekeramik (Verfahren,Anlagentech)"
+                        },
+                        {
+                            "size": 971,
+                            "name": "2142 Industriekeramik (Modelltechnik)"
+                        },
+                        {
+                            "size": 254,
+                            "name": "2149 Aufsicht-Industrielle Keramikherstellung"
+                        }
+                    ],
+                    "name": "214 Industrielle Keramikherstell.,-verarbeit"
+                }
+            ],
+            "name": "21 Rohstoffgewinn,Glas-,Keramikverarbeitung"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 226695,
+                            "name": "2210 Kunststoff-,Kautschukherstellung (o.S.)"
+                        },
+                        {
+                            "size": 11462,
+                            "name": "2211 Berufe i.d.Reifen-,Vulkanisationstechnik"
+                        },
+                        {
+                            "size": 4978,
+                            "name": "2218 Kunststoff,Kautschukherst.,-verarb.(ssT)"
+                        },
+                        {
+                            "size": 2026,
+                            "name": "2219 Aufsicht-Kunststoff,Kautschukher,verarb."
+                        }
+                    ],
+                    "name": "221 Kunststoff,Kautschukherstell.,verarbeit"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 35580,
+                            "name": "2220 Berufe in der Farb-, Lacktechnik (o.S.)"
+                        },
+                        {
+                            "size": 29581,
+                            "name": "2221 Berufe in der Fahrzeuglackierung"
+                        },
+                        {
+                            "size": 3078,
+                            "name": "2222 Berufe im Lacklaboratorium"
+                        },
+                        {
+                            "size": 1283,
+                            "name": "2229 Aufsicht - Farb-, Lacktechnik"
+                        }
+                    ],
+                    "name": "222 Farb- und Lacktechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 59248,
+                            "name": "2230 Berufe i.d. Holzbe-,-verarbeitung (o.S.)"
+                        },
+                        {
+                            "size": 285,
+                            "name": "2231 Berufe Holztrocknung,-konservierung"
+                        },
+                        {
+                            "size": 9038,
+                            "name": "2232 Produktion v. Holzwerkstoffen,-bauteilen"
+                        },
+                        {
+                            "size": 4905,
+                            "name": "2233 Produktion v. Fertigprodukten aus Holz"
+                        },
+                        {
+                            "size": 146810,
+                            "name": "2234 Berufe im Holz-, M\u00f6bel-, Innenausbau"
+                        },
+                        {
+                            "size": 1714,
+                            "name": "2235 FlechtwerkgestalterB\u00fcrsten-,Pinselmacher"
+                        },
+                        {
+                            "size": 749,
+                            "name": "2238 Berufe i.d. Holzbe-,-verarbeitung (ssT)"
+                        },
+                        {
+                            "size": 6014,
+                            "name": "2239 Aufsicht,F\u00fchrung - Holzbe-,-verarbeitung"
+                        }
+                    ],
+                    "name": "223 Holzbe- und -verarbeitung"
+                }
+            ],
+            "name": "22 Kunststoff- u. Holzherst.,-verarbeitung"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 28007,
+                            "name": "2310 Berufe Papier-,Verpackungstechnik (o.S.)"
+                        },
+                        {
+                            "size": 12383,
+                            "name": "2311 Berufe in der Papierherstellung"
+                        },
+                        {
+                            "size": 30557,
+                            "name": "2312 Berufe Papierverarb., Verpackungstechnik"
+                        },
+                        {
+                            "size": 1272,
+                            "name": "2319 Aufsicht - Papier-, Verpackungstechnik"
+                        }
+                    ],
+                    "name": "231 Papier- und Verpackungstechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 64781,
+                            "name": "2321 Berufe Digital-, Printmediengestaltung"
+                        },
+                        {
+                            "size": 43547,
+                            "name": "2322 Berufe Grafik-Kommunikations-,Fotodesign"
+                        },
+                        {
+                            "size": 281,
+                            "name": "2328 Berufe technische Mediengestaltung (ssT)"
+                        },
+                        {
+                            "size": 5772,
+                            "name": "2329 Aufsicht,F\u00fchrung-Techn. Mediengestaltung"
+                        }
+                    ],
+                    "name": "232 Technische Mediengestaltung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 4157,
+                            "name": "2331 Berufe in der Fototechnik"
+                        },
+                        {
+                            "size": 7278,
+                            "name": "2332 Berufe in der Fotografie"
+                        },
+                        {
+                            "size": 80,
+                            "name": "2339 Aufsicht - Fototechnik und Fotografie"
+                        }
+                    ],
+                    "name": "233 Fototechnik und Fotografie"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 71616,
+                            "name": "2341 Berufe in der Drucktechnik"
+                        },
+                        {
+                            "size": 10436,
+                            "name": "2342 Berufe Buchbinderei, Druckweiterverarb."
+                        },
+                        {
+                            "size": 919,
+                            "name": "2349 Aufsicht-Drucktechnik,Buchbinderei"
+                        }
+                    ],
+                    "name": "234 Drucktechnik,-weiterverarb.,Buchbinderei"
+                }
+            ],
+            "name": "23 Papier-,Druckberufe, tech.Mediengestalt."
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 11606,
+                            "name": "2410 Berufe in der Metallerzeugung (o.S.)"
+                        },
+                        {
+                            "size": 16456,
+                            "name": "2411 Berufe in der H\u00fcttentechnik"
+                        },
+                        {
+                            "size": 31437,
+                            "name": "2412 Berufe in der Metallumformung"
+                        },
+                        {
+                            "size": 30825,
+                            "name": "2413 Berufe in der industriellen Gie\u00dferei"
+                        },
+                        {
+                            "size": 5728,
+                            "name": "2414 Berufe handwerkl.Metall-,Glockengie\u00dferei"
+                        },
+                        {
+                            "size": 1645,
+                            "name": "2419 Aufsicht - Metallerzeugung"
+                        }
+                    ],
+                    "name": "241 Metallerzeugung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 391507,
+                            "name": "2420 Berufe in der Metallbearbeitung (o.S.)"
+                        },
+                        {
+                            "size": 24694,
+                            "name": "2421 Berufe i.d. spanlosen Metallbearbeitung"
+                        },
+                        {
+                            "size": 32138,
+                            "name": "2422 Berufe i.d. schleifenden Metallbearbeit."
+                        },
+                        {
+                            "size": 195968,
+                            "name": "2423 Berufe i.d. spanenden Metallbearbeitung"
+                        },
+                        {
+                            "size": 1827,
+                            "name": "2424 Berufe Metallbearbeitung d. Laserstrahl"
+                        },
+                        {
+                            "size": 9905,
+                            "name": "2429 Aufsicht - Metallbearbeitung"
+                        }
+                    ],
+                    "name": "242 Metallbearbeitung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 42809,
+                            "name": "2430 Berufe Metalloberfl\u00e4chenbehandlung (o.S)"
+                        },
+                        {
+                            "size": 813,
+                            "name": "2438 Berufe Metalloberfl\u00e4chenbehandlung (ssT)"
+                        },
+                        {
+                            "size": 799,
+                            "name": "2439 Aufsicht - Metalloberfl\u00e4chenbehandlung"
+                        }
+                    ],
+                    "name": "243 Metalloberfl\u00e4chenbehandlung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 277694,
+                            "name": "2441 Berufe im Metallbau"
+                        },
+                        {
+                            "size": 76858,
+                            "name": "2442 Berufe i.d. Schwei\u00df-, Verbindungstechnik"
+                        },
+                        {
+                            "size": 348,
+                            "name": "2443 Industrietaucher/innen u.a.Taucherberufe"
+                        },
+                        {
+                            "size": 9661,
+                            "name": "2449 Aufsicht - Metallbau und Schwei\u00dftechnik"
+                        }
+                    ],
+                    "name": "244 Metallbau und Schwei\u00dftechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 45853,
+                            "name": "2451 Berufe in der Feinwerktechnik"
+                        },
+                        {
+                            "size": 90773,
+                            "name": "2452 Berufe in der Werkzeugtechnik"
+                        },
+                        {
+                            "size": 3162,
+                            "name": "2453 Berufe im Uhrmacherhandwerk"
+                        },
+                        {
+                            "size": 3273,
+                            "name": "2459 Aufsicht - Feinwerk- u. Werkzeugtechnik"
+                        }
+                    ],
+                    "name": "245 Feinwerk- und Werkzeugtechnik"
+                }
+            ],
+            "name": "24 Metallerzeugung,-bearbeitung, Metallbau"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 618559,
+                            "name": "2510 Berufe Maschinenbau-, Betriebstechn.(oS)"
+                        },
+                        {
+                            "size": 174653,
+                            "name": "2511 Maschinen-, Ger\u00e4tezusammensetzer/innen"
+                        },
+                        {
+                            "size": 216759,
+                            "name": "2512 Maschinen- und Anlagenf\u00fchrer/innen"
+                        },
+                        {
+                            "size": 222179,
+                            "name": "2513 Tech.Servicekr\u00e4fteWartung,Instandhaltung"
+                        },
+                        {
+                            "size": 23642,
+                            "name": "2518 Berufe Maschinenbau,Betriebstechn.(ssT)"
+                        },
+                        {
+                            "size": 23889,
+                            "name": "2519 Aufsicht,F\u00fchrung-Maschinenbau,Betriebst."
+                        }
+                    ],
+                    "name": "251 Maschinenbau- und Betriebstechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 24507,
+                            "name": "2520 Berufe in der Fahrzeugtechnik (o.S.)"
+                        },
+                        {
+                            "size": 362606,
+                            "name": "2521 Berufe in der Kraftfahrzeugtechnik"
+                        },
+                        {
+                            "size": 38083,
+                            "name": "2522 Berufe i.d. Land-, Baumaschinentechnik"
+                        },
+                        {
+                            "size": 36278,
+                            "name": "2523 Berufe in der Luft- und Raumfahrttechnik"
+                        },
+                        {
+                            "size": 3374,
+                            "name": "2524 Berufe in der Schiffbautechnik"
+                        },
+                        {
+                            "size": 12011,
+                            "name": "2525 Berufe in der Zweiradtechnik"
+                        },
+                        {
+                            "size": 40969,
+                            "name": "2529 Aufsicht,F\u00fchrung-Fahr.LuftRaum.Schiffbau"
+                        }
+                    ],
+                    "name": "252 Fahrzeug-Luft-Raumfahrt-,Schiffbautechn."
+                }
+            ],
+            "name": "25 Maschinen- und Fahrzeugtechnikberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 66478,
+                            "name": "2611 Berufe in der Mechatronik"
+                        },
+                        {
+                            "size": 40624,
+                            "name": "2612 Berufe in der Automatisierungstechnik"
+                        },
+                        {
+                            "size": 734,
+                            "name": "2619 Aufsicht-Mechatronik,Automatisierungst."
+                        }
+                    ],
+                    "name": "261 Mechatronik und Automatisierungstechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 227919,
+                            "name": "2621 Berufe in der Bauelektrik"
+                        },
+                        {
+                            "size": 24011,
+                            "name": "2622 Berufe in der Elektromaschinentechnik"
+                        },
+                        {
+                            "size": 35668,
+                            "name": "2623 Berufe i.d. Energie-, Kraftwerkstechnik"
+                        },
+                        {
+                            "size": 5622,
+                            "name": "2624 Berufe i.d. regenerativen Energietechnik"
+                        },
+                        {
+                            "size": 112865,
+                            "name": "2625 Berufe i.d. elektrischen Betriebstechnik"
+                        },
+                        {
+                            "size": 30012,
+                            "name": "2626 Berufe Leitungsinstallation,-wartung"
+                        },
+                        {
+                            "size": 7924,
+                            "name": "2629 Aufsicht - Energietechnik"
+                        }
+                    ],
+                    "name": "262 Energietechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 225108,
+                            "name": "2630 Berufe in der Elektrotechnik (o.S.)"
+                        },
+                        {
+                            "size": 193795,
+                            "name": "2631 Berufe Informations,Telekommunikationst."
+                        },
+                        {
+                            "size": 8296,
+                            "name": "2632 Berufe in der Mikrosystemtechnik"
+                        },
+                        {
+                            "size": 9497,
+                            "name": "2633 Berufe Luftver.,Schiff,Fahrzeugelektron."
+                        },
+                        {
+                            "size": 14601,
+                            "name": "2638 Berufe in der Elektrotechnik (s.s.T.)"
+                        },
+                        {
+                            "size": 15684,
+                            "name": "2639 Aufsicht - Elektrotechnik"
+                        }
+                    ],
+                    "name": "263 Elektrotechnik"
+                }
+            ],
+            "name": "26 Mechatronik-, Energie- u. Elektroberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 231465,
+                            "name": "2710 Berufe tech. Forschung, Entwicklung (oS)"
+                        },
+                        {
+                            "size": 12958,
+                            "name": "2718 Berufe tech.Forschung, Entwicklung (ssT)"
+                        },
+                        {
+                            "size": 10912,
+                            "name": "2719 F\u00fchrung - Techn. Forschung, Entwicklung"
+                        }
+                    ],
+                    "name": "271 Technische Forschung und Entwicklung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 110327,
+                            "name": "2721 Technische Zeichner/innen"
+                        },
+                        {
+                            "size": 107238,
+                            "name": "2722 Berufe i.d. Konstruktion u. im Ger\u00e4tebau"
+                        },
+                        {
+                            "size": 10131,
+                            "name": "2723 Berufe im Modellbau"
+                        },
+                        {
+                            "size": 2735,
+                            "name": "2728 Techn.Zeichnen, Konstrukt.,Modellb.(ssT)"
+                        },
+                        {
+                            "size": 4958,
+                            "name": "2729 Aufsicht,F\u00fchrung-TechZeich.Konstr.Modell"
+                        }
+                    ],
+                    "name": "272 Techn. Zeichnen, Konstruktion, Modellbau"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 236361,
+                            "name": "2730 Berufe tech. Produktionsplan.,-steuerung"
+                        },
+                        {
+                            "size": 192315,
+                            "name": "2731 Berufe technische Qualit\u00e4tssicherung"
+                        },
+                        {
+                            "size": 147556,
+                            "name": "2739 Aufsicht,F\u00fchrung-Produktionsplan,steuer."
+                        }
+                    ],
+                    "name": "273 Technische Produktionsplanung,-steuerung"
+                }
+            ],
+            "name": "27 Techn.Entwickl.Konstr.Produktionssteuer."
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 18074,
+                            "name": "2810 Berufe in der Textiltechnik (o.S.)"
+                        },
+                        {
+                            "size": 2140,
+                            "name": "2811 Berufe in der Textilgestaltung"
+                        },
+                        {
+                            "size": 12500,
+                            "name": "2812 Berufe in der Textilherstellung"
+                        },
+                        {
+                            "size": 3522,
+                            "name": "2813 Berufe in der Garn- und Seilherstellung"
+                        },
+                        {
+                            "size": 5444,
+                            "name": "2814 Berufe in der Textilveredlung"
+                        },
+                        {
+                            "size": 1056,
+                            "name": "2819 Aufsicht,F\u00fchrung-Textiltechn.,-produkt."
+                        }
+                    ],
+                    "name": "281 Textiltechnik und -produktion"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 5498,
+                            "name": "2821 Berufe im Modedesign"
+                        },
+                        {
+                            "size": 34463,
+                            "name": "2822 Berufe i.d. Bekleidungsherstellung"
+                        },
+                        {
+                            "size": 6822,
+                            "name": "2823 Technische Konfektion\u00e4re, Segelmacher"
+                        },
+                        {
+                            "size": 15350,
+                            "name": "2824 Berufe Polsterei, Fahrzeuginnenausstat."
+                        },
+                        {
+                            "size": 1412,
+                            "name": "2829 Aufsicht,F\u00fchrung - Textilverarbeitung"
+                        }
+                    ],
+                    "name": "282 Textilverarbeitung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 6041,
+                            "name": "2830 Berufe Leder-,Pelzherstell.,-verarb.(oS)"
+                        },
+                        {
+                            "size": 1079,
+                            "name": "2831 Berufe in der Lederherstellung"
+                        },
+                        {
+                            "size": 3598,
+                            "name": "2832 Berufe Sattlerei, Herst. Lederutensilien"
+                        },
+                        {
+                            "size": 9803,
+                            "name": "2833 Berufe in der Schuhherstellung"
+                        },
+                        {
+                            "size": 276,
+                            "name": "2834 Berufe in der Pelzbe- und -verarbeitung"
+                        },
+                        {
+                            "size": 1194,
+                            "name": "2839 Aufsicht,F\u00fchrung-Leder-,Pelzher.,verarb."
+                        }
+                    ],
+                    "name": "283 Leder-, Pelzherstellung u. -verarbeitung"
+                }
+            ],
+            "name": "28 Textil- und Lederberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 4155,
+                            "name": "2910 Berufe in der Getr\u00e4nkeherstellung (o.S.)"
+                        },
+                        {
+                            "size": 5601,
+                            "name": "2911 Brauer/innen und M\u00e4lzer/innen"
+                        },
+                        {
+                            "size": 1244,
+                            "name": "2912 Weink\u00fcfer/innen"
+                        },
+                        {
+                            "size": 859,
+                            "name": "2913 Brenner/innen, Destillateure/innen"
+                        },
+                        {
+                            "size": 774,
+                            "name": "2914 Berufe in der Fruchtsafttechnik"
+                        },
+                        {
+                            "size": 35,
+                            "name": "2915 Nahrungsmittel- u. Getr\u00e4nkekoster/innen"
+                        },
+                        {
+                            "size": 1767,
+                            "name": "2919 Aufsicht,F\u00fchrung - Getr\u00e4nkeherstellung"
+                        }
+                    ],
+                    "name": "291 Getr\u00e4nkeherstellung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 132457,
+                            "name": "2920 Berufe i.d. Lebensmittelherstellung (oS)"
+                        },
+                        {
+                            "size": 3402,
+                            "name": "2921 Berufe M\u00fchlenprodukt-,Futtermittelherst."
+                        },
+                        {
+                            "size": 78272,
+                            "name": "2922 Berufe Back-, Konditoreiwarenherstell."
+                        },
+                        {
+                            "size": 68538,
+                            "name": "2923 Berufe in der Fleischverarbeitung"
+                        },
+                        {
+                            "size": 2646,
+                            "name": "2924 Berufe in der Fischverarbeitung"
+                        },
+                        {
+                            "size": 9777,
+                            "name": "2925 Berufe in der Milchproduktherstellung"
+                        },
+                        {
+                            "size": 12043,
+                            "name": "2926 Berufe in der S\u00fc\u00dfwarenherstellung"
+                        },
+                        {
+                            "size": 2479,
+                            "name": "2927 Berufe in der Tabakwarenherstellung"
+                        },
+                        {
+                            "size": 5938,
+                            "name": "2928 Berufe i.d.Lebensmittelherstellung (ssT)"
+                        },
+                        {
+                            "size": 11800,
+                            "name": "2929 Aufsicht,F\u00fchrung-Lebens-,Genussmittelher"
+                        }
+                    ],
+                    "name": "292 Lebensmittel- u. Genussmittelherstellung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 462018,
+                            "name": "2930 K\u00f6che/K\u00f6chinnen (o.S.)"
+                        },
+                        {
+                            "size": 1698,
+                            "name": "2931 Vor-, Kalt- und S\u00fc\u00dfspeisenk\u00f6che/innen"
+                        },
+                        {
+                            "size": 2499,
+                            "name": "2932 Grill-, Braten- u. Fischk\u00f6che/-k\u00f6chinnen"
+                        },
+                        {
+                            "size": 1473,
+                            "name": "2938 K\u00f6che/K\u00f6chinnen (s.s.T.)"
+                        },
+                        {
+                            "size": 21411,
+                            "name": "2939 Aufsicht, F\u00fchrung - Speisenzubereitung"
+                        }
+                    ],
+                    "name": "293 Speisenzubereitung"
+                }
+            ],
+            "name": "29 Lebensmittelherstellung u. -verarbeitung"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 85885,
+                            "name": "3110 Berufe Bauplanung u. -\u00fcberwachung (o.S.)"
+                        },
+                        {
+                            "size": 64897,
+                            "name": "3111 Berufe in der Architektur"
+                        },
+                        {
+                            "size": 5202,
+                            "name": "3112 Berufe in der Stadt- und Raumplanung"
+                        },
+                        {
+                            "size": 3725,
+                            "name": "3113 Berufe Bauplanung Verkehrswege, -anlagen"
+                        },
+                        {
+                            "size": 3287,
+                            "name": "3114 Berufe in der Wasserwirtschaft"
+                        },
+                        {
+                            "size": 2621,
+                            "name": "3115 Berufe Bauwerkserhaltung und -erneuerung"
+                        },
+                        {
+                            "size": 3800,
+                            "name": "3116 Bausachverst\u00e4ndige und Baukontrolleure"
+                        },
+                        {
+                            "size": 4240,
+                            "name": "3117 Berufe i.d. Bauabrechnung, -kalkulation"
+                        },
+                        {
+                            "size": 42978,
+                            "name": "3119 Aufsicht,F\u00fchrung-Bauplan,-\u00fcberw,Archit."
+                        }
+                    ],
+                    "name": "311 Bauplanung u. -\u00fcberwachung, Architektur"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 32265,
+                            "name": "3121 Berufe in der Vermessungstechnik"
+                        },
+                        {
+                            "size": 2239,
+                            "name": "3122 Berufe in der Kartografie"
+                        }
+                    ],
+                    "name": "312 Vermessung und Kartografie"
+                }
+            ],
+            "name": "31 Bauplanung,Architektur,Vermessungsberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 206215,
+                            "name": "3210 Berufe im Hochbau (o.S.)"
+                        },
+                        {
+                            "size": 32164,
+                            "name": "3211 Berufe im Beton- und Stahlbetonbau"
+                        },
+                        {
+                            "size": 92203,
+                            "name": "3212 Berufe im Maurerhandwerk"
+                        },
+                        {
+                            "size": 1515,
+                            "name": "3213 Berufe im Schornsteinbau"
+                        },
+                        {
+                            "size": 50448,
+                            "name": "3214 Berufe in der Dachdeckerei"
+                        },
+                        {
+                            "size": 1562,
+                            "name": "3215 Berufe im Fassadenbau"
+                        },
+                        {
+                            "size": 11774,
+                            "name": "3216 Berufe im Ger\u00fcstbau"
+                        },
+                        {
+                            "size": 726,
+                            "name": "3217 Berufe im Bauwerksabbruch"
+                        },
+                        {
+                            "size": 22577,
+                            "name": "3219 Aufsicht - Hochbau"
+                        }
+                    ],
+                    "name": "321 Hochbau"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 58806,
+                            "name": "3220 Berufe im Tiefbau (o.S.)"
+                        },
+                        {
+                            "size": 4802,
+                            "name": "3221 Pflasterer/innen, Steinsetzer/innen"
+                        },
+                        {
+                            "size": 35994,
+                            "name": "3222 Berufe im Stra\u00dfen- und Asphaltbau"
+                        },
+                        {
+                            "size": 6083,
+                            "name": "3223 Berufe im Gleisbau"
+                        },
+                        {
+                            "size": 2179,
+                            "name": "3224 Berufe im Brunnenbau"
+                        },
+                        {
+                            "size": 3874,
+                            "name": "3225 Berufe im Kanal- und Tunnelbau"
+                        },
+                        {
+                            "size": 7253,
+                            "name": "3226 Berufe im Kultur- und Wasserbau"
+                        },
+                        {
+                            "size": 8904,
+                            "name": "3229 Aufsicht - Tiefbau"
+                        }
+                    ],
+                    "name": "322 Tiefbau"
+                }
+            ],
+            "name": "32 Hoch- und Tiefbauberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 16384,
+                            "name": "3310 Berufe in der Bodenverlegung (o.S.)"
+                        },
+                        {
+                            "size": 25652,
+                            "name": "3311 Berufe Fliesen-,Platten-,Mosaikverlegung"
+                        },
+                        {
+                            "size": 4215,
+                            "name": "3312 Berufe Estrich- und Terrazzoverlegung"
+                        },
+                        {
+                            "size": 4443,
+                            "name": "3313 Berufe in der Parkettverlegung"
+                        },
+                        {
+                            "size": 858,
+                            "name": "3319 Aufsicht - Bodenverlegung"
+                        }
+                    ],
+                    "name": "331 Bodenverlegung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 132602,
+                            "name": "3321 Berufe f\u00fcr Maler- und Lackiererarbeiten"
+                        },
+                        {
+                            "size": 16542,
+                            "name": "3322 Berufe f\u00fcr Stuckateurarbeiten"
+                        },
+                        {
+                            "size": 2823,
+                            "name": "3323 Berufe in der Bauwerksabdichtung"
+                        },
+                        {
+                            "size": 1556,
+                            "name": "3324 Berufe im Holz- und Bautenschutz"
+                        },
+                        {
+                            "size": 6524,
+                            "name": "3329 Aufsicht-MalerStuckBauwerksabdBautensch."
+                        }
+                    ],
+                    "name": "332 Maler.,Stuckat.,Bauwerksabd,Bautenschutz"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 40559,
+                            "name": "3330 Berufe im Aus- und Trockenbau (o.S.)"
+                        },
+                        {
+                            "size": 11383,
+                            "name": "3331 Berufe in der Isolierung"
+                        },
+                        {
+                            "size": 50520,
+                            "name": "3332 Berufe in der Zimmerei"
+                        },
+                        {
+                            "size": 23795,
+                            "name": "3333 Berufe in der Bautischlerei"
+                        },
+                        {
+                            "size": 10067,
+                            "name": "3334 Berufe in der Glaserei"
+                        },
+                        {
+                            "size": 4835,
+                            "name": "3335 Berufe im Rollladen- und Jalousiebau"
+                        },
+                        {
+                            "size": 8159,
+                            "name": "3339 Aufsicht-Aus-,Trockenbau.Iso.Zimm.Glas."
+                        }
+                    ],
+                    "name": "333 Aus-,Trockenbau.Iso.Zimmer.Glas.Roll.bau"
+                }
+            ],
+            "name": "33 (Innen-)Ausbauberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 243270,
+                            "name": "3410 Berufe in der Geb\u00e4udetechnik (o.S.)"
+                        },
+                        {
+                            "size": 46697,
+                            "name": "3411 Platz-, Ger\u00e4tewarte/innen"
+                        },
+                        {
+                            "size": 2674,
+                            "name": "3419 Aufsicht - Geb\u00e4udetechnik"
+                        }
+                    ],
+                    "name": "341 Geb\u00e4udetechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 25421,
+                            "name": "3420 Berufe in der Klempnerei (o.S.)"
+                        },
+                        {
+                            "size": 181191,
+                            "name": "3421 Berufe Sanit\u00e4r-, Heizungs-, Klimatechnik"
+                        },
+                        {
+                            "size": 2426,
+                            "name": "3422 Berufe im Ofen- und Luftheizungsbau"
+                        },
+                        {
+                            "size": 14349,
+                            "name": "3423 Berufe in der K\u00e4ltetechnik"
+                        },
+                        {
+                            "size": 10940,
+                            "name": "3429 Aufsicht-Klemp.Sanit\u00e4r,Heizung,Klimatech"
+                        }
+                    ],
+                    "name": "342 Klempnerei,Sanit\u00e4r,Heizung,Klimatechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 59367,
+                            "name": "3430 Berufe in der Ver- und Entsorgung (o.S.)"
+                        },
+                        {
+                            "size": 28704,
+                            "name": "3431 Berufe Wasserversorgung,Abwassertechnik"
+                        },
+                        {
+                            "size": 23502,
+                            "name": "3432 Berufe im Rohrleitungsbau"
+                        },
+                        {
+                            "size": 11368,
+                            "name": "3433 Berufe in der Abfallwirtschaft"
+                        },
+                        {
+                            "size": 41663,
+                            "name": "3434 Berufe Anlagen-, Beh\u00e4lter-, Apparatebau"
+                        },
+                        {
+                            "size": 5752,
+                            "name": "3439 Aufsicht - Ver- und Entsorgung"
+                        }
+                    ],
+                    "name": "343 Ver- und Entsorgung"
+                }
+            ],
+            "name": "34 Geb\u00e4ude- u. versorgungstechnische Berufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 2992,
+                            "name": "4110 Berufe in der Mathematik (o.S.)"
+                        },
+                        {
+                            "size": 3648,
+                            "name": "4111 Berufe in der Statistik"
+                        },
+                        {
+                            "size": 2541,
+                            "name": "4118 Berufe in der Mathematik (s.s.T.)"
+                        },
+                        {
+                            "size": 114,
+                            "name": "4119 F\u00fchrung - Mathematik und Statistik"
+                        }
+                    ],
+                    "name": "411 Mathematik und Statistik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 9921,
+                            "name": "4120 Berufe in der Biologie (o.S.)"
+                        },
+                        {
+                            "size": 30535,
+                            "name": "4121 Berufe im biologisch-techn. Laboratorium"
+                        },
+                        {
+                            "size": 1141,
+                            "name": "4122 Berufe in der biologischen Pr\u00e4paration"
+                        },
+                        {
+                            "size": 707,
+                            "name": "4123 Berufe in der Biologie (\u00d6kologie)"
+                        },
+                        {
+                            "size": 61,
+                            "name": "4124 Berufe in der Biologie (Botanik)"
+                        },
+                        {
+                            "size": 331,
+                            "name": "4125 Berufe in der Biologie (Zoologie)"
+                        },
+                        {
+                            "size": 618,
+                            "name": "4126 Berufe in der Biologie (Mikrobiologie)"
+                        },
+                        {
+                            "size": 1402,
+                            "name": "4127 Berufe in der Biologie (Humanbiologie)"
+                        },
+                        {
+                            "size": 3529,
+                            "name": "4128 Berufe in der Biologie (s.s.T.)"
+                        },
+                        {
+                            "size": 851,
+                            "name": "4129 Aufsicht und F\u00fchrung - Biologie"
+                        }
+                    ],
+                    "name": "412 Biologie"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 18004,
+                            "name": "4130 Berufe in der Chemie (o.S.)"
+                        },
+                        {
+                            "size": 182043,
+                            "name": "4131 Berufe in der Chemie- und Pharmatechnik"
+                        },
+                        {
+                            "size": 74160,
+                            "name": "4132 Berufe im chemisch-techn. Laboratorium"
+                        },
+                        {
+                            "size": 711,
+                            "name": "4133 Steuerer chemische Verfahrensanlagen"
+                        },
+                        {
+                            "size": 1542,
+                            "name": "4134 Steuerer Erd\u00f6l-,Erdgasraffinationsanlag."
+                        },
+                        {
+                            "size": 4743,
+                            "name": "4138 Berufe in der Chemie (s.s.T.)"
+                        },
+                        {
+                            "size": 12562,
+                            "name": "4139 Aufsicht und F\u00fchrung - Chemie"
+                        }
+                    ],
+                    "name": "413 Chemie"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 9583,
+                            "name": "4140 Berufe in der Physik (o.S.)"
+                        },
+                        {
+                            "size": 6161,
+                            "name": "4141 Berufe physikalisch-techn. Laboratorium"
+                        },
+                        {
+                            "size": 14659,
+                            "name": "4142 Berufe in der Werkstofftechnik"
+                        },
+                        {
+                            "size": 4160,
+                            "name": "4143 Berufe in der Baustoffpr\u00fcfung"
+                        },
+                        {
+                            "size": 7642,
+                            "name": "4148 Berufe in der Physik (s.s.T.)"
+                        },
+                        {
+                            "size": 804,
+                            "name": "4149 Aufsicht und F\u00fchrung - Physik"
+                        }
+                    ],
+                    "name": "414 Physik"
+                }
+            ],
+            "name": "41 Mathematik-Biologie-Chemie-,Physikberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 1852,
+                            "name": "4211 Berufe in der Geotechnik"
+                        },
+                        {
+                            "size": 5751,
+                            "name": "4212 Berufe in der Geologie"
+                        },
+                        {
+                            "size": 2424,
+                            "name": "4213 Berufe in der Geografie"
+                        },
+                        {
+                            "size": 730,
+                            "name": "4214 Berufe in der Meteorologie"
+                        }
+                    ],
+                    "name": "421 Geologie, Geografie und Meteorologie"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 7090,
+                            "name": "4220 Berufe in der Umweltschutztechnik (o.S.)"
+                        },
+                        {
+                            "size": 9062,
+                            "name": "4221 Schornsteinfeger/innen"
+                        },
+                        {
+                            "size": 203,
+                            "name": "4228 Berufe i.d. Umweltschutztechnik (s.s.T.)"
+                        },
+                        {
+                            "size": 944,
+                            "name": "4229 Aufsicht - Umweltschutztechnik"
+                        }
+                    ],
+                    "name": "422 Umweltschutztechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 11293,
+                            "name": "4231 Berufe Umweltschutzverwaltung, -beratung"
+                        },
+                        {
+                            "size": 571,
+                            "name": "4232 Gew\u00e4sser-Immissionsschutz,Abfallbeauftr."
+                        },
+                        {
+                            "size": 1788,
+                            "name": "4233 Strahlenschutzbeauftragte"
+                        },
+                        {
+                            "size": 137,
+                            "name": "4239 F\u00fchrung - Umweltmanagement und -beratung"
+                        }
+                    ],
+                    "name": "423 Umweltmanagement und -beratung"
+                }
+            ],
+            "name": "42 Geologie-,Geografie-,Umweltschutzberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 174252,
+                            "name": "4310 Berufe in der Informatik (o.S.)"
+                        },
+                        {
+                            "size": 26226,
+                            "name": "4311 Berufe in der Wirtschaftsinformatik"
+                        },
+                        {
+                            "size": 9707,
+                            "name": "4312 Berufe in der technischen Informatik"
+                        },
+                        {
+                            "size": 1117,
+                            "name": "4313 Berufe in der Bio- und Medizininformatik"
+                        },
+                        {
+                            "size": 951,
+                            "name": "4314 Berufe in der Geoinformatik"
+                        },
+                        {
+                            "size": 12318,
+                            "name": "4315 Berufe in der Medieninformatik"
+                        },
+                        {
+                            "size": 2276,
+                            "name": "4319 F\u00fchrung - Informatik"
+                        }
+                    ],
+                    "name": "431 Informatik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 30261,
+                            "name": "4321 Berufe in der IT-Systemanalyse"
+                        },
+                        {
+                            "size": 111332,
+                            "name": "4322 Berufe in der IT-Anwendungsberatung"
+                        },
+                        {
+                            "size": 22513,
+                            "name": "4323 Berufe im IT-Vertrieb"
+                        },
+                        {
+                            "size": 572,
+                            "name": "4329 F\u00fchrung-IT-System,-Anwendung,-Vertrieb"
+                        }
+                    ],
+                    "name": "432 IT-Systemanalyse,Anwenderber,IT-Vertrieb"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 10173,
+                            "name": "4331 Berufe in der IT-Netzwerktechnik"
+                        },
+                        {
+                            "size": 14975,
+                            "name": "4332 Berufe in der IT-Koordination"
+                        },
+                        {
+                            "size": 20392,
+                            "name": "4333 Berufe in der IT-Organisation"
+                        },
+                        {
+                            "size": 71475,
+                            "name": "4334 Berufe in der IT-Systemadministation"
+                        },
+                        {
+                            "size": 6247,
+                            "name": "4335 Berufe Datenbankentwickl., -administr."
+                        },
+                        {
+                            "size": 895,
+                            "name": "4336 Berufe in der Webadministration"
+                        },
+                        {
+                            "size": 8424,
+                            "name": "4338 IT-Netzwerkt.,-Koord.,-Admin.,-Org.(ssT)"
+                        },
+                        {
+                            "size": 18918,
+                            "name": "4339 F\u00fchrung-IT-Netzw.,-Koord.,-Admin.,-Orga."
+                        }
+                    ],
+                    "name": "433 IT-Netzwerkt.,-Koord.,-Administr.,-Orga."
+                },
+                {
+                    "children": [
+                        {
+                            "size": 162166,
+                            "name": "4341 Berufe in der Softwareentwicklung"
+                        },
+                        {
+                            "size": 33434,
+                            "name": "4342 Berufe in der Programmierung"
+                        },
+                        {
+                            "size": 3457,
+                            "name": "4349 F\u00fchrung-Softwareentwickl.,Programmierung"
+                        }
+                    ],
+                    "name": "434 Softwareentwicklung und Programmierung"
+                }
+            ],
+            "name": "43 Informatik- und andere IKT-Berufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 2553,
+                            "name": "5111 Berufe im technischen Eisenbahnbetrieb"
+                        },
+                        {
+                            "size": 9922,
+                            "name": "5112 Berufe technischer Luftverkehrsbetrieb"
+                        },
+                        {
+                            "size": 8429,
+                            "name": "5113 Berufe technisch. Schiffsverkehrsbetrieb"
+                        },
+                        {
+                            "size": 366,
+                            "name": "5118 TechBetriebEisenb.Luft,Schiffsverk.(ssT)"
+                        },
+                        {
+                            "size": 89,
+                            "name": "5119 Aufsicht-TechBetr.Eisenb.LuftSchiffsverk"
+                        }
+                    ],
+                    "name": "511 Tech.Betrieb Eisenb.,Luft,Schiffsverkehr"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 26385,
+                            "name": "5121 Stra\u00dfen- und Tunnelw\u00e4rter/innen"
+                        },
+                        {
+                            "size": 9232,
+                            "name": "5122 \u00dcberwach.,Wartung Eisenbahninfrastruktur"
+                        },
+                        {
+                            "size": 557,
+                            "name": "5123 Berufe in der Flugsicherungstechnik"
+                        },
+                        {
+                            "size": 505,
+                            "name": "5124 Wasserstra\u00dfen- und Br\u00fcckenw\u00e4rter/innen"
+                        },
+                        {
+                            "size": 626,
+                            "name": "5129 Aufsicht - \u00dcberw.,Wart.Verkehrsinfraktur"
+                        }
+                    ],
+                    "name": "512 \u00dcberwachung,WartungVerkehrsinfrastruktur"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 1332241,
+                            "name": "5131 Berufe in der Lagerwirtschaft"
+                        },
+                        {
+                            "size": 222168,
+                            "name": "5132 Berufe f\u00fcr Post- und Zustelldienste"
+                        },
+                        {
+                            "size": 17305,
+                            "name": "5133 Berufe im G\u00fcter- und Warenumschlag"
+                        },
+                        {
+                            "size": 27845,
+                            "name": "5139 Aufsicht,F\u00fchrung-Lagerw.Zustell.G\u00fcterum."
+                        }
+                    ],
+                    "name": "513 Lagerwirt.,Post,Zustellung,G\u00fcterumschlag"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 14276,
+                            "name": "5141 Servicefachkr\u00e4fte Stra\u00dfen-,Schienenverk."
+                        },
+                        {
+                            "size": 42539,
+                            "name": "5142 Servicefachkr\u00e4fte im Luftverkehr"
+                        },
+                        {
+                            "size": 327,
+                            "name": "5143 Servicefachkr\u00e4fte im Schiffsverkehr"
+                        },
+                        {
+                            "size": 2402,
+                            "name": "5149 Aufsicht-Personenverkehr(Servicebereich)"
+                        }
+                    ],
+                    "name": "514 Servicekr\u00e4fte im Personenverkehr"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 5317,
+                            "name": "5150 Berufe \u00dcberwachung Verkehrsbetrieb (oS)"
+                        },
+                        {
+                            "size": 6813,
+                            "name": "5151 Berufe \u00dcberwachung Stra\u00dfenverkehrsbetr."
+                        },
+                        {
+                            "size": 10476,
+                            "name": "5152 Berufe \u00dcberwachung Eisenbahnverkehrsbetr"
+                        },
+                        {
+                            "size": 8248,
+                            "name": "5153 Berufe \u00dcberwachung Luftverkehrsbetrieb"
+                        },
+                        {
+                            "size": 1314,
+                            "name": "5154 Berufe \u00dcberwachung Schiffsverkehrsbetr."
+                        },
+                        {
+                            "size": 291,
+                            "name": "5158 Berufe \u00dcberwachung Verkehrsbetrieb (ssT)"
+                        },
+                        {
+                            "size": 19580,
+                            "name": "5159 Aufsicht,F\u00fchrung-\u00dcberwach. Verkehrsbetr."
+                        }
+                    ],
+                    "name": "515 \u00dcberwachung u. Steuerung Verkehrsbetrieb"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 517,
+                            "name": "5161 Verkehrskaufleute"
+                        },
+                        {
+                            "size": 149707,
+                            "name": "5162 Speditions- und Logistikkaufleute"
+                        },
+                        {
+                            "size": 13062,
+                            "name": "5163 Stra\u00dfen- und Schienenverkehrskaufleute"
+                        },
+                        {
+                            "size": 2347,
+                            "name": "5164 Luftverkehrskaufleute"
+                        },
+                        {
+                            "size": 5367,
+                            "name": "5165 Schifffahrtskaufleute"
+                        },
+                        {
+                            "size": 8127,
+                            "name": "5166 Kurier-Express-Postdienstleistungskaufl."
+                        },
+                        {
+                            "size": 9761,
+                            "name": "5169 F\u00fchrung-Verkehr,Logistik (kaufm.Bereich)"
+                        }
+                    ],
+                    "name": "516 Kaufleute - Verkehr und Logistik"
+                }
+            ],
+            "name": "51 Verkehr, Logistik (au\u00dfer Fahrzeugf\u00fchr.)"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 80933,
+                            "name": "5211 Berufskraftfahrer(Personentransport/PKW)"
+                        },
+                        {
+                            "size": 555505,
+                            "name": "5212 Berufskraftfahrer (G\u00fcterverkehr/LKW)"
+                        },
+                        {
+                            "size": 123518,
+                            "name": "5213 Bus-, Stra\u00dfenbahnfahrer/innen"
+                        },
+                        {
+                            "size": 130517,
+                            "name": "5218 Fahrzeugf\u00fchrer im Stra\u00dfenverkehr(s.s.T.)"
+                        }
+                    ],
+                    "name": "521 Fahrzeugf\u00fchrung im Stra\u00dfenverkehr"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 29295,
+                            "name": "5220 Triebfahrzeugf\u00fchrer Eisenbahnverkehr(oS)"
+                        }
+                    ],
+                    "name": "522 Fahrzeugf\u00fchrung im Eisenbahnverkehr"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 10881,
+                            "name": "5231 Piloten und Verkehrsflugzeugf\u00fchrer"
+                        },
+                        {
+                            "size": 664,
+                            "name": "5238 Fahrzeugf\u00fchrer im Flugverkehr (s.s.T.)"
+                        }
+                    ],
+                    "name": "523 Fahrzeugf\u00fchrung im Flugverkehr"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 3510,
+                            "name": "5241 Nautische Schiffsoffiziere und Kapit\u00e4ne"
+                        },
+                        {
+                            "size": 4397,
+                            "name": "5242 Schiffsf\u00fchrer Binnen-,Hafenverkehr"
+                        }
+                    ],
+                    "name": "524 Fahrzeugf\u00fchrung im Schiffsverkehr"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 9826,
+                            "name": "5251 F\u00fchrer land-,forstwirtschaftl. Maschinen"
+                        },
+                        {
+                            "size": 47500,
+                            "name": "5252 F\u00fchrer Erdbewegungs-,verwandte Maschinen"
+                        },
+                        {
+                            "size": 84428,
+                            "name": "5253 Kranf\u00fchrer, Bediener Hebeeinrichtungen"
+                        },
+                        {
+                            "size": 2407,
+                            "name": "5259 Aufsicht - Bau-, Transportger\u00e4tef\u00fchrung"
+                        }
+                    ],
+                    "name": "525 Bau- und Transportger\u00e4tef\u00fchrung"
+                }
+            ],
+            "name": "52 F\u00fchrer von Fahrzeug- u. Transportger\u00e4ten"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 237900,
+                            "name": "5311 Berufe im Objekt-,Werte-, Personenschutz"
+                        },
+                        {
+                            "size": 41020,
+                            "name": "5312 Berufe Arbeitssicherh. Sicherheitstech."
+                        },
+                        {
+                            "size": 15109,
+                            "name": "5313 Berufe im Brandschutz"
+                        },
+                        {
+                            "size": 11777,
+                            "name": "5314 Berufe in der Badeaufsicht"
+                        },
+                        {
+                            "size": 2644,
+                            "name": "5315 Detektive/Detektivinnen"
+                        },
+                        {
+                            "size": 1345,
+                            "name": "5316 Inkassobeauftragte"
+                        },
+                        {
+                            "size": 9673,
+                            "name": "5318 Obj.Pers.Brandschutz,Arbeitssicherh(ssT)"
+                        },
+                        {
+                            "size": 9011,
+                            "name": "5319 Aufsicht,F\u00fchrung-Objekt-,Brandschutz"
+                        }
+                    ],
+                    "name": "531 Obj.-,Pers.-,Brandschutz,Arbeitssicherh."
+                },
+                {
+                    "children": [
+                        {
+                            "size": 1920,
+                            "name": "5321 Berufe im Polizeivollzugsdienst"
+                        },
+                        {
+                            "size": 480,
+                            "name": "5322 Berufe im Kriminaldienst"
+                        },
+                        {
+                            "size": 1369,
+                            "name": "5323 Berufe im Gerichtsvollzug"
+                        },
+                        {
+                            "size": 2514,
+                            "name": "5324 Berufe im Justizvollzugsdienst"
+                        }
+                    ],
+                    "name": "532 Polizei,Kriminald.,Gerichts,Justizvollz."
+                },
+                {
+                    "children": [
+                        {
+                            "size": 656,
+                            "name": "5331 Berufe in der Gewerbeaufsicht"
+                        },
+                        {
+                            "size": 5816,
+                            "name": "5332 Gesundheitsaufsicht, Hygiene\u00fcberwachung"
+                        },
+                        {
+                            "size": 4035,
+                            "name": "5333 Berufe in der Lebensmittelkontrolle"
+                        },
+                        {
+                            "size": 2332,
+                            "name": "5334 Berufe Desinfektion,Sch\u00e4dlingsbek\u00e4mpfung"
+                        },
+                        {
+                            "size": 61,
+                            "name": "5339 Aufsicht,F\u00fchrung-Gewerbe,Gesundheitsauf."
+                        }
+                    ],
+                    "name": "533 Gewerbe,Gesundheitsaufsicht,Desinfektion"
+                }
+            ],
+            "name": "53 Schutz-,Sicherheits-, \u00dcberwachungsberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 640054,
+                            "name": "5410 Berufe in der Reinigung (o.S.)"
+                        },
+                        {
+                            "size": 102689,
+                            "name": "5411 Berufe in der Geb\u00e4udereinigung"
+                        },
+                        {
+                            "size": 5382,
+                            "name": "5412 Berufe in der Glas-, Fensterreinigung"
+                        },
+                        {
+                            "size": 25425,
+                            "name": "5413 Berufe in der Textilreinigung"
+                        },
+                        {
+                            "size": 10730,
+                            "name": "5414 Berufe i.d. Maschinen-, Anlagenreinigung"
+                        },
+                        {
+                            "size": 28860,
+                            "name": "5415 Berufe in der Fahrzeugreinigung"
+                        },
+                        {
+                            "size": 4884,
+                            "name": "5418 Berufe in der Reinigung (s.s.T.)"
+                        },
+                        {
+                            "size": 9760,
+                            "name": "5419 Aufsicht - Reinigung"
+                        }
+                    ],
+                    "name": "541 Reinigung"
+                }
+            ],
+            "name": "54 Reinigungsberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 118887,
+                            "name": "6111 Berufe im Einkauf"
+                        },
+                        {
+                            "size": 474698,
+                            "name": "6112 Berufe im Vertrieb (au\u00dfer IKT)"
+                        },
+                        {
+                            "size": 1867,
+                            "name": "6113 Handelsmakler/innen u. Auktionator/innen"
+                        },
+                        {
+                            "size": 5321,
+                            "name": "6114 Kaufleute im Automatenservice"
+                        },
+                        {
+                            "size": 201,
+                            "name": "6115 Berufe im Geld- und Pfandverleih"
+                        },
+                        {
+                            "size": 7129,
+                            "name": "6116 Berufe im Verleih (au\u00dfer Geld u. Pfand)"
+                        },
+                        {
+                            "size": 99966,
+                            "name": "6119 F\u00fchrung - Einkauf und Vertrieb"
+                        }
+                    ],
+                    "name": "611 Einkauf und Vertrieb"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 18338,
+                            "name": "6120 Kaufleute im Handel (o.S.)"
+                        },
+                        {
+                            "size": 146845,
+                            "name": "6121 Kaufleute im Gro\u00df- und Au\u00dfenhandel"
+                        },
+                        {
+                            "size": 7922,
+                            "name": "6128 Kaufleute im Handel (s.s.T.)"
+                        },
+                        {
+                            "size": 1708,
+                            "name": "6129 F\u00fchrung - Handel"
+                        }
+                    ],
+                    "name": "612 Handel"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 60767,
+                            "name": "6131 Berufe Immobilienvermarktung,-verwaltung"
+                        },
+                        {
+                            "size": 8169,
+                            "name": "6132 Berufe im Facility-Management"
+                        },
+                        {
+                            "size": 2111,
+                            "name": "6139 F\u00fchrung-Immobilienwirt., Facility-Manag."
+                        }
+                    ],
+                    "name": "613 Immobilienwirtschaft,Facility-Management"
+                }
+            ],
+            "name": "61 Einkaufs-, Vertriebs- und Handelsberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 1008373,
+                            "name": "6210 Berufe im Verkauf (ohne Produktspezial.)"
+                        },
+                        {
+                            "size": 106449,
+                            "name": "6211 Kassierer/innen, Kartenverk\u00e4ufer/innen"
+                        },
+                        {
+                            "size": 14643,
+                            "name": "6212 Verkaufsstand-, Marktverk\u00e4ufer/innen"
+                        },
+                        {
+                            "size": 27340,
+                            "name": "6218 Berufe im Verkauf (o. Produktspez.)(ssT)"
+                        },
+                        {
+                            "size": 99176,
+                            "name": "6219 Aufsicht und F\u00fchrung - Verkauf"
+                        }
+                    ],
+                    "name": "621 Verkauf (ohne Produktspezialisierung)"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 153429,
+                            "name": "6221 Berufe im Verkauf (Bekleid.,Leder,Sport)"
+                        },
+                        {
+                            "size": 12511,
+                            "name": "6222 Berufe im Verkauf (Schmuck, Uhren)"
+                        },
+                        {
+                            "size": 14451,
+                            "name": "6223 Berufe im Verkauf (B\u00fcro, Geschenk,Spiel)"
+                        },
+                        {
+                            "size": 20313,
+                            "name": "6224 Berufe im Verkauf (Elektro,Haushaltsw.)"
+                        },
+                        {
+                            "size": 42159,
+                            "name": "6225 Berufe im Verkauf (M\u00f6bel, Einrichtung)"
+                        },
+                        {
+                            "size": 63518,
+                            "name": "6226 Berufe im Verkauf (Garten, Heimwerk.)"
+                        },
+                        {
+                            "size": 85599,
+                            "name": "6227 Berufe im Verkauf (KFZ, Zweirad,Zubeh\u00f6r)"
+                        },
+                        {
+                            "size": 17799,
+                            "name": "6228 Berufe im Verkauf (ssT)"
+                        }
+                    ],
+                    "name": "622 Verkauf Bekleid.,Elektro,KFZ,Hartwaren"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 90241,
+                            "name": "6230 Berufe im Verkauf von Lebensmitteln (oS)"
+                        },
+                        {
+                            "size": 166428,
+                            "name": "6231 Berufe Verkauf Back-, Konditoreiwaren"
+                        },
+                        {
+                            "size": 72766,
+                            "name": "6232 Berufe im Verkauf von Fleischwaren"
+                        },
+                        {
+                            "size": 12182,
+                            "name": "6238 Berufe Verkauf von Lebensmitteln (s.s.T)"
+                        }
+                    ],
+                    "name": "623 Verkauf von Lebensmitteln"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 93417,
+                            "name": "6241 Verkauf drogerie-,apotheken\u00fcbliche Waren"
+                        },
+                        {
+                            "size": 10450,
+                            "name": "6242 Berufe Verkauf Sanit\u00e4ts-, Medizinbedarf"
+                        }
+                    ],
+                    "name": "624 Verkauf drog.apotheken.Waren,Medizinbed."
+                },
+                {
+                    "children": [
+                        {
+                            "size": 11409,
+                            "name": "6251 Berufe im Buchhandel"
+                        },
+                        {
+                            "size": 713,
+                            "name": "6252 Berufe im Kunst- und Antiquit\u00e4tenhandel"
+                        },
+                        {
+                            "size": 645,
+                            "name": "6253 Berufe im Musikfachhandel"
+                        }
+                    ],
+                    "name": "625 Buch-Kunst-Antiquit\u00e4ten-,Musikfachhandel"
+                }
+            ],
+            "name": "62 Verkaufsberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 57176,
+                            "name": "6311 Tourismuskaufleute"
+                        },
+                        {
+                            "size": 13195,
+                            "name": "6312 Sport-, Fitnesskaufleute, Sportmanager"
+                        },
+                        {
+                            "size": 7749,
+                            "name": "6313 Animateur/innen, G\u00e4stebetreuer/innen"
+                        },
+                        {
+                            "size": 1293,
+                            "name": "6314 Reiseleiter/innen, Fremdenf\u00fchrer/innen"
+                        },
+                        {
+                            "size": 1942,
+                            "name": "6319 F\u00fchrung - Tourismus und Sport"
+                        }
+                    ],
+                    "name": "631 Tourismus und Sport"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 7734,
+                            "name": "6321 Hotelkaufleute"
+                        },
+                        {
+                            "size": 147191,
+                            "name": "6322 Berufe im Hotelservice"
+                        },
+                        {
+                            "size": 19341,
+                            "name": "6329 Aufsicht und F\u00fchrung - Hotellerie"
+                        }
+                    ],
+                    "name": "632 Hotellerie"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 400581,
+                            "name": "6330 Berufe im Gastronomieservice (o.S.)"
+                        },
+                        {
+                            "size": 27023,
+                            "name": "6331 Berufe in der Systemgastronomie"
+                        },
+                        {
+                            "size": 9583,
+                            "name": "6332 Barkeeper/innen"
+                        },
+                        {
+                            "size": 14018,
+                            "name": "6338 Berufe in der Gastronomie (s.s.T.)"
+                        },
+                        {
+                            "size": 18832,
+                            "name": "6339 Aufsicht und F\u00fchrung - Gastronomie"
+                        }
+                    ],
+                    "name": "633 Gastronomie"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 29882,
+                            "name": "6340 Berufe im Veranstaltungsservice,-manag."
+                        }
+                    ],
+                    "name": "634 Veranstaltungsservice, -management"
+                }
+            ],
+            "name": "63 Tourismus-, Hotel- und Gastst\u00e4ttenberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 196386,
+                            "name": "7110 Gesch\u00e4ftsf\u00fchrer/innen und Vorst\u00e4nde"
+                        }
+                    ],
+                    "name": "711 Gesch\u00e4ftsf\u00fchrung und Vorstand"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 3037,
+                            "name": "7121 Angeh\u00f6rige gesetzgebender K\u00f6rperschaften"
+                        },
+                        {
+                            "size": 6674,
+                            "name": "7122 Leit. Bedienstete Interessenorganisation"
+                        },
+                        {
+                            "size": 12112,
+                            "name": "7123 Betriebsinterne Wahl\u00e4mter"
+                        }
+                    ],
+                    "name": "712 Angeh. gesetzgeb. K\u00f6rp., Interessenorg."
+                },
+                {
+                    "children": [
+                        {
+                            "size": 975577,
+                            "name": "7130 Berufe kaufm.,techn.Betriebswirtsch.(oS)"
+                        },
+                        {
+                            "size": 50245,
+                            "name": "7131 Berufe Unternehmensorganisation,-planung"
+                        },
+                        {
+                            "size": 67550,
+                            "name": "7132 Berufe in der Unternehmensberatung"
+                        },
+                        {
+                            "size": 686,
+                            "name": "7133 Berufe in der Wirtschaftsf\u00f6rderung"
+                        },
+                        {
+                            "size": 5310,
+                            "name": "7138 Berufe Unternehmensorga.,strategie (ssT)"
+                        },
+                        {
+                            "size": 478823,
+                            "name": "7139 Aufsicht,F\u00fchrung-Unternehmensorg,strateg"
+                        }
+                    ],
+                    "name": "713 Unternehmensorganisation und -strategie"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 1990435,
+                            "name": "7140 B\u00fcro- und Sekretariatskr\u00e4fte (o.S.)"
+                        },
+                        {
+                            "size": 9690,
+                            "name": "7141 Fremdsprachensekret\u00e4re,-korrespondenten"
+                        },
+                        {
+                            "size": 8843,
+                            "name": "7142 Dolmetscher/innen und \u00dcbersetzer/innen"
+                        },
+                        {
+                            "size": 56863,
+                            "name": "7143 Steno-, Phonotypisten/-typistinnen"
+                        },
+                        {
+                            "size": 3472,
+                            "name": "7144 Kodierer,Korrekturleser,verw.B\u00fcrokr\u00e4fte"
+                        },
+                        {
+                            "size": 3039,
+                            "name": "7145 Berufe i.d. Auskunft, Kundeninformation"
+                        },
+                        {
+                            "size": 16844,
+                            "name": "7149 Aufsicht - B\u00fcro und Sekretariat"
+                        }
+                    ],
+                    "name": "714 B\u00fcro und Sekretariat"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 89763,
+                            "name": "7151 Berufe Personalentwickl.,-sachbearbeit."
+                        },
+                        {
+                            "size": 104712,
+                            "name": "7152 Berufe in der Personaldienstleistung"
+                        },
+                        {
+                            "size": 15638,
+                            "name": "7159 F\u00fchrung - Personalwesen, -dienstleistung"
+                        }
+                    ],
+                    "name": "715 Personalwesen und -dienstleistung"
+                }
+            ],
+            "name": "71 Berufe Unternehmensf\u00fchrung,-organisation"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 488830,
+                            "name": "7211 Bankkaufleute"
+                        },
+                        {
+                            "size": 36754,
+                            "name": "7212 Anlageberater u. sonst. Finanzdienstl."
+                        },
+                        {
+                            "size": 195701,
+                            "name": "7213 Versicherungskaufleute"
+                        },
+                        {
+                            "size": 18551,
+                            "name": "7214 Finanzanalysten/innen"
+                        },
+                        {
+                            "size": 8081,
+                            "name": "7218 Berufe Versicherungs,Finanzdienstl.(ssT)"
+                        },
+                        {
+                            "size": 19100,
+                            "name": "7219 F\u00fchrung-Versicherung-,Finanzdienstleist."
+                        }
+                    ],
+                    "name": "721 Versicherungs- u. Finanzdienstleistungen"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 288304,
+                            "name": "7221 Berufe in der Buchhaltung"
+                        },
+                        {
+                            "size": 21265,
+                            "name": "7222 Berufe in Kostenrechnung und Kalkulation"
+                        },
+                        {
+                            "size": 80636,
+                            "name": "7223 Berufe im Controlling"
+                        },
+                        {
+                            "size": 29748,
+                            "name": "7224 Berufe in Wirtschaftspr\u00fcfung"
+                        },
+                        {
+                            "size": 24895,
+                            "name": "7229 F\u00fchrung-Rechnungsw.,Controlling,Revision"
+                        }
+                    ],
+                    "name": "722 Rechnungswesen, Controlling und Revision"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 180742,
+                            "name": "7230 Berufe in der Steuerberatung"
+                        }
+                    ],
+                    "name": "723 Steuerberatung"
+                }
+            ],
+            "name": "72 Finanzdienstl.Rechnungsw.,Steuerberatung"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 17571,
+                            "name": "7310 Rechtsberatung, -sprechung,-ordnung(oS)"
+                        },
+                        {
+                            "size": 97576,
+                            "name": "7311 Assistenz Rechtsanwaltskanzlei,Notariat"
+                        },
+                        {
+                            "size": 2753,
+                            "name": "7312 Notare/Notarinnen"
+                        },
+                        {
+                            "size": 32471,
+                            "name": "7313 Rechtsanw\u00e4lte/-anw\u00e4ltinnen"
+                        },
+                        {
+                            "size": 0,
+                            "name": "7314 Staatsanw\u00e4lte/-anw\u00e4ltinnen"
+                        },
+                        {
+                            "size": 44,
+                            "name": "7315 Richter/innen"
+                        },
+                        {
+                            "size": 0,
+                            "name": "7316 Berufe im Verfassungsschutz"
+                        },
+                        {
+                            "size": 28808,
+                            "name": "7318 Rechtsberatung,-sprechung,-ordnung (ssT)"
+                        },
+                        {
+                            "size": 1322,
+                            "name": "7319 F\u00fchrung-Rechtsberatung,sprechung,ordnung"
+                        }
+                    ],
+                    "name": "731 Rechtsberatung, -sprechung und -ordnung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 499315,
+                            "name": "7320 Berufe i.d. \u00f6ffentlichen Verwaltung (oS)"
+                        },
+                        {
+                            "size": 136610,
+                            "name": "7321 Berufe Sozialverwaltung, versicherung"
+                        },
+                        {
+                            "size": 86300,
+                            "name": "7322 Verwalt. Berufe Sozial-,Gesundheitswesen"
+                        },
+                        {
+                            "size": 2234,
+                            "name": "7323 Berufe in der Steuerverwaltung"
+                        },
+                        {
+                            "size": 1351,
+                            "name": "7324 Berufe im Zolldienst"
+                        },
+                        {
+                            "size": 17454,
+                            "name": "7325 Berufe in der Justizverwaltung"
+                        },
+                        {
+                            "size": 40237,
+                            "name": "7328 Berufe \u00f6ffentliche Verwaltung (s.s.T.)"
+                        },
+                        {
+                            "size": 16589,
+                            "name": "7329 Aufsicht und F\u00fchrung - Verwaltung"
+                        }
+                    ],
+                    "name": "732 Verwaltung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 9666,
+                            "name": "7331 Berufe im Archivwesen"
+                        },
+                        {
+                            "size": 23465,
+                            "name": "7332 Berufe im Bibliothekswesen"
+                        },
+                        {
+                            "size": 11229,
+                            "name": "7333 Berufe Dokumentations,Informationsdienst"
+                        },
+                        {
+                            "size": 8391,
+                            "name": "7334 Berufe i.d. medizinischen Dokumentation"
+                        },
+                        {
+                            "size": 1587,
+                            "name": "7339 F\u00fchrung-Medien-Dokument.-,Informationsd."
+                        }
+                    ],
+                    "name": "733 Medien-Dokumentations-Informationsdienst"
+                }
+            ],
+            "name": "73 Berufe in Recht und Verwaltung"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 392446,
+                            "name": "8110 Medizinische Fachangestellte (o.S.)"
+                        },
+                        {
+                            "size": 204697,
+                            "name": "8111 Zahnmedizinische Fachangestellte"
+                        },
+                        {
+                            "size": 5000,
+                            "name": "8112 Podologen/Podologinnen"
+                        },
+                        {
+                            "size": 1338,
+                            "name": "8113 Orthoptisten/Orthoptistinnen"
+                        },
+                        {
+                            "size": 18416,
+                            "name": "8114 Tiermedizinische Fachangestellte"
+                        },
+                        {
+                            "size": 11112,
+                            "name": "8118 Medizinische Fachangestellte (s.s.T.)"
+                        }
+                    ],
+                    "name": "811 Arzt- und Praxishilfe"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 67439,
+                            "name": "8121 Medizinisch-techn.Berufe im Laboratorium"
+                        },
+                        {
+                            "size": 3595,
+                            "name": "8122 Medizin-tech. Berufe Funktionsdiagnostik"
+                        },
+                        {
+                            "size": 25735,
+                            "name": "8123 Medizinisch-technische Berufe Radiologie"
+                        },
+                        {
+                            "size": 724,
+                            "name": "8124 Medizin.-techn. Berufe Veterin\u00e4rmedizin"
+                        },
+                        {
+                            "size": 613,
+                            "name": "8129 F\u00fchrung - Medizinisches Laboratorium"
+                        }
+                    ],
+                    "name": "812 Medizinisches Laboratorium"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 840279,
+                            "name": "8130 Berufe Gesundheits-, Krankenpflege (o.S)"
+                        },
+                        {
+                            "size": 72878,
+                            "name": "8131 Berufe in der Fachkrankenpflege"
+                        },
+                        {
+                            "size": 5295,
+                            "name": "8132 Berufe in der Fachkinderkrankenpflege"
+                        },
+                        {
+                            "size": 12155,
+                            "name": "8133 Berufe operations-/med.-techn. Assistenz"
+                        },
+                        {
+                            "size": 59449,
+                            "name": "8134 Berufe im Rettungsdienst"
+                        },
+                        {
+                            "size": 11127,
+                            "name": "8135 Berufe Geburtshilfe, Entbindungspflege"
+                        },
+                        {
+                            "size": 5875,
+                            "name": "8138 Berufe Gesundheits-, Krankenpflege (ssT)"
+                        },
+                        {
+                            "size": 37311,
+                            "name": "8139 Aufsicht,F\u00fchrung-Krankenpfl.,Rettungsd."
+                        }
+                    ],
+                    "name": "813 Gesundh.,Krankenpfl.,Rettungsd.Geburtsh."
+                },
+                {
+                    "children": [
+                        {
+                            "size": 128362,
+                            "name": "8140 \u00c4rzte/\u00c4rztinnen (o. S.)"
+                        },
+                        {
+                            "size": 5152,
+                            "name": "8141 Fach\u00e4rzte i.d. Kinder- u. Jugendmedizin"
+                        },
+                        {
+                            "size": 15956,
+                            "name": "8142 Fach\u00e4rzte/innen in der Inneren Medizin"
+                        },
+                        {
+                            "size": 12944,
+                            "name": "8143 Fach\u00e4rzte/innen in der Chirurgie"
+                        },
+                        {
+                            "size": 12368,
+                            "name": "8144 Fach\u00e4rzte Hautkr.,Sinnes-Geschlechtsorg."
+                        },
+                        {
+                            "size": 10719,
+                            "name": "8145 Fach\u00e4rzte/-\u00e4rztinnen An\u00e4sthesiologie"
+                        },
+                        {
+                            "size": 9704,
+                            "name": "8146 Fach\u00e4rzte Neurol.,Psychiatr.,Psychother."
+                        },
+                        {
+                            "size": 18343,
+                            "name": "8147 Zahn\u00e4rzte/innen, Kieferorthop\u00e4den/innen"
+                        },
+                        {
+                            "size": 11496,
+                            "name": "8148 \u00c4rzte/\u00c4rztinnen (s.s.T.)"
+                        },
+                        {
+                            "size": 33692,
+                            "name": "8149 F\u00fchrung - Human- und Zahnmedizin"
+                        }
+                    ],
+                    "name": "814 Human- und Zahnmedizin"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 10310,
+                            "name": "8150 Tier\u00e4rzte/-\u00e4rztinnen (o.S.)"
+                        },
+                        {
+                            "size": 902,
+                            "name": "8151 Tier\u00e4rzte/-\u00e4rztinnen f. Gro\u00df-, Nutztiere"
+                        },
+                        {
+                            "size": 974,
+                            "name": "8152 Tier\u00e4rzte/\u00e4rztinnen f\u00fcr Haus-, Heimtiere"
+                        },
+                        {
+                            "size": 23,
+                            "name": "8153 Tierheilpraktiker/innen"
+                        },
+                        {
+                            "size": 95,
+                            "name": "8158 Berufe Tiermedizin, Tierheilkunde (ssT)"
+                        },
+                        {
+                            "size": 47,
+                            "name": "8159 F\u00fchrung - Tiermedizin und Tierheilkunde"
+                        }
+                    ],
+                    "name": "815 Tiermedizin und Tierheilkunde"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 2868,
+                            "name": "8161 Berufe i.d. nicht klinischen Psychologie"
+                        },
+                        {
+                            "size": 29247,
+                            "name": "8162 Berufe in der klinischen Psychologie"
+                        },
+                        {
+                            "size": 6233,
+                            "name": "8163 Berufe nicht \u00e4rztliche Psychotherapie"
+                        }
+                    ],
+                    "name": "816 Psychologie, nicht\u00e4rztl. Psychotherapie"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 146838,
+                            "name": "8171 Berufe in der Physiotherapie"
+                        },
+                        {
+                            "size": 47741,
+                            "name": "8172 Berufe in der Ergotherapie"
+                        },
+                        {
+                            "size": 16581,
+                            "name": "8173 Berufe in der Sprachtherapie"
+                        },
+                        {
+                            "size": 2635,
+                            "name": "8174 Berufe in der Musik-, Kunsttherapie"
+                        },
+                        {
+                            "size": 2755,
+                            "name": "8175 Berufe in der Heilkunde und Hom\u00f6opathie"
+                        },
+                        {
+                            "size": 7640,
+                            "name": "8176 Berufe i.d. Di\u00e4t- und Ern\u00e4hrungstherapie"
+                        },
+                        {
+                            "size": 6248,
+                            "name": "8178 Berufe nicht\u00e4rztl. Therapie,Heilk.(ssT)"
+                        },
+                        {
+                            "size": 860,
+                            "name": "8179 F\u00fchrung - Nicht\u00e4rztl. Therapie,Heilkunde"
+                        }
+                    ],
+                    "name": "817 Nicht \u00e4rztliche Therapie und Heilkunde"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 39217,
+                            "name": "8180 Apotheker, Pharmazeuten"
+                        },
+                        {
+                            "size": 229,
+                            "name": "8181 Fach\u00e4rzte/innen in der Pharmakologie"
+                        },
+                        {
+                            "size": 73565,
+                            "name": "8182 Berufe pharmazeutisch-techn. Assistenz"
+                        },
+                        {
+                            "size": 29690,
+                            "name": "8188 Berufe in der Pharmazie (s.s.T.)"
+                        },
+                        {
+                            "size": 2156,
+                            "name": "8189 F\u00fchrung - Pharmazie"
+                        }
+                    ],
+                    "name": "818 Pharmazie"
+                }
+            ],
+            "name": "81 Medizinische Gesundheitsberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 545036,
+                            "name": "8210 Berufe in der Altenpflege (o.S.)"
+                        },
+                        {
+                            "size": 6653,
+                            "name": "8218 Berufe in der Altenpflege (s.s.T.)"
+                        },
+                        {
+                            "size": 5194,
+                            "name": "8219 F\u00fchrung - Altenpflege"
+                        }
+                    ],
+                    "name": "821 Altenpflege"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 5745,
+                            "name": "8221 Berufe in der Gesundheitsberatung"
+                        },
+                        {
+                            "size": 2500,
+                            "name": "8222 Wellnessberufe"
+                        },
+                        {
+                            "size": 1428,
+                            "name": "8223 Berufe in der Ern\u00e4hrungsberatung"
+                        },
+                        {
+                            "size": 4367,
+                            "name": "8224 Qualit\u00e4tsbeauftragte im Gesundheitswesen"
+                        },
+                        {
+                            "size": 2101,
+                            "name": "8228 Ern\u00e4hrungs,Gesundheitsber.,Wellness(ssT)"
+                        }
+                    ],
+                    "name": "822 Ern\u00e4hrungs-,Gesundheitsberatung,Wellness"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 145297,
+                            "name": "8231 Berufe im Friseurgewerbe"
+                        },
+                        {
+                            "size": 22817,
+                            "name": "8232 Berufe in der Kosmetik"
+                        },
+                        {
+                            "size": 910,
+                            "name": "8233 T\u00e4towierer/innen und Piercer/innen"
+                        },
+                        {
+                            "size": 1746,
+                            "name": "8234 Berufe in der Maskenbildnerei"
+                        },
+                        {
+                            "size": 9296,
+                            "name": "8239 Aufsicht - K\u00f6rperpflege"
+                        }
+                    ],
+                    "name": "823 K\u00f6rperpflege"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 8919,
+                            "name": "8240 Berufe im Bestattungswesen"
+                        },
+                        {
+                            "size": 294,
+                            "name": "8249 Aufsicht und F\u00fchrung - Bestattungswesen"
+                        }
+                    ],
+                    "name": "824 Bestattungswesen"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 7721,
+                            "name": "8250 Medizintechnik (o.S.)"
+                        },
+                        {
+                            "size": 11231,
+                            "name": "8251 Berufe in der Orthop\u00e4die-, Rehatechnik"
+                        },
+                        {
+                            "size": 35803,
+                            "name": "8252 Berufe in der Augenoptik"
+                        },
+                        {
+                            "size": 10185,
+                            "name": "8253 Berufe in der H\u00f6rger\u00e4teakustik"
+                        },
+                        {
+                            "size": 50214,
+                            "name": "8254 Berufe in der Zahntechnik"
+                        },
+                        {
+                            "size": 12347,
+                            "name": "8259 Aufsicht,F\u00fchrung-Med-Orthop\u00e4d,Rehatechn."
+                        }
+                    ],
+                    "name": "825 Medizin-, Orthop\u00e4die- und Rehatechnik"
+                }
+            ],
+            "name": "82 Nichtmed.Gesundheit,K\u00f6rperpfl.,Medizint."
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 811804,
+                            "name": "8311 Berufe i.d. Kinderbetreuung, -erziehung"
+                        },
+                        {
+                            "size": 306671,
+                            "name": "8312 Berufe i.d. Sozialarbeit,Sozialp\u00e4dagogik"
+                        },
+                        {
+                            "size": 188730,
+                            "name": "8313 Berufe Heilerziehungspflege, Sonderp\u00e4d."
+                        },
+                        {
+                            "size": 57326,
+                            "name": "8314 Berufe in der Haus- und Familienpflege"
+                        },
+                        {
+                            "size": 10857,
+                            "name": "8315 Berufe Sozial-,Erziehungs-,Suchtberatung"
+                        },
+                        {
+                            "size": 46021,
+                            "name": "8319 Aufsicht,F\u00fchrung-Erziehung,Sozialarbeit"
+                        }
+                    ],
+                    "name": "831 Erziehung,Sozialarb.,Heilerziehungspfl."
+                },
+                {
+                    "children": [
+                        {
+                            "size": 205977,
+                            "name": "8321 Berufe in der Hauswirtschaft"
+                        },
+                        {
+                            "size": 1397,
+                            "name": "8322 Berufe in der Verbraucherberatung"
+                        },
+                        {
+                            "size": 11839,
+                            "name": "8329 Aufsicht-Hauswirtschaft,Verbraucherber."
+                        }
+                    ],
+                    "name": "832 Hauswirtschaft und Verbraucherberatung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 12934,
+                            "name": "8331 Berufe in der Theologie"
+                        },
+                        {
+                            "size": 10682,
+                            "name": "8332 Berufe in der Gemeindearbeit"
+                        },
+                        {
+                            "size": 934,
+                            "name": "8333 Angeh\u00f6rige geistl. Orden, Mutterh\u00e4user"
+                        },
+                        {
+                            "size": 15918,
+                            "name": "8338 Berufe in Theologie,Gemeindearbeit (ssT)"
+                        },
+                        {
+                            "size": 272,
+                            "name": "8339 F\u00fchrung - Theologie und Gemeindearbeit"
+                        }
+                    ],
+                    "name": "833 Theologie und Gemeindearbeit"
+                }
+            ],
+            "name": "83 Erziehung,soz.,hauswirt.Berufe,Theologie"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 30840,
+                            "name": "8411 Lehrkr\u00e4fte in der Primarstufe"
+                        },
+                        {
+                            "size": 143585,
+                            "name": "8412 Lehrkr\u00e4fte in der Sekundarstufe"
+                        },
+                        {
+                            "size": 14021,
+                            "name": "8413 Lehrkr\u00e4fte an Sonderschulen"
+                        },
+                        {
+                            "size": 1564,
+                            "name": "8414 Berufe in der Lehrerausbildung"
+                        },
+                        {
+                            "size": 11497,
+                            "name": "8418 Lehrkr\u00e4fte allgemeinbild. Schulen (ssT)"
+                        },
+                        {
+                            "size": 1951,
+                            "name": "8419 F\u00fchrung - Allgemeinbildende Schulen"
+                        }
+                    ],
+                    "name": "841 Lehrt\u00e4tigkeit an allgemeinbild. Schulen"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 58194,
+                            "name": "8421 Lehrkr\u00e4fte f\u00fcr berufsbildende F\u00e4cher"
+                        },
+                        {
+                            "size": 36207,
+                            "name": "8422 Berufe betriebl. Ausbildung, Berufsp\u00e4d."
+                        },
+                        {
+                            "size": 3534,
+                            "name": "8429 F\u00fchrung - BBS, betriebl.Ausb., Betr.p\u00e4d."
+                        }
+                    ],
+                    "name": "842 Lehrt.berufsb.F\u00e4cher,betr.Ausb.,Betr.p\u00e4d"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 202200,
+                            "name": "8430 Berufe i. d. Hochschullehre, -forschung"
+                        },
+                        {
+                            "size": 817,
+                            "name": "8439 F\u00fchrung - Hochschullehre und -forschung"
+                        }
+                    ],
+                    "name": "843 Lehr-,Forschungst\u00e4tigkeit an Hochschulen"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 39951,
+                            "name": "8440 Berufe in der Erwachsenenbildung (o.S.)"
+                        },
+                        {
+                            "size": 17624,
+                            "name": "8441 Berufe in der Musikp\u00e4dagogik"
+                        },
+                        {
+                            "size": 4568,
+                            "name": "8442 Berufe in der Religionsp\u00e4dagogik"
+                        },
+                        {
+                            "size": 1076,
+                            "name": "8443 Berufe in der Kunst-, Theaterp\u00e4dagogik"
+                        },
+                        {
+                            "size": 2442,
+                            "name": "8444 Berufe im IT-Anwendungstraining"
+                        },
+                        {
+                            "size": 4048,
+                            "name": "8445 (Fremd-)Sprachenlehrer/innen"
+                        },
+                        {
+                            "size": 3401,
+                            "name": "8448 Lehrkr\u00e4fte au\u00dferschul.Bild.einrich.(ssT)"
+                        },
+                        {
+                            "size": 1573,
+                            "name": "8449 F\u00fchrung-Au\u00dferschul.Bildungseinrichtungen"
+                        }
+                    ],
+                    "name": "844 Lehrt\u00e4tigk. au\u00dferschul.Bildungseinricht."
+                },
+                {
+                    "children": [
+                        {
+                            "size": 16258,
+                            "name": "8450 Sportlehrer/innen (o.S.)"
+                        },
+                        {
+                            "size": 16052,
+                            "name": "8451 Fahrlehrer/innen"
+                        },
+                        {
+                            "size": 301,
+                            "name": "8452 Fluglehrer/innen"
+                        },
+                        {
+                            "size": 2316,
+                            "name": "8453 Tanzlehrer/innen"
+                        },
+                        {
+                            "size": 1586,
+                            "name": "8454 Trainer/innen - Ballsportarten"
+                        },
+                        {
+                            "size": 15054,
+                            "name": "8455 Trainer/innen - Fitness und Gymnastik"
+                        },
+                        {
+                            "size": 3429,
+                            "name": "8458 Sportlehrer/innen (s.s.T.)"
+                        }
+                    ],
+                    "name": "845 Fahr-,Sportunterricht au\u00dferschul. Bild."
+                }
+            ],
+            "name": "84 Lehrende und ausbildende Berufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 1021,
+                            "name": "9110 Berufe in Sprach-, Literaturwissen.(oS)"
+                        },
+                        {
+                            "size": 118,
+                            "name": "9111 Berufe in der Germanistik"
+                        },
+                        {
+                            "size": 72,
+                            "name": "9112 Berufe in der Anglistik, Amerikanistik"
+                        },
+                        {
+                            "size": 34,
+                            "name": "9113 Berufe in der Romanistik"
+                        },
+                        {
+                            "size": 13,
+                            "name": "9114 Berufe i.d. Slawistik, verw. Bereichen"
+                        },
+                        {
+                            "size": 26,
+                            "name": "9115 Berufe in der Arabistik, Orientalistik"
+                        },
+                        {
+                            "size": 36,
+                            "name": "9116 Berufe Sprach-, Literaturwis. asiat.Raum"
+                        },
+                        {
+                            "size": 13,
+                            "name": "9117 Berufe in der Altphilologie"
+                        },
+                        {
+                            "size": 150,
+                            "name": "9118 Berufe Sprach-,Literaturwissensch. (ssT)"
+                        }
+                    ],
+                    "name": "911 Sprach-, Literaturwissenschaften"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 2779,
+                            "name": "9121 Berufe in Philosophie, Religion, Ethik"
+                        },
+                        {
+                            "size": 933,
+                            "name": "9122 Berufe in Geschichtswissenschaften"
+                        },
+                        {
+                            "size": 1296,
+                            "name": "9123 Berufe in der Arch\u00e4ologie"
+                        },
+                        {
+                            "size": 2360,
+                            "name": "9124 Berufe in Medien-, Theaterwissenschaft"
+                        },
+                        {
+                            "size": 341,
+                            "name": "9125 Berufe in der Regionalwissenschaft"
+                        },
+                        {
+                            "size": 181,
+                            "name": "9126 Berufe in der Anthropologie, Ethnologie"
+                        }
+                    ],
+                    "name": "912 Geisteswissenschaften"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 3512,
+                            "name": "9131 Berufe in der Politologie"
+                        },
+                        {
+                            "size": 2656,
+                            "name": "9132 Berufe in der Soziologie"
+                        },
+                        {
+                            "size": 48034,
+                            "name": "9133 Berufe in der Erziehungswissenschaft"
+                        },
+                        {
+                            "size": 13531,
+                            "name": "9134 Berufe in der Markt-, Meinungsforschung"
+                        },
+                        {
+                            "size": 25,
+                            "name": "9135 Berufe in der Demografie"
+                        },
+                        {
+                            "size": 2201,
+                            "name": "9138 Berufe Gesellschaftswissenschaften (ssT)"
+                        }
+                    ],
+                    "name": "913 Gesellschaftswissenschaften"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 7362,
+                            "name": "9140 Berufe in Wirtschaftswissenschaften (oS)"
+                        },
+                        {
+                            "size": 706,
+                            "name": "9148 Berufe in Wirtschaftswissenschaften(ssT)"
+                        }
+                    ],
+                    "name": "914 Wirtschaftswissenschaften"
+                }
+            ],
+            "name": "91 Geistes-Gesellschafts-Wirtschaftswissen."
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 165843,
+                            "name": "9211 Berufe in Werbung und Marketing"
+                        },
+                        {
+                            "size": 148431,
+                            "name": "9212 Berufe im Dialogmarketing"
+                        },
+                        {
+                            "size": 104502,
+                            "name": "9213 Berufe im Kundenmanagement"
+                        },
+                        {
+                            "size": 10155,
+                            "name": "9219 F\u00fchrung - Werbung und Marketing"
+                        }
+                    ],
+                    "name": "921 Werbung und Marketing"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 25583,
+                            "name": "9220 Berufe in der \u00d6ffentlichkeitsarbeit"
+                        },
+                        {
+                            "size": 1258,
+                            "name": "9229 F\u00fchrung - \u00d6ffentlichkeitsarbeit"
+                        }
+                    ],
+                    "name": "922 \u00d6ffentlichkeitsarbeit"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 21498,
+                            "name": "9230 Verlags- und Medienkaufleute (o.S.)"
+                        },
+                        {
+                            "size": 9292,
+                            "name": "9238 Verlags- und Medienkaufleute (s.s.T.)"
+                        },
+                        {
+                            "size": 1708,
+                            "name": "9239 F\u00fchrung - Verlags- und Medienwirtschaft"
+                        }
+                    ],
+                    "name": "923 Verlags- und Medienwirtschaft"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 75427,
+                            "name": "9241 Redakteure/innen, Journalisten/innen"
+                        },
+                        {
+                            "size": 3644,
+                            "name": "9242 Lektoren/innen"
+                        },
+                        {
+                            "size": 911,
+                            "name": "9243 Autoren/Autorinnen, Schriftsteller/innen"
+                        },
+                        {
+                            "size": 2742,
+                            "name": "9249 F\u00fchrung - Redaktion und Journalismus"
+                        }
+                    ],
+                    "name": "924 Redaktion und Journalismus"
+                }
+            ],
+            "name": "92 Werbung,Marketing,kaufm,red.Medienberufe"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 10013,
+                            "name": "9310 Berufe im Produkt- und Industriedesign"
+                        }
+                    ],
+                    "name": "931 Produkt- und Industriedesign"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 6158,
+                            "name": "9321 Berufe in der Innenarchitektur"
+                        },
+                        {
+                            "size": 9603,
+                            "name": "9322 Berufe im visuellen Marketing"
+                        },
+                        {
+                            "size": 11709,
+                            "name": "9323 Berufe in der Raumausstattung"
+                        },
+                        {
+                            "size": 728,
+                            "name": "9329 Aufsicht-Innenarchitektur,Raumausstatt."
+                        }
+                    ],
+                    "name": "932 Innenarchitektur, Raumausstattung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 4277,
+                            "name": "9330 Berufe Kunsthandwerk, bildend.Kunst (oS)"
+                        },
+                        {
+                            "size": 305,
+                            "name": "9331 Berufe in der Bildhauerei"
+                        },
+                        {
+                            "size": 782,
+                            "name": "9332 Kunstmaler/innen, Zeichner/innen"
+                        },
+                        {
+                            "size": 794,
+                            "name": "9333 Berufe Drechslerei, Spielzeugherstellung"
+                        },
+                        {
+                            "size": 155,
+                            "name": "9334 Berufe im Vergolderhandwerk"
+                        },
+                        {
+                            "size": 841,
+                            "name": "9335 Berufe in der Wachszieherei"
+                        },
+                        {
+                            "size": 142,
+                            "name": "9338 Berufe Kunsthandwerk, bild. Kunst (ssT)"
+                        },
+                        {
+                            "size": 136,
+                            "name": "9339 Aufsicht - Kunsthandwerk,bildende Kunst"
+                        }
+                    ],
+                    "name": "933 Kunsthandwerk und bildende Kunst"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 3091,
+                            "name": "9341 Berufe kunsthandwerkl. Keramikgestaltung"
+                        },
+                        {
+                            "size": 1093,
+                            "name": "9342 Berufe kunsthand.GlasKeram,Porzellanmal."
+                        },
+                        {
+                            "size": 355,
+                            "name": "9343 Berufe kunsthandwerkliche Glasbl\u00e4serei"
+                        },
+                        {
+                            "size": 136,
+                            "name": "9349 Aufsicht-Kunsthandw.Keramik,Glasgestalt."
+                        }
+                    ],
+                    "name": "934 Kunsthandwerkl. Keramik-, Glasgestaltung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 651,
+                            "name": "9351 Berufe kunsthandwerkl. Metallgestaltung"
+                        },
+                        {
+                            "size": 4812,
+                            "name": "9352 Kunsthandw.Schmuckherst.,Edelsteinbearb."
+                        },
+                        {
+                            "size": 1171,
+                            "name": "9353 Berufe in der Gravur"
+                        },
+                        {
+                            "size": 3691,
+                            "name": "9354 Berufe Schilder-,Lichtreklameherstellung"
+                        },
+                        {
+                            "size": 566,
+                            "name": "9359 Aufsicht-Kunsthandwerkl.Metallgestaltung"
+                        }
+                    ],
+                    "name": "935 Kunsthandwerkliche Metallgestaltung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 617,
+                            "name": "9360 Berufe im Musikinstrumentenbau (o.S.)"
+                        },
+                        {
+                            "size": 446,
+                            "name": "9361 Berufe im Streich-, Zupfinstrumentenbau"
+                        },
+                        {
+                            "size": 386,
+                            "name": "9362 Berufe im Holzblasinstrumentenbau"
+                        },
+                        {
+                            "size": 375,
+                            "name": "9363 Berufe im Metallblasinstrumentenbau"
+                        },
+                        {
+                            "size": 906,
+                            "name": "9364 Berufe im Klavier- und Cembalobau"
+                        },
+                        {
+                            "size": 620,
+                            "name": "9365 Berufe im Orgel- und Harmoniumbau"
+                        },
+                        {
+                            "size": 115,
+                            "name": "9368 Berufe im Musikinstrumentenbau (s.s.T.)"
+                        },
+                        {
+                            "size": 150,
+                            "name": "9369 Aufsicht - Musikinstrumentenbau"
+                        }
+                    ],
+                    "name": "936 Musikinstrumentenbau"
+                }
+            ],
+            "name": "93 Produktdesign, Kunsthandwerk"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 17461,
+                            "name": "9411 Musiker/innen"
+                        },
+                        {
+                            "size": 4905,
+                            "name": "9412 S\u00e4nger/innen"
+                        },
+                        {
+                            "size": 964,
+                            "name": "9413 Dirigenten/Dirigentinnen"
+                        },
+                        {
+                            "size": 43,
+                            "name": "9414 Komponisten/Komponistinnen"
+                        },
+                        {
+                            "size": 597,
+                            "name": "9418 Musik-,Gesangs-, Dirigentent\u00e4tigk. (ssT)"
+                        }
+                    ],
+                    "name": "941 Musik-, Gesang-, Dirigentent\u00e4tigkeiten"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 4818,
+                            "name": "9421 Schauspieler/innen"
+                        },
+                        {
+                            "size": 2594,
+                            "name": "9422 T\u00e4nzer/innen, Choreografen/innen"
+                        },
+                        {
+                            "size": 93,
+                            "name": "9423 Mannequins, Dressmen, sonstige Models"
+                        },
+                        {
+                            "size": 7120,
+                            "name": "9424 Athleten, Berufssportler"
+                        },
+                        {
+                            "size": 99,
+                            "name": "9425 Berufe personenbezog. Dienstleistungen"
+                        },
+                        {
+                            "size": 923,
+                            "name": "9428 BerufeSchauspielTanz,Bewegungskunst(ssT)"
+                        }
+                    ],
+                    "name": "942 Schauspiel, Tanz und Bewegungskunst"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 454,
+                            "name": "9430 Berufe in Moderation, Unterhaltung (oS)"
+                        },
+                        {
+                            "size": 23,
+                            "name": "9431 Komiker/innen, Kabarettisten/innen"
+                        },
+                        {
+                            "size": 203,
+                            "name": "9432 Zauberer/innen, Illusionisten/innen"
+                        },
+                        {
+                            "size": 1065,
+                            "name": "9433 H\u00f6rfunk-, Fernsehmoderatoren/innen"
+                        },
+                        {
+                            "size": 4497,
+                            "name": "9434 Berufe im Bereich Gl\u00fccks- und Wettspiel"
+                        },
+                        {
+                            "size": 360,
+                            "name": "9438 Berufe in Moderation, Unterhaltung (ssT)"
+                        }
+                    ],
+                    "name": "943 Moderation und Unterhaltung"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 7367,
+                            "name": "9440 Berufe Theater-,Film-,Fernsehproduk.(oS)"
+                        },
+                        {
+                            "size": 1743,
+                            "name": "9441 Berufe in der Regie"
+                        },
+                        {
+                            "size": 1071,
+                            "name": "9448 Berufe Theater-,Film-, Fernsehprod.(ssT)"
+                        },
+                        {
+                            "size": 4627,
+                            "name": "9449 Aufsicht,F\u00fchrung-TheaterFilm,Fernsehprod"
+                        }
+                    ],
+                    "name": "944 Theater-, Film- und Fernsehproduktion"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 18879,
+                            "name": "9451 Berufe Veranstaltungs- und B\u00fchnentechnik"
+                        },
+                        {
+                            "size": 3258,
+                            "name": "9452 Berufe in der Kameratechnik"
+                        },
+                        {
+                            "size": 12127,
+                            "name": "9453 Berufe in der Bild- und Tontechnik"
+                        },
+                        {
+                            "size": 318,
+                            "name": "9458 Berufe Veranstalt.-Kamera-,Tontech.(ssT)"
+                        },
+                        {
+                            "size": 2705,
+                            "name": "9459 Aufsicht-Veranstaltungs-Kamera-,Tontech."
+                        }
+                    ],
+                    "name": "945 Veranstaltungs-, Kamera-, Tontechnik"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 2857,
+                            "name": "9461 Berufe i.d. B\u00fchnen- und Kost\u00fcmbildnerei"
+                        },
+                        {
+                            "size": 2763,
+                            "name": "9462 Berufe in der Requisite"
+                        },
+                        {
+                            "size": 130,
+                            "name": "9469 Aufsicht-B\u00fchnen-,Kost\u00fcmbildn.,Requisite"
+                        }
+                    ],
+                    "name": "946 B\u00fchnen- und Kost\u00fcmbildnerei, Requisite"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 2766,
+                            "name": "9470 Museumsberufe (o.S.)"
+                        },
+                        {
+                            "size": 5378,
+                            "name": "9471 Berufe Museums- und Ausstellungstechnik"
+                        },
+                        {
+                            "size": 335,
+                            "name": "9472 Kunstsachverst\u00e4ndige"
+                        },
+                        {
+                            "size": 1426,
+                            "name": "9479 F\u00fchrung - Museum"
+                        }
+                    ],
+                    "name": "947 Museumstechnik und -management"
+                }
+            ],
+            "name": "94 Darstellende, unterhaltende Berufe"
+        },
+        {
+            "children": [],
+            "name": "01 Angeh\u00f6rige der regul\u00e4ren Streitkr\u00e4fte"
+        }
+    ],
+    "name": "flare"
+}
