@@ -2,10 +2,13 @@
 001 Bundesbereich	0
 0011 Bundesbeamte	180000
 0012 Berufs- und Zeitsoldaten	163800
+0013 Bundesarbeitnehmer	145700
 002 Landesbereich	0
 0021 Landesbeamte	2364100
+0022 Landesarbeitnehmer	1089000
 003 Kommunaler Bereich	0
 0031 Kommunalbeamte	186100
+0032 Kommunalarbeitnehmer	1278000
 aa Selbstständige	0
 aaa Selbständige	0
 aaaa Selbstständige	4300000
