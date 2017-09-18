@@ -112,6 +112,7 @@ d3.json("flare.json", function(error, data) {
       .style("left", (d) => d.x0 + "px")
       .style("top", (d) => d.y0 + "px")
       .style("border-spacing", (d) => "2px 2px")
+      //.style("border-color", (d) => "rgb(0,0,0)")
       .style("width", (d) => Math.max(0, d.x1 - d.x0 - 1) + "px")
       .style("height", (d) => Math.max(0, d.y1 - d.y0  - 1) + "px")
       .style("background", (d) => color(d.parent.data.name))//d3.rgb((1-d.data.males)*255, 0, (d.data.males)*255))//

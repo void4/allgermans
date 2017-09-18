@@ -1,14 +1,109 @@
 00 Beamte	4690000	152,409	57,287	177,729	31,891	36,223	136,509	35,300	1,664	355	17,549	12,508	5,041
 001 Bundesbereich	0
-0011 Bundesbeamte	180000
-0012 Berufs- und Zeitsoldaten	163800
-0013 Bundesarbeitnehmer	145700
+0011 Bundesbeamte Politische Führung	14510	8440
+0012 Bundesmitarbeiter Politische Führung	9565	3410
+0011 Bundesbeamte Innere Verwaltung	1695	790
+0012 Bundesmitarbeiter Innere Verwaltung	2230	780
+0011 Bundesbeamte Statistischer Dienst	665	350
+0012 Bundesmitarbeiter Statistischer Dienst	1510	575
+0011 Bundesbeamte Zivildienst	315	150
+0012 Bundesmitarbeiter Zivildienst	945	355
+0011 Bundesbeamte Hochbauverwaltung	280	145
+0012 Bundesmitarbeiter Hochbauverwaltung	885	415
+0011 Bundesbeamte Sonstige allgemeine Staatsaufgaben	2380	1540
+0012 Bundesmitarbeiter Sonstige allgemeine Staatsaufgaben	515	335
+0011 Bundesbeamte Auswärtige Angelegenheiten	2850	1945
+0012 Bundesmitarbeiter Auswärtige Angelegenheiten	6340	3010
+0011 Bundesbeamte Bundeswehrverwaltung	22665	16220
+0012 Bundesmitarbeiter Bundeswehrverwaltung	50275	31065
+0011 Bundesbeamte Deutsche Verteidigungsstreitkräfte	162935	146565
+0012 Bundesmitarbeiter Deutsche Verteidigungsstreitkräfte	0	0
+0011 Bundesbeamte Polizei	37610	31175
+0012 Bundesmitarbeiter Polizei	7235	3730
+0011 Bundesbeamte Bevölkerungs- und Katastrophenschutz	220	160
+0012 Bundesmitarbeiter Bevölkerungs- und Katastrophenschutz	1110	655
+0011 Bundesbeamte Wetterdienst	1550	1060
+0012 Bundesmitarbeiter Wetterdienst	745	410
+0011 Bundesbeamte Rechtsschutz	2935	1750
+0012 Bundesmitarbeiter Rechtsschutz	2035	565
+0011 Bundesbeamte Finanzverwaltung	38690	25510
+0012 Bundesmitarbeiter Finanzverwaltung	6930	2650
+0011 Bundesbeamte Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten2600	1630
+0012 Bundesmitarbeiter Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten8875	4270
+0011 Bundesbeamte "Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik"	2000	1055
+0012 Bundesmitarbeiter "Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik"	4625	1625
+0011 Bundesbeamte Gesundheit, Umwelt, Sport und Erholung	1520	810
+0012 Bundesmitarbeiter Gesundheit, Umwelt, Sport und Erholung	5590	1965
+0011 Bundesbeamte Ernährung, Landwirtschaft und Forsten	25	15
+0012 Bundesmitarbeiter Ernährung, Landwirtschaft und Forsten	280	90
+0011 Bundesbeamte Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen	490	290
+0012 Bundesmitarbeiter Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen	805	380
+0011 Bundesbeamte Verkehrs- und Nachrichtenwesen	3965	2905
+0012 Bundesmitarbeiter Verkehrs- und Nachrichtenwesen	15550	11450
+0011 Bundesbeamte Eisenbahnen und öffentlicher Personennahverkehr	32330	28125
+0012 Bundesmitarbeiter Eisenbahnen und öffentlicher Personennahverkehr	1240	930
+0011 Bundesbeamte Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen	7645	4995
+0012 Bundesmitarbeiter Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen	6370	2910
+0011 Bundesbeamte Grund- und Kapitalvermögen, Sondervermögen	1280	735
+0012 Bundesmitarbeiter Grund- und Kapitalvermögen, Sondervermögen	5370	2830
 002 Landesbereich	0
-0021 Landesbeamte	2364100
-0022 Landesarbeitnehmer	1089000
+0021 Landesbeamte Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten	60420	30480
+0022 Landesmitarbeiter Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten	74800	30520
+0021 Landesbeamte Öffentliche Sicherheit und Ordnung	241865	187480
+0022 Landesmitarbeiter Öffentliche Sicherheit und Ordnung	43555	18100
+0021 Landesbeamte Rechtsschutz	114055	59160
+0022 Landesmitarbeiter Rechtsschutz	59395	12665
+0021 Landesbeamte Finanzverwaltung	119270	48900
+0022 Landesmitarbeiter Finanzverwaltung	22575	5695
+0021 Landesbeamte Grundschulen	132445	11235
+0022 Landesmitarbeiter Grundschulen	49285	5460
+0021 Landesbeamte Weiterführende allgemeinbildende Schulen	326395	111740
+0022 Landesmitarbeiter Weiterführende allgemeinbildende Schulen	89800	26775
+0021 Landesbeamte Sonder-/Förderschulen	51795	10960
+0022 Landesmitarbeiter Sonder-/Förderschulen	24125	3930
+0021 Landesbeamte Berufliche Schulen	82250	41945
+0022 Landesmitarbeiter Berufliche Schulen	32210	13875
+0021 Landesbeamte Sonstige schulische Aufgaben	29145	8220
+0022 Landesmitarbeiter Sonstige schulische Aufgaben	7430	2860
+0021 Landesbeamte Öffentliche Hochschulen und Berufsakademien	54540	38540
+0022 Landesmitarbeiter Öffentliche Hochschulen und Berufsakademien	271510	138135
+0021 Landesbeamte Hochschulkliniken	3330	2470
+0022 Landesmitarbeiter Hochschulkliniken	195770	56760
+0021 Landesbeamte Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik	6850	2350
+0022 Landesmitarbeiter Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik	25190	5405
+0021 Landesbeamte Gesundheit, Umwelt, Sport und Erholung	7390	4360
+0022 Landesmitarbeiter Gesundheit, Umwelt, Sport und Erholung	41110	14295
+0021 Landesbeamte Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste	6995	5115
+0022 Landesmitarbeiter Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste	10865	6025
+0021 Landesbeamte Ernährung, Landwirtschaft und Forsten	12125	9100
+0022 Landesmitarbeiter Ernährung, Landwirtschaft und Forsten	22485	13165
+0021 Landesbeamte Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen	2730	2010
+0022 Landesmitarbeiter Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen	26190	18575
+0021 Landesbeamte Verkehrs- und Nachrichtenwesen	3865	2525
+0022 Landesmitarbeiter Verkehrs- und Nachrichtenwesen	43410	33930
+0021 Landesbeamte Finanzwirtschaft	300	160
+0022 Landesmitarbeiter Finanzwirtschaft	570	270
 003 Kommunaler Bereich	0
-0031 Kommunalbeamte	186100
-0032 Kommunalarbeitnehmer	1278000
+0031 Kommunalbeamte Zentrale Verwaltung	115045	73390
+0032 Kommunalmitarbeiter Zentrale Verwaltung	307565	110925
+0031 Kommunalbeamte Schule und Kultur	13325	5970
+0032 Kommunalmitarbeiter Schule und Kultur	164850	47425
+0031 Kommunalbeamte Soziales und Jugend	30835	10405
+0032 Kommunalmitarbeiter Soziales und Jugend	357445	45620
+0031 Kommunalbeamte Gesundheit und Sport	3160	1560
+0032 Kommunalmitarbeiter Gesundheit und Sport	155430	44475
+0031 Kommunalbeamte dar.: Räumliche Planung und Entwicklung	5945	3820
+0032 Kommunalmitarbeiter dar.: Räumliche Planung und Entwicklung	23505	11450
+0031 Kommunalbeamte Bauen und Wohnen	6330	3410
+0032 Kommunalmitarbeiter Bauen und Wohnen	29325	14005
+0031 Kommunalbeamte Ver- und Entsorgung	2150	1375
+0032 Kommunalmitarbeiter Ver- und Entsorgung	86160	67695
+0031 Kommunalbeamte Verkehrsflächen und -anlagen, ÖPNV	2225	1450
+0032 Kommunalmitarbeiter Verkehrsflächen und -anlagen, ÖPNV	39840	34255
+0031 Kommunalbeamte Natur- und Landschaftspflege	3745	2515
+0032 Kommunalmitarbeiter Natur- und Landschaftspflege	46965	35005
+0031 Kommunalbeamte Sonstiges	3575	2035
+0032 Kommunalmitarbeiter Sonstiges	66985	48345
 bb In Lehre
 bb1 Schüler
 bb11 Grundschüler	2800000
