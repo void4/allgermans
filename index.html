@@ -69,6 +69,7 @@ const margin = {top: 40, right: 10, bottom: 10, left: 10},
 const treemap = d3.treemap().size([width, height]);
 
 var fontSize = function(s) {
+	/*
 	if (s<10000) {
 		return 6;
 	} else if (s<30000) {
@@ -80,6 +81,8 @@ var fontSize = function(s) {
 	} else {
 		return 30;
 	}
+	*/
+	return Math.round(Math.log(s));
 }
 
 const div = d3.select("body").append("div")
