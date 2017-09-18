@@ -26,13 +26,13 @@ bb26 Studenten Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin	6
 bb27 Studenten Ingenieurwissenschaften	757173
 bb28 Studenten Kunst, Kunstwissenschaft	94148
 bb29 Studenten Sonstige Fächer und ungeklärt	5513
-cc Renter
-cc1 Renter
-cc11 Renter	17300000
+cc Arbeitslose
+cc1 Arbeitslose
+cc11 Arbeitslose	2600000
 dd Kinder
 dd1 Kinder
 dd11 Kinder <1 Jahr	740000
 dd12 Kinder zwischen 1 und 6 Jahren	3590000
-ee Arbeitslose
-ee1 Arbeitslose
-ee11 Arbeitslose	2600000
+ee Renter
+ee1 Renter
+ee11 Renter	17300000
