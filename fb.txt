@@ -1,6 +1,9 @@
 a1 Selbstständige insgesamt	4161000
-a10 Selbständige
-a100 Freiberufler	992000
+a10 Freiberufler	992000
+a101 Freie Kulturberufe	328000
+a101 Freie Heilberufe	414000
+a101 Freie Technisch-/Naturwissenschaftliche Berufe	261000
+a101 Freie Rechts-, Wirtschafts- und Steuerberatende Berufe	379000
 a11 Heil- und heilpädagogische Berufe	294000
 a111 Ärzte/Ärztinnen	124000
 a112 Zahnärzte/-ärztinnen	53000

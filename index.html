@@ -57,7 +57,7 @@ var germanFormat = function(number) {
 };
 
 var berufeIm = function(s) {
-    var s = s.replace("Berufe in der", "").replace("Berufe im", "").replace("Berufe in", "").replace("Berufe", "");
+    var s = s.replace("Berufe in der", "").replace("Berufe i.d.", "").replace("Berufe für", "").replace("Berufe im", "").replace("Berufe in", "").replace("Berufe", "");
     return s.slice(s.indexOf(" ")+1);
 }
 
@@ -67,6 +67,20 @@ const margin = {top: 40, right: 10, bottom: 10, left: 10},
       color = d3.scaleOrdinal().range(d3.schemeCategory20c);
 
 const treemap = d3.treemap().size([width, height]);
+
+var fontSize = function(s) {
+	if (s<10000) {
+		return 6;
+	} else if (s<30000) {
+		return 14;
+	} else if (s<100000) {
+		return 14;
+	} else if (s<1000000) {
+		return 18;
+	} else {
+		return 30;
+	}
+}
 
 const div = d3.select("body").append("div")
     .style("position", "relative")
@@ -89,11 +103,12 @@ d3.json("flare.json", function(error, data) {
       .attr("class", "node")
       .style("left", (d) => d.x0 + "px")
       .style("top", (d) => d.y0 + "px")
+      .style("border-spacing", (d) => "2px 2px")
       .style("width", (d) => Math.max(0, d.x1 - d.x0 - 1) + "px")
       .style("height", (d) => Math.max(0, d.y1 - d.y0  - 1) + "px")
       .style("background", (d) => color(d.parent.data.name))//d3.rgb((1-d.data.males)*255, 0, (d.data.males)*255))//
-      .style("font-size", (d) => Math.round(Math.log(d.data.size))+"px")
-      .text((d) => berufeIm(d.data.name) + ":\n"    + germanFormat(d.data.size) + " ♂: " + Math.round(d.data.males*100)+"% ♀:" + Math.round(100-d.data.males*100)+"%");
+      .style("font-size", (d) =>fontSize(d.data.size)+"px")// Math.round(Math.sqrt(d.data.size)/10)
+      .text((d) => berufeIm(d.data.name) + ":\n"    + germanFormat(d.data.size) + " ♂:" + Math.round(d.data.males*100)+"% ♀:" + Math.round(100-d.data.males*100)+"%");
 
   d3.selectAll("input").on("change", function change() {
     const value = this.value === "count"

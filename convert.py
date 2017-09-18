@@ -10,7 +10,7 @@ cats = {"name":"flare", "children":[]}
 def idlen(a):
     return len(a.split(" ")[0])
 
-lines = sorted([line.strip() for line in f4.readlines()+f.readlines()+f2.readlines()], key=idlen)
+lines = sorted([line.strip() for line in f.readlines()+f4.readlines()+f2.readlines()], key=idlen)
 
 gblines = sorted([line.strip().split("\t") for line in f3.readlines()])
 
