@@ -1,0 +1,34 @@
+a1 Selbstständige insgesamt	4161000
+a10 Selbständige
+a100 Freiberufler	992000
+a11 Heil- und heilpädagogische Berufe	294000
+a111 Ärzte/Ärztinnen	124000
+a112 Zahnärzte/-ärztinnen	53000
+a113 Tierärzte/-ärztinnen	14000
+a114 Physiotherapeuten/-therapeutinnen	37000
+a115 Psychotherapeuten/-therapeutinnen	24000
+a12 Sozialberufe	53000
+a121 Erzieher/-innen	17000
+a122 Pädagogen/Pädagoginnen	28000
+a13 Rechts-, steuer- und wirtschaftsberatende Berufe	189000
+a131 Rechtsanwälte/Rechtsanwältinnen	82000
+a132 Steuerbevollmächtigte	46000
+a133 Unternehmensberater/-innen	24000
+a134 Vermögens-, Finanz,- Anlagen-, Rentenberater/-innen	17000
+a14 Kulturberufe	171000
+a141 Journalisten/Journalistinnen	30000
+a142 Dolmetscher/-innen, Übersetzer/-innen	21000
+a143 Schauspieler/-inne	9000
+a144 Grafiker/-innen	21000
+a145 Kunsthandwerker/-innen	20000
+a146 Autoren/Autorinnen, Schriftsteller/-innen, Werbetexter/-innen, Dichter/-innen	14000
+a15 Medien-, Informations- und Kommunikationberufe	70000
+a151 Seminarleiter/-innen	11000
+a152 Lehrer/-innen (soweit anders nicht genannt)	38000
+a153 Erwachsenenbildner/-innen an IHK‘s, VHS und anderen Bildungseinrichtungen	20000
+a16 Naturwissenschaftliche/technische und Umweltberufe	203000
+a161 Ingenieure/Ingenieurinnen	59000
+a162 Architekten/Architektinnen	49000
+a163 Baustatiker/-innen	21000
+a164 Fahrschulinhaber/-innen 14000
+a165 Wissenschaftler/-innen (soweit anders nicht genannt)	11000

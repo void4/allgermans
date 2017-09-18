@@ -1,6 +1,7 @@
 f = open("data.txt")
 f2 = open("customdata.txt")
 f3 = open("gb.txt")
+f4 = open("fb.txt")
 from collections import OrderedDict
 import json
 
@@ -9,7 +10,7 @@ cats = {"name":"flare", "children":[]}
 def idlen(a):
     return len(a.split(" ")[0])
 
-lines = sorted([line.strip() for line in f.readlines()+f2.readlines()], key=idlen)
+lines = sorted([line.strip() for line in f4.readlines()+f.readlines()+f2.readlines()], key=idlen)
 
 gblines = sorted([line.strip().split("\t") for line in f3.readlines()])
 
@@ -36,6 +37,7 @@ for line in lines:
         root = cats["children"]
         for i in range(2,len(cid)):
             skey = cid[:i]
+            #print(skey)
             key = [d for d in root if d["name"].startswith(skey)][0]
             root = key["children"]
         if len(cid)==4:

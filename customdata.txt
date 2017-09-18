@@ -9,9 +9,6 @@
 003 Kommunaler Bereich	0
 0031 Kommunalbeamte	186100
 0032 Kommunalarbeitnehmer	1278000
-aa Selbstständige	0
-aaa Selbständige	0
-aaaa Selbstständige	4300000
 bb In Lehre
 bb1 Schüler
 bb11 Grundschüler	2800000
