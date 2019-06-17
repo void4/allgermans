@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>USA by Occupations</title>
+<link rel="icon" href="flag.png">
+<style>
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  position: relative;
+  width: 8000px;
+}
+form {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.node {
+  border: solid 1px white;
+  font: 10px sans-serif;
+  line-height: 12px;
+  overflow: hidden;
+  position: absolute;
+  text-indent: 2px;
+}
+</style>
+<img style="float:left;width:60px;" src="usflag.png" alt="US Flag">
+<div style="padding-left:15px;">
+<h2 style="margin-left: 80px;position:relative;">USA</h2>
+Data source: Bureau of Labor Statistics, 2018: <a href="https://www.bls.gov/cps/cpsaat11b.htm">https://www.bls.gov/cps/cpsaat11b.htm</a>
+<br>
+Creator of this infographic: /u/7373737373
+</div>
+<!--
+<form>
+  <label><input type="radio" name="mode" value="size" checked> Size</label>
+  <label><input type="radio" name="mode" value="count"> Count</label>
+</form>
+-->
+<script src="d3.v4.min.js"></script>
+<script>
+'use strict';
+
+var germanFormat = function(number) {
+    return number;
+    /*
+  var postComma, preComma, stringReverse, _ref;
+  stringReverse = function(str) {
+    return str.split('').reverse().join('');
+  };
+  _ref = number.toFixed(2).split('.'), preComma = _ref[0], postComma = _ref[1];
+  preComma = stringReverse(stringReverse(preComma).match(/.{1,3}/g).join(','));
+  return "" + preComma;
+  */
+};
+
+const margin = {top: 40, right: 10, bottom: 10, left: 10},
+      width = 8000 - margin.left - margin.right,
+      height = 8000 - margin.top - margin.bottom,
+      color = d3.scaleOrdinal().range(d3.schemeCategory20c);
+
+const treemap = d3.treemap().size([width, height]);
+
+var fontSize = function(s) {
+	/*
+	if (s<10000) {
+		return 6;
+	} else if (s<30000) {
+		return 14;
+	} else if (s<100000) {
+		return 14;
+	} else if (s<1000000) {
+		return 18;
+	} else {
+		return 30;
+	}
+	*/
+	return Math.round(Math.log(s));
+}
+
+var getTitle = function(d) {
+	return d.data.name + ":\n"    + germanFormat(d.data.size) + " Median Age:" + Math.round(d.data.age);
+}
+
+const div = d3.select("body").append("div")
+    .style("position", "relative")
+    .style("width", (width + margin.left + margin.right) + "px")
+    .style("height", (height + margin.top + margin.bottom) + "px")
+    .style("left", margin.left + "px")
+    .style("top", margin.top + "px");
+
+d3.json("americans.json", function(error, data) {
+  if (error) throw error;
+
+  const root = d3.hierarchy(data, (d) => d.children)
+    .sum((d) => d.size);
+
+  const tree = treemap(root);
+
+  const node = div.datum(root).selectAll(".node")
+      .data(tree.leaves())
+    .enter().append("div")
+      .attr("class", "node")
+      .attr("title", (d) => getTitle(d))
+      .style("left", (d) => d.x0 + "px")
+      .style("top", (d) => d.y0 + "px")
+      .style("border-spacing", (d) => "2px 2px")
+      //.style("border-color", (d) => "rgb(0,0,0)")
+      .style("width", (d) => Math.max(0, d.x1 - d.x0 - 1) + "px")
+      .style("height", (d) => Math.max(0, d.y1 - d.y0  - 1) + "px")
+      .style("background", (d) => color(d.parent.data.name))//d3.rgb((1-d.data.males)*255, 0, (d.data.males)*255))//
+      .style("font-size", (d) =>fontSize(d.data.size)+"px")// Math.round(Math.sqrt(d.data.size)/10)
+      .text((d) => getTitle(d));
+
+  d3.selectAll("input").on("change", function change() {
+    const value = this.value === "count"
+        ? (d) => { return d.size ? 1 : 0;}
+        : (d) => { return d.size; };
+
+    const newRoot = d3.hierarchy(data, (d) => d.children)
+      .sum(value);
+
+    node.data(treemap(newRoot).leaves())
+      .transition()
+        .duration(1500)
+        .style("left", (d) => d.x0 + "px")
+        .style("top", (d) => d.y0 + "px")
+        .style("width", (d) => Math.max(0, d.x1 - d.x0 - 1) + "px")
+        .style("height", (d) => Math.max(0, d.y1 - d.y0  - 1) + "px")
+  });
+});
+
+</script>
