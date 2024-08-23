@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <title>USA by Occupations</title>
-<link rel="icon" href="flag.png">
+<link rel="icon" href="usflag.png">
 <style>
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -23,12 +23,12 @@ form {
   text-indent: 2px;
 }
 </style>
-<img style="float:left;width:60px;" src="usflag.png" alt="US Flag">
+
 <div style="padding-left:15px;">
-<h2 style="margin-left: 80px;position:relative;">USA</h2>
-Data source: Bureau of Labor Statistics, 2018: <a href="https://www.bls.gov/cps/cpsaat11b.htm">https://www.bls.gov/cps/cpsaat11b.htm</a>
+<h2 style="margin-left: 0px;position:relative;"><img style="float:left;width:60px;" src="usflag.png" alt="US Flag">&nbspUSA</h2>
+Data source: Bureau of Labor Statistics, 2024: <a href="https://www.bls.gov/cps/cpsaat11b.htm">https://www.bls.gov/cps/cpsaat11b.htm</a>
 <br>
-Creator of this infographic: /u/7373737373
+Creator of this infographic: <a href="https://void4.github.io">void4</a>
 </div>
 <!--
 <form>
@@ -41,6 +41,9 @@ Creator of this infographic: /u/7373737373
 'use strict';
 
 var germanFormat = function(number) {
+    if (number!==undefined) {
+        return number.toLocaleString()
+    }
     return number;
     /*
   var postComma, preComma, stringReverse, _ref;

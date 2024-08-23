@@ -9,13 +9,323 @@
                     "children": [
                         {
                             "name": "Management occupations",
-                            "size": 18263.0,
-                            "age": 46.6
+                            "children": [
+                                {
+                                    "name": "Chief executives",
+                                    "size": 1780000.0,
+                                    "age": 52.2
+                                },
+                                {
+                                    "name": "General and operations managers",
+                                    "size": 1359000.0,
+                                    "age": 43.4
+                                },
+                                {
+                                    "name": "Legislators",
+                                    "size": 12000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Advertising and promotions managers",
+                                    "size": 49000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Marketing managers",
+                                    "size": 567000.0,
+                                    "age": 39.7
+                                },
+                                {
+                                    "name": "Sales managers",
+                                    "size": 569000.0,
+                                    "age": 45.0
+                                },
+                                {
+                                    "name": "Public relations and fundraising managers",
+                                    "size": 110000.0,
+                                    "age": 44.0
+                                },
+                                {
+                                    "name": "Administrative services managers",
+                                    "size": 78000.0,
+                                    "age": 45.1
+                                },
+                                {
+                                    "name": "Facilities managers",
+                                    "size": 149000.0,
+                                    "age": 53.6
+                                },
+                                {
+                                    "name": "Computer and information systems managers",
+                                    "size": 793000.0,
+                                    "age": 44.8
+                                },
+                                {
+                                    "name": "Financial managers",
+                                    "size": 1411000.0,
+                                    "age": 45.5
+                                },
+                                {
+                                    "name": "Compensation and benefits managers",
+                                    "size": 16000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Human resources managers",
+                                    "size": 335000.0,
+                                    "age": 45.2
+                                },
+                                {
+                                    "name": "Training and development managers",
+                                    "size": 62000.0,
+                                    "age": 44.7
+                                },
+                                {
+                                    "name": "Industrial production managers",
+                                    "size": 279000.0,
+                                    "age": 47.9
+                                },
+                                {
+                                    "name": "Purchasing managers",
+                                    "size": 241000.0,
+                                    "age": 48.7
+                                },
+                                {
+                                    "name": "Transportation, storage, and distribution managers",
+                                    "size": 382000.0,
+                                    "age": 45.6
+                                },
+                                {
+                                    "name": "Farmers, ranchers, and other agricultural managers",
+                                    "size": 876000.0,
+                                    "age": 56.0
+                                },
+                                {
+                                    "name": "Construction managers",
+                                    "size": 1136000.0,
+                                    "age": 45.2
+                                },
+                                {
+                                    "name": "Education and childcare administrators",
+                                    "size": 1108000.0,
+                                    "age": 46.2
+                                },
+                                {
+                                    "name": "Architectural and engineering managers",
+                                    "size": 206000.0,
+                                    "age": 46.6
+                                },
+                                {
+                                    "name": "Food service managers",
+                                    "size": 1198000.0,
+                                    "age": 41.2
+                                },
+                                {
+                                    "name": "Funeral home managers",
+                                    "size": 10000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Entertainment and recreation managers",
+                                    "size": 81000.0,
+                                    "age": 42.6
+                                },
+                                {
+                                    "name": "Lodging managers",
+                                    "size": 141000.0,
+                                    "age": 46.0
+                                },
+                                {
+                                    "name": "Medical and health services managers",
+                                    "size": 838000.0,
+                                    "age": 45.6
+                                },
+                                {
+                                    "name": "Natural sciences managers",
+                                    "size": 39000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Postmasters and mail superintendents",
+                                    "size": 19000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Property, real estate, and community association managers",
+                                    "size": 880000.0,
+                                    "age": 50.1
+                                },
+                                {
+                                    "name": "Social and community service managers",
+                                    "size": 486000.0,
+                                    "age": 45.1
+                                },
+                                {
+                                    "name": "Emergency management directors",
+                                    "size": 12000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Personal service managers, all other",
+                                    "size": 16000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Managers, all other",
+                                    "size": 5666000.0,
+                                    "age": 46.8
+                                }
+                            ]
                         },
                         {
                             "name": "Business and financial operations occupations",
-                            "size": 7587.0,
-                            "age": 43.8
+                            "children": [
+                                {
+                                    "name": "Agents and business managers of artists, performers, and athletes",
+                                    "size": 50000.0,
+                                    "age": 41.3
+                                },
+                                {
+                                    "name": "Buyers and purchasing agents, farm products",
+                                    "size": 13000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Wholesale and retail buyers, except farm products",
+                                    "size": 225000.0,
+                                    "age": 41.6
+                                },
+                                {
+                                    "name": "Purchasing agents, except wholesale, retail, and farm products",
+                                    "size": 319000.0,
+                                    "age": 46.2
+                                },
+                                {
+                                    "name": "Claims adjusters, appraisers, examiners, and investigators",
+                                    "size": 362000.0,
+                                    "age": 42.6
+                                },
+                                {
+                                    "name": "Compliance officers",
+                                    "size": 333000.0,
+                                    "age": 45.1
+                                },
+                                {
+                                    "name": "Cost estimators",
+                                    "size": 148000.0,
+                                    "age": 43.5
+                                },
+                                {
+                                    "name": "Human resources workers",
+                                    "size": 980000.0,
+                                    "age": 41.0
+                                },
+                                {
+                                    "name": "Compensation, benefits, and job analysis specialists",
+                                    "size": 65000.0,
+                                    "age": 45.0
+                                },
+                                {
+                                    "name": "Training and development specialists",
+                                    "size": 138000.0,
+                                    "age": 42.1
+                                },
+                                {
+                                    "name": "Logisticians",
+                                    "size": 197000.0,
+                                    "age": 39.8
+                                },
+                                {
+                                    "name": "Project management specialists",
+                                    "size": 935000.0,
+                                    "age": 42.8
+                                },
+                                {
+                                    "name": "Management analysts",
+                                    "size": 1060000.0,
+                                    "age": 44.8
+                                },
+                                {
+                                    "name": "Meeting, convention, and event planners",
+                                    "size": 169000.0,
+                                    "age": 38.7
+                                },
+                                {
+                                    "name": "Fundraisers",
+                                    "size": 102000.0,
+                                    "age": 44.4
+                                },
+                                {
+                                    "name": "Market research analysts and marketing specialists",
+                                    "size": 511000.0,
+                                    "age": 37.2
+                                },
+                                {
+                                    "name": "Business operations specialists, all other",
+                                    "size": 531000.0,
+                                    "age": 43.4
+                                },
+                                {
+                                    "name": "Accountants and auditors",
+                                    "size": 1624000.0,
+                                    "age": 44.9
+                                },
+                                {
+                                    "name": "Property appraisers and assessors",
+                                    "size": 97000.0,
+                                    "age": 53.2
+                                },
+                                {
+                                    "name": "Budget analysts",
+                                    "size": 40000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Credit analysts",
+                                    "size": 44000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Financial and investment analysts",
+                                    "size": 395000.0,
+                                    "age": 39.6
+                                },
+                                {
+                                    "name": "Personal financial advisors",
+                                    "size": 506000.0,
+                                    "age": 44.4
+                                },
+                                {
+                                    "name": "Insurance underwriters",
+                                    "size": 108000.0,
+                                    "age": 42.2
+                                },
+                                {
+                                    "name": "Financial examiners",
+                                    "size": 21000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Credit counselors and loan officers",
+                                    "size": 343000.0,
+                                    "age": 43.9
+                                },
+                                {
+                                    "name": "Tax examiners and collectors, and revenue agents",
+                                    "size": 71000.0,
+                                    "age": 48.1
+                                },
+                                {
+                                    "name": "Tax preparers",
+                                    "size": 116000.0,
+                                    "age": 44.7
+                                },
+                                {
+                                    "name": "Other financial specialists",
+                                    "size": 135000.0,
+                                    "age": 43.0
+                                }
+                            ]
                         }
                     ]
                 },
@@ -24,43 +334,943 @@
                     "children": [
                         {
                             "name": "Computer and mathematical occupations",
-                            "size": 5126.0,
-                            "age": 40.4
+                            "children": [
+                                {
+                                    "name": "Computer and information research scientists",
+                                    "size": 44000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Computer systems analysts",
+                                    "size": 513000.0,
+                                    "age": 43.9
+                                },
+                                {
+                                    "name": "Information security analysts",
+                                    "size": 231000.0,
+                                    "age": 40.6
+                                },
+                                {
+                                    "name": "Computer programmers",
+                                    "size": 402000.0,
+                                    "age": 42.7
+                                },
+                                {
+                                    "name": "Software developers",
+                                    "size": 2134000.0,
+                                    "age": 38.7
+                                },
+                                {
+                                    "name": "Software quality assurance analysts and testers",
+                                    "size": 76000.0,
+                                    "age": 42.8
+                                },
+                                {
+                                    "name": "Web developers",
+                                    "size": 76000.0,
+                                    "age": 40.1
+                                },
+                                {
+                                    "name": "Web and digital interface designers",
+                                    "size": 79000.0,
+                                    "age": 36.1
+                                },
+                                {
+                                    "name": "Computer support specialists",
+                                    "size": 687000.0,
+                                    "age": 41.8
+                                },
+                                {
+                                    "name": "Database administrators and architects",
+                                    "size": 122000.0,
+                                    "age": 45.4
+                                },
+                                {
+                                    "name": "Network and computer systems administrators",
+                                    "size": 202000.0,
+                                    "age": 43.1
+                                },
+                                {
+                                    "name": "Computer network architects",
+                                    "size": 104000.0,
+                                    "age": 43.9
+                                },
+                                {
+                                    "name": "Computer occupations, all other",
+                                    "size": 1197000.0,
+                                    "age": 42.6
+                                },
+                                {
+                                    "name": "Actuaries",
+                                    "size": 43000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Mathematicians",
+                                    "size": 5000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Operations research analysts",
+                                    "size": 138000.0,
+                                    "age": 43.2
+                                },
+                                {
+                                    "name": "Statisticians",
+                                    "size": 46000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Other mathematical science occupations",
+                                    "size": 402000.0,
+                                    "age": 38.0
+                                }
+                            ]
                         },
                         {
                             "name": "Architecture and engineering occupations",
-                            "size": 3263.0,
-                            "age": 43.0
+                            "children": [
+                                {
+                                    "name": "Architects, except landscape and naval",
+                                    "size": 203000.0,
+                                    "age": 44.2
+                                },
+                                {
+                                    "name": "Landscape architects",
+                                    "size": 28000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Surveyors, cartographers, and photogrammetrists",
+                                    "size": 44000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Aerospace engineers",
+                                    "size": 166000.0,
+                                    "age": 42.1
+                                },
+                                {
+                                    "name": "Agricultural engineers",
+                                    "size": 4000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Bioengineers and biomedical engineers",
+                                    "size": 26000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Chemical engineers",
+                                    "size": 83000.0,
+                                    "age": 36.9
+                                },
+                                {
+                                    "name": "Civil engineers",
+                                    "size": 517000.0,
+                                    "age": 40.6
+                                },
+                                {
+                                    "name": "Computer hardware engineers",
+                                    "size": 71000.0,
+                                    "age": 42.8
+                                },
+                                {
+                                    "name": "Electrical and electronics engineers",
+                                    "size": 250000.0,
+                                    "age": 45.8
+                                },
+                                {
+                                    "name": "Environmental engineers",
+                                    "size": 38000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Industrial engineers, including health and safety",
+                                    "size": 298000.0,
+                                    "age": 40.3
+                                },
+                                {
+                                    "name": "Marine engineers and naval architects",
+                                    "size": 16000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Materials engineers",
+                                    "size": 54000.0,
+                                    "age": 37.9
+                                },
+                                {
+                                    "name": "Mechanical engineers",
+                                    "size": 433000.0,
+                                    "age": 40.2
+                                },
+                                {
+                                    "name": "Mining and geological engineers, including mining safety engineers",
+                                    "size": 10000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Nuclear engineers",
+                                    "size": 3000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Petroleum engineers",
+                                    "size": 12000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Engineers, all other",
+                                    "size": 669000.0,
+                                    "age": 42.4
+                                },
+                                {
+                                    "name": "Architectural and civil drafters",
+                                    "size": 33000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Other drafters",
+                                    "size": 98000.0,
+                                    "age": 39.1
+                                },
+                                {
+                                    "name": "Electrical and electronic engineering technologists and technicians",
+                                    "size": 97000.0,
+                                    "age": 46.3
+                                },
+                                {
+                                    "name": "Other engineering technologists and technicians, except drafters",
+                                    "size": 366000.0,
+                                    "age": 43.7
+                                },
+                                {
+                                    "name": "Surveying and mapping technicians",
+                                    "size": 87000.0,
+                                    "age": 35.3
+                                }
+                            ]
                         },
                         {
                             "name": "Life, physical, and social science occupations",
-                            "size": 1529.0,
-                            "age": 41.1
+                            "children": [
+                                {
+                                    "name": "Agricultural and food scientists",
+                                    "size": 29000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Biological scientists",
+                                    "size": 118000.0,
+                                    "age": 41.1
+                                },
+                                {
+                                    "name": "Conservation scientists and foresters",
+                                    "size": 32000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Medical scientists",
+                                    "size": 130000.0,
+                                    "age": 41.5
+                                },
+                                {
+                                    "name": "Life scientists, all other",
+                                    "size": 8000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Astronomers and physicists",
+                                    "size": 25000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Atmospheric and space scientists",
+                                    "size": 15000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Chemists and materials scientists",
+                                    "size": 93000.0,
+                                    "age": 41.4
+                                },
+                                {
+                                    "name": "Environmental scientists and specialists, including health",
+                                    "size": 46000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Geoscientists and hydrologists, except geographers",
+                                    "size": 33000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Physical scientists, all other",
+                                    "size": 441000.0,
+                                    "age": 37.7
+                                },
+                                {
+                                    "name": "Economists",
+                                    "size": 28000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Survey researchers",
+                                    "size": 2000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Clinical and counseling psychologists",
+                                    "size": 19000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "School psychologists",
+                                    "size": 56000.0,
+                                    "age": 47.5
+                                },
+                                {
+                                    "name": "Other psychologists",
+                                    "size": 153000.0,
+                                    "age": 48.2
+                                },
+                                {
+                                    "name": "Sociologists",
+                                    "size": 4000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Urban and regional planners",
+                                    "size": 37000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Miscellaneous social scientists and related workers",
+                                    "size": 55000.0,
+                                    "age": 39.6
+                                },
+                                {
+                                    "name": "Agricultural and food science technicians",
+                                    "size": 48000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Biological technicians",
+                                    "size": 32000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Chemical technicians",
+                                    "size": 63000.0,
+                                    "age": 36.1
+                                },
+                                {
+                                    "name": "Environmental science and geoscience technicians",
+                                    "size": 18000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Nuclear technicians",
+                                    "size": 6000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Social science research assistants",
+                                    "size": 4000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Other life, physical, and social science technicians",
+                                    "size": 304000.0,
+                                    "age": 34.9
+                                },
+                                {
+                                    "name": "Occupational health and safety specialists and technicians",
+                                    "size": 71000.0,
+                                    "age": 45.7
+                                }
+                            ]
                         },
                         {
                             "name": "Community and social service occupations",
-                            "size": 2680.0,
-                            "age": 43.9
+                            "children": [
+                                {
+                                    "name": "Substance abuse and behavioral disorder counselors",
+                                    "size": 133000.0,
+                                    "age": 36.8
+                                },
+                                {
+                                    "name": "Educational, guidance, and career counselors and advisors",
+                                    "size": 384000.0,
+                                    "age": 40.8
+                                },
+                                {
+                                    "name": "Marriage and family therapists",
+                                    "size": 34000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Mental health counselors",
+                                    "size": 219000.0,
+                                    "age": 41.1
+                                },
+                                {
+                                    "name": "Rehabilitation counselors",
+                                    "size": 17000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Counselors, all other",
+                                    "size": 255000.0,
+                                    "age": 41.6
+                                },
+                                {
+                                    "name": "Child, family, and school social workers",
+                                    "size": 60000.0,
+                                    "age": 44.5
+                                },
+                                {
+                                    "name": "Healthcare social workers",
+                                    "size": 79000.0,
+                                    "age": 43.0
+                                },
+                                {
+                                    "name": "Mental health and substance abuse social workers",
+                                    "size": 20000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Social workers, all other",
+                                    "size": 704000.0,
+                                    "age": 42.6
+                                },
+                                {
+                                    "name": "Probation officers and correctional treatment specialists",
+                                    "size": 77000.0,
+                                    "age": 44.2
+                                },
+                                {
+                                    "name": "Social and human service assistants",
+                                    "size": 245000.0,
+                                    "age": 40.7
+                                },
+                                {
+                                    "name": "Other community and social service specialists",
+                                    "size": 99000.0,
+                                    "age": 42.7
+                                },
+                                {
+                                    "name": "Clergy",
+                                    "size": 403000.0,
+                                    "age": 52.2
+                                },
+                                {
+                                    "name": "Directors, religious activities and education",
+                                    "size": 78000.0,
+                                    "age": 51.0
+                                },
+                                {
+                                    "name": "Religious workers, all other",
+                                    "size": 74000.0,
+                                    "age": 48.3
+                                }
+                            ]
                         },
                         {
                             "name": "Legal occupations",
-                            "size": 1891.0,
-                            "age": 46.8
+                            "children": [
+                                {
+                                    "name": "Lawyers",
+                                    "size": 1189000.0,
+                                    "age": 46.0
+                                },
+                                {
+                                    "name": "Judicial law clerks",
+                                    "size": 19000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Judges, magistrates, and other judicial workers",
+                                    "size": 76000.0,
+                                    "age": 53.0
+                                },
+                                {
+                                    "name": "Paralegals and legal assistants",
+                                    "size": 434000.0,
+                                    "age": 43.9
+                                },
+                                {
+                                    "name": "Title examiners, abstractors, and searchers",
+                                    "size": 97000.0,
+                                    "age": 45.0
+                                },
+                                {
+                                    "name": "Legal support workers, all other",
+                                    "size": 83000.0,
+                                    "age": 42.7
+                                }
+                            ]
                         },
                         {
                             "name": "Education, training, and library occupations",
-                            "size": 9313.0,
-                            "age": 42.7
+                            "children": [
+                                {
+                                    "name": "Postsecondary teachers",
+                                    "size": 1013000.0,
+                                    "age": 49.5
+                                },
+                                {
+                                    "name": "Preschool and kindergarten teachers",
+                                    "size": 669000.0,
+                                    "age": 38.3
+                                },
+                                {
+                                    "name": "Elementary and middle school teachers",
+                                    "size": 3436000.0,
+                                    "age": 43.1
+                                },
+                                {
+                                    "name": "Secondary school teachers",
+                                    "size": 944000.0,
+                                    "age": 43.9
+                                },
+                                {
+                                    "name": "Special education teachers",
+                                    "size": 341000.0,
+                                    "age": 43.0
+                                },
+                                {
+                                    "name": "Tutors",
+                                    "size": 141000.0,
+                                    "age": 26.5
+                                },
+                                {
+                                    "name": "Other teachers and instructors",
+                                    "size": 973000.0,
+                                    "age": 43.2
+                                },
+                                {
+                                    "name": "Archivists, curators, and museum technicians",
+                                    "size": 76000.0,
+                                    "age": 43.7
+                                },
+                                {
+                                    "name": "Librarians and media collections specialists",
+                                    "size": 146000.0,
+                                    "age": 45.3
+                                },
+                                {
+                                    "name": "Library technicians",
+                                    "size": 33000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Teaching assistants",
+                                    "size": 1426000.0,
+                                    "age": 37.9
+                                },
+                                {
+                                    "name": "Other educational instruction and library workers",
+                                    "size": 204000.0,
+                                    "age": 44.4
+                                }
+                            ]
                         },
                         {
                             "name": "Arts, design, entertainment, sports, and media occupations",
-                            "size": 3362.0,
-                            "age": 40.7
+                            "children": [
+                                {
+                                    "name": "Artists and related workers",
+                                    "size": 334000.0,
+                                    "age": 42.5
+                                },
+                                {
+                                    "name": "Commercial and industrial designers",
+                                    "size": 17000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Fashion designers",
+                                    "size": 39000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Floral designers",
+                                    "size": 63000.0,
+                                    "age": 46.6
+                                },
+                                {
+                                    "name": "Graphic designers",
+                                    "size": 312000.0,
+                                    "age": 39.4
+                                },
+                                {
+                                    "name": "Interior designers",
+                                    "size": 103000.0,
+                                    "age": 48.2
+                                },
+                                {
+                                    "name": "Merchandise displayers and window trimmers",
+                                    "size": 28000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Other designers",
+                                    "size": 384000.0,
+                                    "age": 42.9
+                                },
+                                {
+                                    "name": "Actors",
+                                    "size": 50000.0,
+                                    "age": 40.0
+                                },
+                                {
+                                    "name": "Producers and directors",
+                                    "size": 167000.0,
+                                    "age": 40.6
+                                },
+                                {
+                                    "name": "Athletes and sports competitors",
+                                    "size": 42000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Coaches and scouts",
+                                    "size": 288000.0,
+                                    "age": 33.4
+                                },
+                                {
+                                    "name": "Umpires, referees, and other sports officials",
+                                    "size": 25000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Dancers and choreographers",
+                                    "size": 16000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Music directors and composers",
+                                    "size": 46000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Musicians and singers",
+                                    "size": 170000.0,
+                                    "age": 46.8
+                                },
+                                {
+                                    "name": "Disc jockeys, except radio",
+                                    "size": 28000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Entertainers and performers, sports and related workers, all other",
+                                    "size": 36000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Broadcast announcers and radio disc jockeys",
+                                    "size": 27000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "News analysts, reporters, and journalists",
+                                    "size": 65000.0,
+                                    "age": 44.3
+                                },
+                                {
+                                    "name": "Public relations specialists",
+                                    "size": 140000.0,
+                                    "age": 37.3
+                                },
+                                {
+                                    "name": "Editors",
+                                    "size": 125000.0,
+                                    "age": 45.1
+                                },
+                                {
+                                    "name": "Technical writers",
+                                    "size": 49000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Writers and authors",
+                                    "size": 271000.0,
+                                    "age": 45.6
+                                },
+                                {
+                                    "name": "Interpreters and translators",
+                                    "size": 101000.0,
+                                    "age": 47.2
+                                },
+                                {
+                                    "name": "Court reporters and simultaneous captioners",
+                                    "size": 21000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Media and communication workers, all other",
+                                    "size": 30000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Broadcast, sound, and lighting technicians",
+                                    "size": 124000.0,
+                                    "age": 41.8
+                                },
+                                {
+                                    "name": "Photographers",
+                                    "size": 228000.0,
+                                    "age": 40.5
+                                },
+                                {
+                                    "name": "Television, video, and film camera operators and editors",
+                                    "size": 148000.0,
+                                    "age": 35.4
+                                },
+                                {
+                                    "name": "Media and communication equipment workers, all other",
+                                    "size": 1000.0,
+                                    "age": null
+                                }
+                            ]
                         },
                         {
                             "name": "Healthcare practitioners and technical occupations",
-                            "size": 9420.0,
-                            "age": 42.4
+                            "children": [
+                                {
+                                    "name": "Chiropractors",
+                                    "size": 60000.0,
+                                    "age": 46.0
+                                },
+                                {
+                                    "name": "Dentists",
+                                    "size": 164000.0,
+                                    "age": 46.7
+                                },
+                                {
+                                    "name": "Dietitians and nutritionists",
+                                    "size": 114000.0,
+                                    "age": 40.3
+                                },
+                                {
+                                    "name": "Optometrists",
+                                    "size": 47000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Pharmacists",
+                                    "size": 354000.0,
+                                    "age": 41.5
+                                },
+                                {
+                                    "name": "Emergency medicine physicians",
+                                    "size": 27000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Radiologists",
+                                    "size": 19000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Other physicians",
+                                    "size": 903000.0,
+                                    "age": 45.6
+                                },
+                                {
+                                    "name": "Surgeons",
+                                    "size": 59000.0,
+                                    "age": 45.9
+                                },
+                                {
+                                    "name": "Physician assistants",
+                                    "size": 178000.0,
+                                    "age": 38.3
+                                },
+                                {
+                                    "name": "Podiatrists",
+                                    "size": 11000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Audiologists",
+                                    "size": 19000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Occupational therapists",
+                                    "size": 155000.0,
+                                    "age": 40.7
+                                },
+                                {
+                                    "name": "Physical therapists",
+                                    "size": 312000.0,
+                                    "age": 44.0
+                                },
+                                {
+                                    "name": "Radiation therapists",
+                                    "size": 16000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Recreational therapists",
+                                    "size": 17000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Respiratory therapists",
+                                    "size": 92000.0,
+                                    "age": 43.2
+                                },
+                                {
+                                    "name": "Speech-language pathologists",
+                                    "size": 185000.0,
+                                    "age": 40.6
+                                },
+                                {
+                                    "name": "Exercise physiologists",
+                                    "size": 6000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Therapists, all other",
+                                    "size": 303000.0,
+                                    "age": 42.0
+                                },
+                                {
+                                    "name": "Veterinarians",
+                                    "size": 87000.0,
+                                    "age": 44.3
+                                },
+                                {
+                                    "name": "Registered nurses",
+                                    "size": 3472000.0,
+                                    "age": 42.3
+                                },
+                                {
+                                    "name": "Nurse anesthetists",
+                                    "size": 22000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Nurse midwives",
+                                    "size": 6000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Nurse practitioners",
+                                    "size": 276000.0,
+                                    "age": 42.7
+                                },
+                                {
+                                    "name": "Acupuncturists",
+                                    "size": 27000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Healthcare diagnosing or treating practitioners, all other",
+                                    "size": 13000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Clinical laboratory technologists and technicians",
+                                    "size": 302000.0,
+                                    "age": 42.3
+                                },
+                                {
+                                    "name": "Dental hygienists",
+                                    "size": 206000.0,
+                                    "age": 43.1
+                                },
+                                {
+                                    "name": "Cardiovascular technologists and technicians",
+                                    "size": 48000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Diagnostic medical sonographers",
+                                    "size": 105000.0,
+                                    "age": 41.6
+                                },
+                                {
+                                    "name": "Radiologic technologists and technicians",
+                                    "size": 259000.0,
+                                    "age": 41.6
+                                },
+                                {
+                                    "name": "Magnetic resonance imaging technologists",
+                                    "size": 46000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Nuclear medicine technologists and medical dosimetrists",
+                                    "size": 42000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Emergency medical technicians",
+                                    "size": 156000.0,
+                                    "age": 29.7
+                                },
+                                {
+                                    "name": "Paramedics",
+                                    "size": 107000.0,
+                                    "age": 40.6
+                                },
+                                {
+                                    "name": "Pharmacy technicians",
+                                    "size": 330000.0,
+                                    "age": 36.3
+                                },
+                                {
+                                    "name": "Psychiatric technicians",
+                                    "size": 113000.0,
+                                    "age": 29.9
+                                },
+                                {
+                                    "name": "Surgical technologists",
+                                    "size": 110000.0,
+                                    "age": 39.1
+                                },
+                                {
+                                    "name": "Veterinary technologists and technicians",
+                                    "size": 142000.0,
+                                    "age": 31.4
+                                },
+                                {
+                                    "name": "Dietetic technicians and ophthalmic medical technicians",
+                                    "size": 70000.0,
+                                    "age": 34.1
+                                },
+                                {
+                                    "name": "Licensed practical and licensed vocational nurses",
+                                    "size": 584000.0,
+                                    "age": 43.8
+                                },
+                                {
+                                    "name": "Medical records specialists",
+                                    "size": 211000.0,
+                                    "age": 46.9
+                                },
+                                {
+                                    "name": "Opticians, dispensing",
+                                    "size": 49000.0,
+                                    "age": null
+                                },
+                                {
+                                    "name": "Miscellaneous health technologists and technicians",
+                                    "size": 146000.0,
+                                    "age": 42.8
+                                },
+                                {
+                                    "name": "Other healthcare practitioners and technical occupations",
+                                    "size": 130000.0,
+                                    "age": 39.6
+                                }
+                            ]
                         }
                     ]
                 }
@@ -73,59 +1283,74 @@
                     "name": "Healthcare support occupations",
                     "children": [
                         {
-                            "name": "Nursing, psychiatric, and home health aides",
-                            "size": 2035.0000000000002,
-                            "age": 40.8
+                            "name": "Home health aides",
+                            "size": 585000.0,
+                            "age": 49.1
+                        },
+                        {
+                            "name": "Personal care aides",
+                            "size": 1521000.0,
+                            "age": 45.9
+                        },
+                        {
+                            "name": "Nursing assistants",
+                            "size": 1261000.0,
+                            "age": 38.8
+                        },
+                        {
+                            "name": "Orderlies and psychiatric aides",
+                            "size": 67000.0,
+                            "age": 30.6
                         },
                         {
                             "name": "Occupational therapy assistants and aides",
-                            "size": 35000.0,
+                            "size": 30000.0,
                             "age": null
                         },
                         {
                             "name": "Physical therapist assistants and aides",
-                            "size": 88000.0,
-                            "age": 36.6
+                            "size": 106000.0,
+                            "age": 33.2
                         },
                         {
                             "name": "Massage therapists",
-                            "size": 155000.0,
-                            "age": 41.9
+                            "size": 145000.0,
+                            "age": 43.9
                         },
                         {
                             "name": "Dental assistants",
-                            "size": 293000.0,
-                            "age": 35.8
+                            "size": 288000.0,
+                            "age": 34.0
                         },
                         {
                             "name": "Medical assistants",
-                            "size": 570000.0,
-                            "age": 35.1
+                            "size": 593000.0,
+                            "age": 35.6
                         },
                         {
                             "name": "Medical transcriptionists",
-                            "size": 44000.0,
+                            "size": 41000.0,
                             "age": null
                         },
                         {
                             "name": "Pharmacy aides",
-                            "size": 34000.0,
+                            "size": 32000.0,
                             "age": null
                         },
                         {
                             "name": "Veterinary assistants and laboratory animal caretakers",
-                            "size": 56000.0,
-                            "age": 28.5
+                            "size": 77000.0,
+                            "age": 27.8
                         },
                         {
                             "name": "Phlebotomists",
-                            "size": 115000.0,
-                            "age": 38.6
+                            "size": 139000.0,
+                            "age": 38.0
                         },
                         {
-                            "name": "Miscellaneous healthcare support occupations, including medical equipment preparers",
-                            "size": 204000.0,
-                            "age": 40.8
+                            "name": "Other healthcare support workers",
+                            "size": 237000.0,
+                            "age": 43.1
                         }
                     ]
                 },
@@ -134,28 +1359,33 @@
                     "children": [
                         {
                             "name": "First-line supervisors of correctional officers",
-                            "size": 45000.0,
-                            "age": null
+                            "size": 61000.0,
+                            "age": 44.7
                         },
                         {
                             "name": "First-line supervisors of police and detectives",
-                            "size": 88000.0,
-                            "age": 44.9
+                            "size": 103000.0,
+                            "age": 47.6
                         },
                         {
-                            "name": "First-line supervisors of fire fighting and prevention workers",
-                            "size": 49000.0,
-                            "age": null
+                            "name": "First-line supervisors of firefighting and prevention workers",
+                            "size": 50000.0,
+                            "age": 52.1
+                        },
+                        {
+                            "name": "First-line supervisors of security workers",
+                            "size": 71000.0,
+                            "age": 46.5
                         },
                         {
                             "name": "First-line supervisors of protective service workers, all other",
-                            "size": 86000.0,
-                            "age": 47.7
+                            "size": 4000.0,
+                            "age": null
                         },
                         {
                             "name": "Firefighters",
-                            "size": 306000.0,
-                            "age": 39.3
+                            "size": 296000.0,
+                            "age": 38.5
                         },
                         {
                             "name": "Fire inspectors",
@@ -163,64 +1393,69 @@
                             "age": null
                         },
                         {
-                            "name": "Bailiffs, correctional officers, and jailers",
-                            "size": 406000.0,
-                            "age": 38.6
+                            "name": "Bailiffs",
+                            "size": 17000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Correctional officers and jailers",
+                            "size": 300000.0,
+                            "age": 40.7
                         },
                         {
                             "name": "Detectives and criminal investigators",
-                            "size": 164000.0,
-                            "age": 43.0
+                            "size": 145000.0,
+                            "age": 42.4
                         },
                         {
                             "name": "Fish and game wardens",
-                            "size": 7000.0,
+                            "size": 6000.0,
                             "age": null
                         },
                         {
                             "name": "Parking enforcement workers",
-                            "size": 4000.0,
+                            "size": 7000.0,
                             "age": null
                         },
                         {
-                            "name": "Police and sheriff's patrol officers",
-                            "size": 728000.0,
-                            "age": 40.0
-                        },
-                        {
-                            "name": "Transit and railroad police",
-                            "size": 2000.0,
-                            "age": null
+                            "name": "Police officers",
+                            "size": 702000.0,
+                            "age": 39.6
                         },
                         {
                             "name": "Animal control workers",
-                            "size": 19000.0,
+                            "size": 10000.0,
                             "age": null
                         },
                         {
                             "name": "Private detectives and investigators",
-                            "size": 96000.0,
-                            "age": 41.4
+                            "size": 123000.0,
+                            "age": 43.9
                         },
                         {
-                            "name": "Security guards and gaming surveillance officers",
-                            "size": 958000.0,
-                            "age": 41.2
+                            "name": "Security guards and gambling surveillance officers",
+                            "size": 925000.0,
+                            "age": 40.4
                         },
                         {
-                            "name": "Crossing guards",
-                            "size": 66000.0,
-                            "age": 51.9
+                            "name": "Crossing guards and flaggers",
+                            "size": 51000.0,
+                            "age": 55.8
                         },
                         {
                             "name": "Transportation security screeners",
-                            "size": 41000.0,
+                            "size": 47000.0,
                             "age": null
                         },
                         {
-                            "name": "Lifeguards and other recreational, and all other protective service workers",
-                            "size": 117000.0,
-                            "age": 21.1
+                            "name": "School bus monitors",
+                            "size": 26000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Other protective service workers",
+                            "size": 137000.0,
+                            "age": 21.2
                         }
                     ]
                 },
@@ -229,67 +1464,62 @@
                     "children": [
                         {
                             "name": "Chefs and head cooks",
-                            "size": 427000.0,
-                            "age": 40.0
+                            "size": 476000.0,
+                            "age": 41.4
                         },
                         {
                             "name": "First-line supervisors of food preparation and serving workers",
-                            "size": 563000.0,
-                            "age": 35.6
+                            "size": 542000.0,
+                            "age": 35.9
                         },
                         {
                             "name": "Cooks",
-                            "size": 2067.0,
-                            "age": 35.1
+                            "size": 2016000.0,
+                            "age": 36.1
                         },
                         {
                             "name": "Food preparation workers",
-                            "size": 988000.0,
-                            "age": 28.3
+                            "size": 933000.0,
+                            "age": 28.7
                         },
                         {
                             "name": "Bartenders",
-                            "size": 474000.0,
-                            "age": 31.4
+                            "size": 408000.0,
+                            "age": 33.9
                         },
                         {
-                            "name": "Combined food preparation and serving workers, including fast food",
-                            "size": 322000.0,
-                            "age": 26.4
-                        },
-                        {
-                            "name": "Counter attendants, cafeteria, food concession, and coffee shop",
-                            "size": 202000.0,
-                            "age": 21.7
+                            "name": "Fast food and counter workers",
+                            "size": 885000.0,
+                            "age": 22.1
                         },
                         {
                             "name": "Waiters and waitresses",
-                            "size": 2020.0,
-                            "age": 26.1
+                            "size": 1805000.0,
+                            "age": 25.8
                         },
                         {
                             "name": "Food servers, nonrestaurant",
-                            "size": 226000.0,
-                            "age": 32.7
+                            "size": 215000.0,
+                            "age": 29.5
                         },
                         {
                             "name": "Dining room and cafeteria attendants and bartender helpers",
-                            "size": 309000.0,
-                            "age": 28.6
+                            "size": 303000.0,
+                            "age": 28.5
                         },
                         {
                             "name": "Dishwashers",
-                            "size": 263000.0,
-                            "age": 30.2
+                            "size": 268000.0,
+                            "age": 30.3
                         },
                         {
                             "name": "Hosts and hostesses, restaurant, lounge, and coffee shop",
-                            "size": 354000.0,
-                            "age": 21.6
+                            "size": 327000.0,
+                            "age": 21.1
                         },
                         {
                             "name": "Food preparation and serving related workers, all other",
-                            "size": 5000.0,
+                            "size": 9000.0,
                             "age": null
                         }
                     ]
@@ -299,33 +1529,43 @@
                     "children": [
                         {
                             "name": "First-line supervisors of housekeeping and janitorial workers",
-                            "size": 339000.0,
-                            "age": 48.5
+                            "size": 321000.0,
+                            "age": 47.4
                         },
                         {
                             "name": "First-line supervisors of landscaping, lawn service, and groundskeeping workers",
-                            "size": 254000.0,
-                            "age": 44.6
+                            "size": 283000.0,
+                            "age": 45.1
                         },
                         {
                             "name": "Janitors and building cleaners",
-                            "size": 2342.0,
-                            "age": 47.3
+                            "size": 2204000.0,
+                            "age": 45.8
                         },
                         {
                             "name": "Maids and housekeeping cleaners",
-                            "size": 1512.0,
-                            "age": 46.2
+                            "size": 1380000.0,
+                            "age": 45.7
                         },
                         {
                             "name": "Pest control workers",
-                            "size": 79000.0,
-                            "age": 40.3
+                            "size": 90000.0,
+                            "age": 39.4
                         },
                         {
-                            "name": "Grounds maintenance workers",
-                            "size": 1328.0,
-                            "age": 39.3
+                            "name": "Landscaping and groundskeeping workers",
+                            "size": 1119000.0,
+                            "age": 40.2
+                        },
+                        {
+                            "name": "Tree trimmers and pruners",
+                            "size": 118000.0,
+                            "age": 35.9
+                        },
+                        {
+                            "name": "Other grounds maintenance workers",
+                            "size": 19000.0,
+                            "age": null
                         }
                     ]
                 },
@@ -333,104 +1573,104 @@
                     "name": "Personal care and service occupations",
                     "children": [
                         {
-                            "name": "First-line supervisors of gaming workers",
-                            "size": 187000.0,
-                            "age": 40.5
-                        },
-                        {
-                            "name": "First-line supervisors of personal service workers",
-                            "size": 208000.0,
-                            "age": 43.3
+                            "name": "Supervisors of personal care and service workers",
+                            "size": 253000.0,
+                            "age": 45.6
                         },
                         {
                             "name": "Animal trainers",
-                            "size": 55000.0,
-                            "age": 34.3
+                            "size": 82000.0,
+                            "age": 35.3
                         },
                         {
-                            "name": "Nonfarm animal caretakers",
-                            "size": 268000.0,
-                            "age": 33.3
+                            "name": "Animal caretakers",
+                            "size": 361000.0,
+                            "age": 30.5
                         },
                         {
-                            "name": "Gaming services workers",
-                            "size": 102000.0,
-                            "age": 43.9
-                        },
-                        {
-                            "name": "Motion picture projectionists",
-                            "size": 1000.0,
-                            "age": null
+                            "name": "Gambling services workers",
+                            "size": 90000.0,
+                            "age": 43.3
                         },
                         {
                             "name": "Ushers, lobby attendants, and ticket takers",
-                            "size": 35000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Miscellaneous entertainment attendants and related workers",
-                            "size": 210000.0,
-                            "age": 23.7
-                        },
-                        {
-                            "name": "Embalmers and funeral attendants",
-                            "size": 17000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Morticians, undertakers, and funeral directors",
                             "size": 34000.0,
                             "age": null
                         },
                         {
+                            "name": "Other entertainment attendants and related workers",
+                            "size": 231000.0,
+                            "age": 26.3
+                        },
+                        {
+                            "name": "Embalmers, crematory operators, and funeral attendants",
+                            "size": 21000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Morticians, undertakers, and funeral arrangers",
+                            "size": 45000.0,
+                            "age": null
+                        },
+                        {
                             "name": "Barbers",
-                            "size": 132000.0,
-                            "age": 43.4
+                            "size": 149000.0,
+                            "age": 40.4
                         },
                         {
                             "name": "Hairdressers, hairstylists, and cosmetologists",
-                            "size": 834000.0,
-                            "age": 41.4
+                            "size": 717000.0,
+                            "age": 42.0
                         },
                         {
-                            "name": "Miscellaneous personal appearance workers",
-                            "size": 449000.0,
-                            "age": 40.9
+                            "name": "Manicurists and pedicurists",
+                            "size": 324000.0,
+                            "age": 45.4
+                        },
+                        {
+                            "name": "Skincare specialists",
+                            "size": 102000.0,
+                            "age": 37.1
+                        },
+                        {
+                            "name": "Other personal appearance workers",
+                            "size": 21000.0,
+                            "age": null
                         },
                         {
                             "name": "Baggage porters, bellhops, and concierges",
-                            "size": 92000.0,
-                            "age": 43.6
+                            "size": 78000.0,
+                            "age": 42.9
                         },
                         {
                             "name": "Tour and travel guides",
-                            "size": 65000.0,
-                            "age": 38.9
+                            "size": 55000.0,
+                            "age": 29.3
                         },
                         {
                             "name": "Childcare workers",
-                            "size": 1193.0,
-                            "age": 36.8
+                            "size": 1036000.0,
+                            "age": 36.0
                         },
                         {
-                            "name": "Personal care aides",
-                            "size": 1354.0,
-                            "age": 45.5
+                            "name": "Exercise trainers and group fitness instructors",
+                            "size": 257000.0,
+                            "age": 39.2
                         },
                         {
-                            "name": "Recreation and fitness workers",
-                            "size": 497000.0,
-                            "age": 38.2
+                            "name": "Recreation workers",
+                            "size": 182000.0,
+                            "age": 29.7
                         },
                         {
                             "name": "Residential advisors",
-                            "size": 41000.0,
+                            "size": 40000.0,
                             "age": null
                         },
                         {
                             "name": "Personal care and service workers, all other",
-                            "size": 171000.0,
-                            "age": 37.0
+                            "size": 143000.0,
+                            "age": 38.5
                         }
                     ]
                 }
@@ -444,93 +1684,93 @@
                     "children": [
                         {
                             "name": "First-line supervisors of retail sales workers",
-                            "size": 3366.0,
-                            "age": 43.0
+                            "size": 3157000.0,
+                            "age": 43.2
                         },
                         {
                             "name": "First-line supervisors of non-retail sales workers",
-                            "size": 1257.0,
-                            "age": 47.9
+                            "size": 1268000.0,
+                            "age": 45.9
                         },
                         {
                             "name": "Cashiers",
-                            "size": 3200.0,
-                            "age": 26.2
+                            "size": 2576000.0,
+                            "age": 26.9
                         },
                         {
                             "name": "Counter and rental clerks",
-                            "size": 114000.0,
-                            "age": 36.1
+                            "size": 79000.0,
+                            "age": 37.4
                         },
                         {
                             "name": "Parts salespersons",
-                            "size": 127000.0,
-                            "age": 46.3
+                            "size": 117000.0,
+                            "age": 44.1
                         },
                         {
                             "name": "Retail salespersons",
-                            "size": 3147.0,
-                            "age": 35.6
+                            "size": 2721000.0,
+                            "age": 35.7
                         },
                         {
                             "name": "Advertising sales agents",
-                            "size": 221000.0,
-                            "age": 41.1
+                            "size": 111000.0,
+                            "age": 46.3
                         },
                         {
                             "name": "Insurance sales agents",
-                            "size": 619000.0,
-                            "age": 45.5
+                            "size": 632000.0,
+                            "age": 44.1
                         },
                         {
                             "name": "Securities, commodities, and financial services sales agents",
-                            "size": 231000.0,
-                            "age": 43.3
+                            "size": 249000.0,
+                            "age": 43.6
                         },
                         {
                             "name": "Travel agents",
-                            "size": 79000.0,
-                            "age": 52.0
+                            "size": 77000.0,
+                            "age": 46.7
                         },
                         {
-                            "name": "Sales representatives, services, all other",
-                            "size": 516000.0,
-                            "age": 43.1
+                            "name": "Sales representatives of services, except advertising, insurance, financial services, and travel",
+                            "size": 638000.0,
+                            "age": 40.2
                         },
                         {
                             "name": "Sales representatives, wholesale and manufacturing",
-                            "size": 1273.0,
-                            "age": 46.2
+                            "size": 1152000.0,
+                            "age": 45.7
                         },
                         {
                             "name": "Models, demonstrators, and product promoters",
-                            "size": 60000.0,
-                            "age": 49.7
+                            "size": 33000.0,
+                            "age": null
                         },
                         {
                             "name": "Real estate brokers and sales agents",
-                            "size": 1072.0,
-                            "age": 48.9
+                            "size": 1031000.0,
+                            "age": 50.0
                         },
                         {
                             "name": "Sales engineers",
-                            "size": 34000.0,
+                            "size": 41000.0,
                             "age": null
                         },
                         {
                             "name": "Telemarketers",
-                            "size": 58000.0,
-                            "age": 31.1
+                            "size": 31000.0,
+                            "age": null
                         },
                         {
                             "name": "Door-to-door sales workers, news and street vendors, and related workers",
-                            "size": 158000.0,
-                            "age": 46.3
+                            "size": 73000.0,
+                            "age": 47.4
                         },
                         {
                             "name": "Sales and related workers, all other",
-                            "size": 275000.0,
-                            "age": 42.7
+                            "size": 339000.0,
+                            "age": 38.6
                         }
                     ]
                 },
@@ -539,67 +1779,67 @@
                     "children": [
                         {
                             "name": "First-line supervisors of office and administrative support workers",
-                            "size": 1450.0,
-                            "age": 45.8
+                            "size": 1154000.0,
+                            "age": 45.9
                         },
                         {
                             "name": "Switchboard operators, including answering service",
-                            "size": 23000.0,
+                            "size": 18000.0,
                             "age": null
                         },
                         {
                             "name": "Telephone operators",
-                            "size": 30000.0,
+                            "size": 17000.0,
                             "age": null
                         },
                         {
                             "name": "Communications equipment operators, all other",
-                            "size": 9000.0,
+                            "size": 1000.0,
                             "age": null
                         },
                         {
                             "name": "Bill and account collectors",
-                            "size": 122000.0,
-                            "age": 38.8
+                            "size": 87000.0,
+                            "age": 44.9
                         },
                         {
                             "name": "Billing and posting clerks",
-                            "size": 490000.0,
-                            "age": 44.0
+                            "size": 436000.0,
+                            "age": 44.4
                         },
                         {
                             "name": "Bookkeeping, accounting, and auditing clerks",
-                            "size": 1045.0,
-                            "age": 50.2
+                            "size": 1210000.0,
+                            "age": 49.2
                         },
                         {
-                            "name": "Gaming cage workers",
-                            "size": 8000.0,
+                            "name": "Gambling cage workers",
+                            "size": 29000.0,
                             "age": null
                         },
                         {
                             "name": "Payroll and timekeeping clerks",
-                            "size": 121000.0,
-                            "age": 47.4
+                            "size": 132000.0,
+                            "age": 49.5
                         },
                         {
                             "name": "Procurement clerks",
-                            "size": 31000.0,
+                            "size": 46000.0,
                             "age": null
                         },
                         {
                             "name": "Tellers",
-                            "size": 300000.0,
-                            "age": 30.6
+                            "size": 204000.0,
+                            "age": 32.4
                         },
                         {
                             "name": "Financial clerks, all other",
-                            "size": 92000.0,
-                            "age": 38.7
+                            "size": 128000.0,
+                            "age": 40.8
                         },
                         {
                             "name": "Brokerage clerks",
-                            "size": 4000.0,
+                            "size": 6000.0,
                             "age": null
                         },
                         {
@@ -609,193 +1849,203 @@
                         },
                         {
                             "name": "Court, municipal, and license clerks",
-                            "size": 83000.0,
-                            "age": 49.1
+                            "size": 82000.0,
+                            "age": 48.6
                         },
                         {
                             "name": "Credit authorizers, checkers, and clerks",
-                            "size": 54000.0,
-                            "age": 41.9
+                            "size": 32000.0,
+                            "age": null
                         },
                         {
                             "name": "Customer service representatives",
-                            "size": 2563.0,
-                            "age": 34.9
+                            "size": 2822000.0,
+                            "age": 36.2
                         },
                         {
                             "name": "Eligibility interviewers, government programs",
-                            "size": 68000.0,
-                            "age": 43.4
+                            "size": 94000.0,
+                            "age": 46.2
                         },
                         {
-                            "name": "File clerks",
-                            "size": 161000.0,
-                            "age": 43.2
+                            "name": "File Clerks",
+                            "size": 130000.0,
+                            "age": 44.5
                         },
                         {
                             "name": "Hotel, motel, and resort desk clerks",
-                            "size": 131000.0,
-                            "age": 29.5
+                            "size": 106000.0,
+                            "age": 31.1
                         },
                         {
                             "name": "Interviewers, except eligibility and loan",
-                            "size": 152000.0,
-                            "age": 44.4
-                        },
-                        {
-                            "name": "Library assistants, clerical",
-                            "size": 103000.0,
-                            "age": 39.3
-                        },
-                        {
-                            "name": "Loan interviewers and clerks",
-                            "size": 117000.0,
+                            "size": 205000.0,
                             "age": 41.4
                         },
                         {
+                            "name": "Library assistants, clerical",
+                            "size": 71000.0,
+                            "age": 40.7
+                        },
+                        {
+                            "name": "Loan interviewers and clerks",
+                            "size": 125000.0,
+                            "age": 41.1
+                        },
+                        {
                             "name": "New accounts clerks",
-                            "size": 23000.0,
+                            "size": 18000.0,
                             "age": null
                         },
                         {
                             "name": "Order clerks",
-                            "size": 78000.0,
-                            "age": 36.4
+                            "size": 106000.0,
+                            "age": 37.9
                         },
                         {
                             "name": "Human resources assistants, except payroll and timekeeping",
-                            "size": 57000.0,
-                            "age": 42.9
+                            "size": 84000.0,
+                            "age": 41.2
                         },
                         {
                             "name": "Receptionists and information clerks",
-                            "size": 1324.0,
-                            "age": 36.7
+                            "size": 1196000.0,
+                            "age": 36.1
                         },
                         {
                             "name": "Reservation and transportation ticket agents and travel clerks",
-                            "size": 128000.0,
-                            "age": 40.7
+                            "size": 123000.0,
+                            "age": 39.1
                         },
                         {
                             "name": "Information and record clerks, all other",
-                            "size": 121000.0,
-                            "age": 44.2
+                            "size": 92000.0,
+                            "age": 42.0
                         },
                         {
                             "name": "Cargo and freight agents",
-                            "size": 30000.0,
+                            "size": 26000.0,
                             "age": null
                         },
                         {
                             "name": "Couriers and messengers",
-                            "size": 293000.0,
-                            "age": 41.0
+                            "size": 929000.0,
+                            "age": 39.2
                         },
                         {
-                            "name": "Dispatchers",
-                            "size": 293000.0,
-                            "age": 41.5
+                            "name": "Public safety telecommunicators",
+                            "size": 76000.0,
+                            "age": 37.2
+                        },
+                        {
+                            "name": "Dispatchers, except police, fire, and ambulance",
+                            "size": 184000.0,
+                            "age": 41.4
                         },
                         {
                             "name": "Meter readers, utilities",
-                            "size": 24000.0,
+                            "size": 14000.0,
                             "age": null
                         },
                         {
                             "name": "Postal service clerks",
-                            "size": 120000.0,
-                            "age": 48.7
+                            "size": 96000.0,
+                            "age": 46.4
                         },
                         {
                             "name": "Postal service mail carriers",
                             "size": 302000.0,
-                            "age": 46.7
+                            "age": 43.7
                         },
                         {
                             "name": "Postal service mail sorters, processors, and processing machine operators",
-                            "size": 58000.0,
-                            "age": 49.5
+                            "size": 65000.0,
+                            "age": 40.4
                         },
                         {
                             "name": "Production, planning, and expediting clerks",
-                            "size": 269000.0,
-                            "age": 43.3
+                            "size": 212000.0,
+                            "age": 41.3
                         },
                         {
-                            "name": "Shipping, receiving, and traffic clerks",
-                            "size": 578000.0,
-                            "age": 40.7
-                        },
-                        {
-                            "name": "Stock clerks and order fillers",
-                            "size": 1527.0,
-                            "age": 31.5
+                            "name": "Shipping, receiving, and inventory clerks",
+                            "size": 621000.0,
+                            "age": 41.2
                         },
                         {
                             "name": "Weighers, measurers, checkers, and samplers, recordkeeping",
-                            "size": 56000.0,
-                            "age": 41.7
+                            "size": 67000.0,
+                            "age": 39.5
                         },
                         {
-                            "name": "Secretaries and administrative assistants",
-                            "size": 2569.0,
-                            "age": 48.7
+                            "name": "Executive secretaries and executive administrative assistants",
+                            "size": 210000.0,
+                            "age": 47.6
                         },
                         {
-                            "name": "Computer operators",
-                            "size": 73000.0,
-                            "age": 42.8
+                            "name": "Legal secretaries and administrative assistants",
+                            "size": 54000.0,
+                            "age": 53.9
+                        },
+                        {
+                            "name": "Medical secretaries and administrative assistants",
+                            "size": 103000.0,
+                            "age": 44.9
+                        },
+                        {
+                            "name": "Secretaries and administrative assistants, except legal, medical, and executive",
+                            "size": 1841000.0,
+                            "age": 48.5
                         },
                         {
                             "name": "Data entry keyers",
-                            "size": 270000.0,
-                            "age": 42.7
+                            "size": 224000.0,
+                            "age": 40.1
                         },
                         {
                             "name": "Word processors and typists",
-                            "size": 67000.0,
-                            "age": 45.9
+                            "size": 46000.0,
+                            "age": null
                         },
                         {
                             "name": "Desktop publishers",
-                            "size": 1000.0,
+                            "size": 3000.0,
                             "age": null
                         },
                         {
                             "name": "Insurance claims and policy processing clerks",
-                            "size": 244000.0,
-                            "age": 41.6
+                            "size": 308000.0,
+                            "age": 42.1
                         },
                         {
                             "name": "Mail clerks and mail machine operators, except postal service",
-                            "size": 63000.0,
-                            "age": 44.1
+                            "size": 44000.0,
+                            "age": null
                         },
                         {
                             "name": "Office clerks, general",
-                            "size": 1309.0,
-                            "age": 43.8
+                            "size": 1274000.0,
+                            "age": 43.1
                         },
                         {
                             "name": "Office machine operators, except computer",
-                            "size": 24000.0,
+                            "size": 29000.0,
                             "age": null
                         },
                         {
                             "name": "Proofreaders and copy markers",
-                            "size": 11000.0,
+                            "size": 7000.0,
                             "age": null
                         },
                         {
                             "name": "Statistical assistants",
-                            "size": 40000.0,
+                            "size": 16000.0,
                             "age": null
                         },
                         {
                             "name": "Office and administrative support workers, all other",
-                            "size": 540000.0,
-                            "age": 43.7
+                            "size": 447000.0,
+                            "age": 41.5
                         }
                     ]
                 }
@@ -809,37 +2059,32 @@
                     "children": [
                         {
                             "name": "First-line supervisors of farming, fishing, and forestry workers",
-                            "size": 60000.0,
-                            "age": 45.2
+                            "size": 70000.0,
+                            "age": 50.4
                         },
                         {
                             "name": "Agricultural inspectors",
-                            "size": 22000.0,
+                            "size": 26000.0,
                             "age": null
                         },
                         {
                             "name": "Animal breeders",
-                            "size": 5000.0,
+                            "size": 15000.0,
                             "age": null
                         },
                         {
                             "name": "Graders and sorters, agricultural products",
-                            "size": 85000.0,
-                            "age": 42.4
-                        },
-                        {
-                            "name": "Miscellaneous agricultural workers",
-                            "size": 833000.0,
-                            "age": 38.3
-                        },
-                        {
-                            "name": "Fishers and related fishing workers",
-                            "size": 39000.0,
+                            "size": 45000.0,
                             "age": null
                         },
                         {
-                            "name": "Hunters and trappers",
-                            "size": 3000.0,
+                            "name": "Miscellaneous agricultural workers",
+                            "size": 731000.0,
+                            "age": 39.2
+                        },
+                        {
+                            "name": "Fishing and hunting workers",
+                            "size": 26000.0,
                             "age": null
                         },
                         {
@@ -850,7 +2095,7 @@
                         {
                             "name": "Logging workers",
                             "size": 58000.0,
-                            "age": 45.4
+                            "age": 46.9
                         }
                     ]
                 },
@@ -859,202 +2104,187 @@
                     "children": [
                         {
                             "name": "First-line supervisors of construction trades and extraction workers",
-                            "size": 634000.0,
-                            "age": 45.1
+                            "size": 702000.0,
+                            "age": 44.6
                         },
                         {
                             "name": "Boilermakers",
-                            "size": 20000.0,
+                            "size": 13000.0,
                             "age": null
                         },
                         {
                             "name": "Brickmasons, blockmasons, and stonemasons",
-                            "size": 143000.0,
-                            "age": 45.3
+                            "size": 117000.0,
+                            "age": 40.1
                         },
                         {
                             "name": "Carpenters",
-                            "size": 1375.0,
-                            "age": 41.9
+                            "size": 1275000.0,
+                            "age": 40.9
                         },
                         {
                             "name": "Carpet, floor, and tile installers and finishers",
-                            "size": 164000.0,
-                            "age": 42.5
+                            "size": 114000.0,
+                            "age": 43.2
                         },
                         {
                             "name": "Cement masons, concrete finishers, and terrazzo workers",
-                            "size": 50000.0,
-                            "age": 43.6
+                            "size": 56000.0,
+                            "age": 42.4
                         },
                         {
                             "name": "Construction laborers",
-                            "size": 2110.0,
-                            "age": 39.6
+                            "size": 2223000.0,
+                            "age": 39.1
                         },
                         {
-                            "name": "Paving, surfacing, and tamping equipment operators",
-                            "size": 21000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Pile-driver operators",
-                            "size": 1000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Operating engineers and other construction equipment operators",
-                            "size": 342000.0,
-                            "age": 44.0
+                            "name": "Construction equipment operators",
+                            "size": 395000.0,
+                            "age": 43.3
                         },
                         {
                             "name": "Drywall installers, ceiling tile installers, and tapers",
-                            "size": 164000.0,
-                            "age": 38.8
+                            "size": 162000.0,
+                            "age": 38.9
                         },
                         {
                             "name": "Electricians",
-                            "size": 887000.0,
-                            "age": 41.6
+                            "size": 959000.0,
+                            "age": 39.9
                         },
                         {
                             "name": "Glaziers",
-                            "size": 45000.0,
+                            "size": 39000.0,
                             "age": null
                         },
                         {
                             "name": "Insulation workers",
-                            "size": 60000.0,
-                            "age": 37.7
+                            "size": 59000.0,
+                            "age": 37.3
                         },
                         {
-                            "name": "Painters, construction and maintenance",
-                            "size": 607000.0,
-                            "age": 42.0
+                            "name": "Painters and paperhangers",
+                            "size": 561000.0,
+                            "age": 41.2
                         },
                         {
-                            "name": "Paperhangers",
-                            "size": 5000.0,
-                            "age": null
+                            "name": "Pipelayers",
+                            "size": 54000.0,
+                            "age": 38.0
                         },
                         {
-                            "name": "Pipelayers, plumbers, pipefitters, and steamfitters",
-                            "size": 641000.0,
-                            "age": 41.8
+                            "name": "Plumbers, pipefitters, and steamfitters",
+                            "size": 635000.0,
+                            "age": 40.8
                         },
                         {
                             "name": "Plasterers and stucco masons",
-                            "size": 19000.0,
+                            "size": 21000.0,
                             "age": null
                         },
                         {
                             "name": "Reinforcing iron and rebar workers",
-                            "size": 3000.0,
+                            "size": 11000.0,
                             "age": null
                         },
                         {
                             "name": "Roofers",
-                            "size": 201000.0,
+                            "size": 235000.0,
                             "age": 37.0
                         },
                         {
                             "name": "Sheet metal workers",
-                            "size": 147000.0,
-                            "age": 40.6
+                            "size": 127000.0,
+                            "age": 41.7
                         },
                         {
                             "name": "Structural iron and steel workers",
-                            "size": 60000.0,
-                            "age": 39.4
+                            "size": 42000.0,
+                            "age": null
                         },
                         {
                             "name": "Solar photovoltaic installers",
-                            "size": 16000.0,
+                            "size": 20000.0,
                             "age": null
                         },
                         {
                             "name": "Helpers, construction trades",
-                            "size": 77000.0,
-                            "age": 32.8
+                            "size": 64000.0,
+                            "age": 29.3
                         },
                         {
                             "name": "Construction and building inspectors",
-                            "size": 108000.0,
-                            "age": 51.0
+                            "size": 115000.0,
+                            "age": 50.3
                         },
                         {
-                            "name": "Elevator installers and repairers",
-                            "size": 25000.0,
+                            "name": "Elevator and escalator installers and repairers",
+                            "size": 46000.0,
                             "age": null
                         },
                         {
                             "name": "Fence erectors",
-                            "size": 33000.0,
+                            "size": 40000.0,
                             "age": null
                         },
                         {
                             "name": "Hazardous materials removal workers",
-                            "size": 36000.0,
+                            "size": 25000.0,
                             "age": null
                         },
                         {
                             "name": "Highway maintenance workers",
-                            "size": 105000.0,
-                            "age": 44.8
+                            "size": 93000.0,
+                            "age": 43.9
                         },
                         {
                             "name": "Rail-track laying and maintenance equipment operators",
-                            "size": 10000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Septic tank servicers and sewer pipe cleaners",
-                            "size": 9000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Miscellaneous construction and related workers",
-                            "size": 28000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Derrick, rotary drill, and service unit operators, oil, gas, and mining",
-                            "size": 30000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Earth drillers, except oil and gas",
                             "size": 22000.0,
                             "age": null
                         },
                         {
-                            "name": "Explosives workers, ordnance handling experts, and blasters",
-                            "size": 12000.0,
+                            "name": "Septic tank servicers and sewer pipe cleaners",
+                            "size": 7000.0,
                             "age": null
                         },
                         {
-                            "name": "Mining machine operators",
+                            "name": "Miscellaneous construction and related workers",
                             "size": 65000.0,
-                            "age": 42.8
+                            "age": 37.4
                         },
                         {
-                            "name": "Roof bolters, mining",
-                            "size": 1000.0,
+                            "name": "Derrick, rotary drill, and service unit operators, oil and gas",
+                            "size": 24000.0,
                             "age": null
                         },
                         {
-                            "name": "Roustabouts, oil and gas",
+                            "name": "Excavating and loading machine and dragline operators, surface mining",
                             "size": 10000.0,
                             "age": null
                         },
                         {
-                            "name": "Helpers--extraction workers",
-                            "size": 2000.0,
+                            "name": "Earth drillers, except oil and gas",
+                            "size": 25000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Explosives workers, ordnance handling experts, and blasters",
+                            "size": 8000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Underground mining machine operators",
+                            "size": 38000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Roustabouts, oil and gas",
+                            "size": 8000.0,
                             "age": null
                         },
                         {
                             "name": "Other extraction workers",
-                            "size": 49000.0,
+                            "size": 47000.0,
                             "age": null
                         }
                     ]
@@ -1064,27 +2294,27 @@
                     "children": [
                         {
                             "name": "First-line supervisors of mechanics, installers, and repairers",
-                            "size": 280000.0,
-                            "age": 49.4
+                            "size": 239000.0,
+                            "age": 48.4
                         },
                         {
                             "name": "Computer, automated teller, and office machine repairers",
-                            "size": 185000.0,
-                            "age": 42.4
+                            "size": 134000.0,
+                            "age": 44.3
                         },
                         {
                             "name": "Radio and telecommunications equipment installers and repairers",
-                            "size": 136000.0,
-                            "age": 43.5
+                            "size": 116000.0,
+                            "age": 41.1
                         },
                         {
                             "name": "Avionics technicians",
-                            "size": 13000.0,
+                            "size": 12000.0,
                             "age": null
                         },
                         {
                             "name": "Electric motor, power tool, and related repairers",
-                            "size": 26000.0,
+                            "size": 22000.0,
                             "age": null
                         },
                         {
@@ -1094,7 +2324,7 @@
                         },
                         {
                             "name": "Electrical and electronics repairers, industrial and utility",
-                            "size": 11000.0,
+                            "size": 6000.0,
                             "age": null
                         },
                         {
@@ -1103,24 +2333,24 @@
                             "age": null
                         },
                         {
-                            "name": "Electronic home entertainment equipment installers and repairers",
-                            "size": 38000.0,
+                            "name": "Audiovisual equipment installers and repairers",
+                            "size": 26000.0,
                             "age": null
                         },
                         {
                             "name": "Security and fire alarm systems installers",
-                            "size": 63000.0,
-                            "age": 40.4
+                            "size": 48000.0,
+                            "age": null
                         },
                         {
                             "name": "Aircraft mechanics and service technicians",
-                            "size": 164000.0,
-                            "age": 44.3
+                            "size": 124000.0,
+                            "age": 41.0
                         },
                         {
                             "name": "Automotive body and related repairers",
-                            "size": 152000.0,
-                            "age": 42.9
+                            "size": 127000.0,
+                            "age": 41.8
                         },
                         {
                             "name": "Automotive glass installers and repairers",
@@ -1129,38 +2359,38 @@
                         },
                         {
                             "name": "Automotive service technicians and mechanics",
-                            "size": 916000.0,
-                            "age": 39.0
+                            "size": 933000.0,
+                            "age": 39.9
                         },
                         {
                             "name": "Bus and truck mechanics and diesel engine specialists",
-                            "size": 389000.0,
-                            "age": 41.2
+                            "size": 334000.0,
+                            "age": 39.6
                         },
                         {
                             "name": "Heavy vehicle and mobile equipment service technicians and mechanics",
-                            "size": 211000.0,
-                            "age": 44.2
+                            "size": 201000.0,
+                            "age": 41.3
                         },
                         {
                             "name": "Small engine mechanics",
-                            "size": 51000.0,
-                            "age": 49.2
+                            "size": 41000.0,
+                            "age": null
                         },
                         {
-                            "name": "Miscellaneous vehicle and mobile equipment mechanics, installers, and   repairers",
-                            "size": 93000.0,
-                            "age": 36.6
+                            "name": "Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",
+                            "size": 90000.0,
+                            "age": 27.5
                         },
                         {
                             "name": "Control and valve installers and repairers",
-                            "size": 20000.0,
+                            "size": 26000.0,
                             "age": null
                         },
                         {
                             "name": "Heating, air conditioning, and refrigeration mechanics and installers",
-                            "size": 472000.0,
-                            "age": 41.2
+                            "size": 546000.0,
+                            "age": 39.4
                         },
                         {
                             "name": "Home appliance repairers",
@@ -1169,47 +2399,47 @@
                         },
                         {
                             "name": "Industrial and refractory machinery mechanics",
-                            "size": 442000.0,
-                            "age": 45.2
+                            "size": 416000.0,
+                            "age": 45.5
                         },
                         {
                             "name": "Maintenance and repair workers, general",
-                            "size": 507000.0,
-                            "age": 47.0
+                            "size": 672000.0,
+                            "age": 45.4
                         },
                         {
                             "name": "Maintenance workers, machinery",
-                            "size": 25000.0,
+                            "size": 22000.0,
                             "age": null
                         },
                         {
                             "name": "Millwrights",
-                            "size": 46000.0,
+                            "size": 42000.0,
                             "age": null
                         },
                         {
                             "name": "Electrical power-line installers and repairers",
-                            "size": 137000.0,
-                            "age": 43.1
+                            "size": 130000.0,
+                            "age": 35.7
                         },
                         {
                             "name": "Telecommunications line installers and repairers",
-                            "size": 210000.0,
-                            "age": 40.7
+                            "size": 160000.0,
+                            "age": 41.3
                         },
                         {
                             "name": "Precision instrument and equipment repairers",
-                            "size": 65000.0,
-                            "age": 44.9
+                            "size": 46000.0,
+                            "age": null
                         },
                         {
                             "name": "Wind turbine service technicians",
-                            "size": 3000.0,
+                            "size": 7000.0,
                             "age": null
                         },
                         {
                             "name": "Coin, vending, and amusement machine servicers and repairers",
-                            "size": 36000.0,
+                            "size": 33000.0,
                             "age": null
                         },
                         {
@@ -1219,12 +2449,12 @@
                         },
                         {
                             "name": "Locksmiths and safe repairers",
-                            "size": 34000.0,
+                            "size": 29000.0,
                             "age": null
                         },
                         {
                             "name": "Manufactured building and mobile home installers",
-                            "size": 7000.0,
+                            "size": 5000.0,
                             "age": null
                         },
                         {
@@ -1233,19 +2463,14 @@
                             "age": null
                         },
                         {
-                            "name": "Signal and track switch repairers",
-                            "size": 14000.0,
-                            "age": null
-                        },
-                        {
                             "name": "Helpers--installation, maintenance, and repair workers",
-                            "size": 16000.0,
+                            "size": 18000.0,
                             "age": null
                         },
                         {
                             "name": "Other installation, maintenance, and repair workers",
-                            "size": 167000.0,
-                            "age": 45.3
+                            "size": 190000.0,
+                            "age": 42.9
                         }
                     ]
                 }
@@ -1259,178 +2484,133 @@
                     "children": [
                         {
                             "name": "First-line supervisors of production and operating workers",
-                            "size": 832000.0,
+                            "size": 776000.0,
                             "age": 46.3
                         },
                         {
                             "name": "Aircraft structure, surfaces, rigging, and systems assemblers",
-                            "size": 5000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Electrical, electronics, and electromechanical assemblers",
-                            "size": 124000.0,
-                            "age": 44.0
-                        },
-                        {
-                            "name": "Engine and other machine assemblers",
                             "size": 10000.0,
                             "age": null
                         },
                         {
-                            "name": "Structural metal fabricators and fitters",
-                            "size": 33000.0,
+                            "name": "Electrical, electronics, and electromechanical assemblers",
+                            "size": 114000.0,
+                            "age": 46.3
+                        },
+                        {
+                            "name": "Engine and other machine assemblers",
+                            "size": 15000.0,
                             "age": null
                         },
                         {
-                            "name": "Miscellaneous assemblers and fabricators",
-                            "size": 1064.0,
-                            "age": 41.1
+                            "name": "Structural metal fabricators and fitters",
+                            "size": 22000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Other assemblers and fabricators",
+                            "size": 1048000.0,
+                            "age": 40.8
                         },
                         {
                             "name": "Bakers",
-                            "size": 219000.0,
-                            "age": 40.2
+                            "size": 233000.0,
+                            "age": 34.6
                         },
                         {
                             "name": "Butchers and other meat, poultry, and fish processing workers",
-                            "size": 265000.0,
-                            "age": 39.8
+                            "size": 243000.0,
+                            "age": 38.7
                         },
                         {
                             "name": "Food and tobacco roasting, baking, and drying machine operators and tenders",
-                            "size": 6000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Food batchmakers",
-                            "size": 80000.0,
-                            "age": 38.1
-                        },
-                        {
-                            "name": "Food cooking machine operators and tenders",
-                            "size": 14000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Food processing workers, all other",
-                            "size": 158000.0,
-                            "age": 43.2
-                        },
-                        {
-                            "name": "Computer control programmers and operators",
-                            "size": 107000.0,
-                            "age": 41.6
-                        },
-                        {
-                            "name": "Extruding and drawing machine setters, operators, and tenders, metal and plastic",
-                            "size": 14000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Forging machine setters, operators, and tenders, metal and plastic",
-                            "size": 6000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Rolling machine setters, operators, and tenders, metal and plastic",
-                            "size": 11000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",
-                            "size": 61000.0,
-                            "age": 46.6
-                        },
-                        {
-                            "name": "Drilling and boring machine tool setters, operators, and tenders, metal\tand plastic",
-                            "size": 3000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Grinding, lapping, polishing, and buffing machine tool setters, operators,and tenders, metal and plastic",
-                            "size": 38000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Lathe and turning machine tool setters, operators, and tenders, metal and plastic",
                             "size": 8000.0,
                             "age": null
                         },
                         {
-                            "name": "Milling and planing machine setters, operators, and tenders, metal and plastic",
-                            "size": 3000.0,
+                            "name": "Food batchmakers",
+                            "size": 79000.0,
+                            "age": 42.7
+                        },
+                        {
+                            "name": "Food cooking machine operators and tenders",
+                            "size": 10000.0,
                             "age": null
                         },
                         {
-                            "name": "Machinists",
-                            "size": 344000.0,
-                            "age": 46.5
+                            "name": "Food processing workers, all other",
+                            "size": 140000.0,
+                            "age": 42.5
                         },
                         {
-                            "name": "Metal furnace operators, tenders, pourers, and casters",
-                            "size": 20000.0,
+                            "name": "Computer numerically controlled tool operators and programmers",
+                            "size": 100000.0,
+                            "age": 41.3
+                        },
+                        {
+                            "name": "Forming machine setters, operators, and tenders, metal and plastic",
+                            "size": 34000.0,
                             "age": null
                         },
                         {
-                            "name": "Model makers and patternmakers, metal and plastic",
+                            "name": "Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",
+                            "size": 74000.0,
+                            "age": 49.2
+                        },
+                        {
+                            "name": "Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",
+                            "size": 38000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Other machine tool setters, operators, and tenders, metal and plastic",
                             "size": 6000.0,
                             "age": null
                         },
                         {
-                            "name": "Molders and molding machine setters, operators, and tenders, metal and plastic",
-                            "size": 40000.0,
+                            "name": "Machinists",
+                            "size": 307000.0,
+                            "age": 46.1
+                        },
+                        {
+                            "name": "Metal furnace operators, tenders, pourers, and casters",
+                            "size": 16000.0,
                             "age": null
                         },
                         {
-                            "name": "Multiple machine tool setters, operators, and tenders, metal and plastic",
-                            "size": 5000.0,
+                            "name": "Model makers and patternmakers, metal and plastic",
+                            "size": 4000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Molders and molding machine setters, operators, and tenders, metal and plastic",
+                            "size": 29000.0,
                             "age": null
                         },
                         {
                             "name": "Tool and die makers",
-                            "size": 50000.0,
-                            "age": 52.7
+                            "size": 39000.0,
+                            "age": null
                         },
                         {
                             "name": "Welding, soldering, and brazing workers",
-                            "size": 633000.0,
+                            "size": 559000.0,
                             "age": 39.4
                         },
                         {
-                            "name": "Heat treating equipment setters, operators, and tenders, metal and plastic",
-                            "size": 9000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Layout workers, metal and plastic",
-                            "size": 9000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Plating and coating machine setters, operators, and tenders, metal and plastic",
-                            "size": 17000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Tool grinders, filers, and sharpeners",
-                            "size": 3000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Metal workers and plastic workers, all other",
-                            "size": 373000.0,
-                            "age": 43.1
+                            "name": "Other metal workers and plastic workers",
+                            "size": 361000.0,
+                            "age": 43.8
                         },
                         {
                             "name": "Prepress technicians and workers",
-                            "size": 18000.0,
+                            "size": 15000.0,
                             "age": null
                         },
                         {
                             "name": "Printing press operators",
-                            "size": 164000.0,
-                            "age": 46.6
+                            "size": 148000.0,
+                            "age": 45.8
                         },
                         {
                             "name": "Print binding and finishing workers",
@@ -1439,227 +2619,182 @@
                         },
                         {
                             "name": "Laundry and dry-cleaning workers",
-                            "size": 143000.0,
-                            "age": 45.2
+                            "size": 121000.0,
+                            "age": 46.4
                         },
                         {
                             "name": "Pressers, textile, garment, and related materials",
-                            "size": 36000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Sewing machine operators",
-                            "size": 174000.0,
-                            "age": 49.8
-                        },
-                        {
-                            "name": "Shoe and leather workers and repairers",
-                            "size": 8000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Shoe machine operators and tenders",
-                            "size": 4000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Tailors, dressmakers, and sewers",
-                            "size": 85000.0,
-                            "age": 54.3
-                        },
-                        {
-                            "name": "Textile bleaching and dyeing machine operators and tenders",
-                            "size": 1000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Textile cutting machine setters, operators, and tenders",
-                            "size": 6000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Textile knitting and weaving machine setters, operators, and tenders",
-                            "size": 5000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Textile winding, twisting, and drawing out machine setters, operators, and tenders",
-                            "size": 5000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",
-                            "size": 0.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Fabric and apparel patternmakers",
-                            "size": 3000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Upholsterers",
-                            "size": 31000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Textile, apparel, and furnishings workers, all other",
-                            "size": 16000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Cabinetmakers and bench carpenters",
-                            "size": 65000.0,
-                            "age": 45.9
-                        },
-                        {
-                            "name": "Furniture finishers",
-                            "size": 20000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Model makers and patternmakers, wood",
-                            "size": 0.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Sawing machine setters, operators, and tenders, wood",
-                            "size": 37000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Woodworking machine setters, operators, and tenders, except sawing",
-                            "size": 27000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Woodworkers, all other",
                             "size": 28000.0,
                             "age": null
                         },
                         {
-                            "name": "Power plant operators, distributors, and dispatchers",
-                            "size": 33000.0,
+                            "name": "Sewing machine operators",
+                            "size": 129000.0,
+                            "age": 52.1
+                        },
+                        {
+                            "name": "Shoe and leather workers",
+                            "size": 13000.0,
                             "age": null
                         },
                         {
-                            "name": "Stationary engineers and boiler operators",
-                            "size": 79000.0,
-                            "age": 52.8
+                            "name": "Tailors, dressmakers, and sewers",
+                            "size": 51000.0,
+                            "age": 49.0
                         },
                         {
-                            "name": "Water and wastewater treatment plant and system operators",
-                            "size": 101000.0,
-                            "age": 49.2
-                        },
-                        {
-                            "name": "Miscellaneous plant and system operators",
-                            "size": 38000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Chemical processing machine setters, operators, and tenders",
-                            "size": 75000.0,
-                            "age": 40.8
-                        },
-                        {
-                            "name": "Crushing, grinding, polishing, mixing, and blending workers",
-                            "size": 79000.0,
-                            "age": 38.0
-                        },
-                        {
-                            "name": "Cutting workers",
-                            "size": 60000.0,
-                            "age": 39.1
-                        },
-                        {
-                            "name": "Extruding, forming, pressing, and compacting machine setters, operators, and tenders",
-                            "size": 22000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Furnace, kiln, oven, drier, and kettle operators and tenders",
-                            "size": 25000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Inspectors, testers, sorters, samplers, and weighers",
-                            "size": 807000.0,
-                            "age": 43.2
-                        },
-                        {
-                            "name": "Jewelers and precious stone and metal workers",
-                            "size": 38000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Medical, dental, and ophthalmic laboratory technicians",
-                            "size": 87000.0,
-                            "age": 45.4
-                        },
-                        {
-                            "name": "Packaging and filling machine operators and tenders",
-                            "size": 277000.0,
-                            "age": 39.3
-                        },
-                        {
-                            "name": "Painting workers",
-                            "size": 165000.0,
-                            "age": 38.8
-                        },
-                        {
-                            "name": "Photographic process workers and processing machine operators",
-                            "size": 17000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Semiconductor processors",
-                            "size": 1000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Adhesive bonding machine operators and tenders",
-                            "size": 8000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Cleaning, washing, and metal pickling equipment operators and tenders",
-                            "size": 9000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Cooling and freezing equipment operators and tenders",
-                            "size": 4000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Etchers and engravers",
-                            "size": 11000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Molders, shapers, and casters, except metal and plastic",
-                            "size": 37000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Paper goods machine setters, operators, and tenders",
+                            "name": "Textile machine setters, operators, and tenders",
                             "size": 21000.0,
                             "age": null
                         },
                         {
+                            "name": "Upholsterers",
+                            "size": 17000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Other textile, apparel, and furnishings workers",
+                            "size": 14000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Cabinetmakers and bench carpenters",
+                            "size": 60000.0,
+                            "age": 46.9
+                        },
+                        {
+                            "name": "Furniture finishers",
+                            "size": 16000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Sawing machine setters, operators, and tenders, wood",
+                            "size": 23000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Woodworking machine setters, operators, and tenders, except sawing",
+                            "size": 28000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Other woodworkers",
+                            "size": 27000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Power plant operators, distributors, and dispatchers",
+                            "size": 46000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Stationary engineers and boiler operators",
+                            "size": 73000.0,
+                            "age": 49.2
+                        },
+                        {
+                            "name": "Water and wastewater treatment plant and system operators",
+                            "size": 89000.0,
+                            "age": 40.8
+                        },
+                        {
+                            "name": "Miscellaneous plant and system operators",
+                            "size": 37000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Chemical processing machine setters, operators, and tenders",
+                            "size": 45000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Crushing, grinding, polishing, mixing, and blending workers",
+                            "size": 87000.0,
+                            "age": 42.6
+                        },
+                        {
+                            "name": "Cutting workers",
+                            "size": 56000.0,
+                            "age": 44.7
+                        },
+                        {
+                            "name": "Extruding, forming, pressing, and compacting machine setters, operators, and tenders",
+                            "size": 14000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Furnace, kiln, oven, drier, and kettle operators and tenders",
+                            "size": 10000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Inspectors, testers, sorters, samplers, and weighers",
+                            "size": 793000.0,
+                            "age": 45.0
+                        },
+                        {
+                            "name": "Jewelers and precious stone and metal workers",
+                            "size": 58000.0,
+                            "age": 43.1
+                        },
+                        {
+                            "name": "Dental and ophthalmic laboratory technicians and medical appliance technicians",
+                            "size": 76000.0,
+                            "age": 41.5
+                        },
+                        {
+                            "name": "Packaging and filling machine operators and tenders",
+                            "size": 301000.0,
+                            "age": 39.6
+                        },
+                        {
+                            "name": "Painting workers",
+                            "size": 142000.0,
+                            "age": 39.6
+                        },
+                        {
+                            "name": "Photographic process workers and processing machine operators",
+                            "size": 30000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Adhesive bonding machine operators and tenders",
+                            "size": 10000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Etchers and engravers",
+                            "size": 8000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Molders, shapers, and casters, except metal and plastic",
+                            "size": 32000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Paper goods machine setters, operators, and tenders",
+                            "size": 15000.0,
+                            "age": null
+                        },
+                        {
                             "name": "Tire builders",
-                            "size": 7000.0,
+                            "size": 9000.0,
                             "age": null
                         },
                         {
                             "name": "Helpers--production workers",
-                            "size": 53000.0,
-                            "age": 31.1
+                            "size": 68000.0,
+                            "age": 32.4
                         },
                         {
-                            "name": "Production workers, all other",
-                            "size": 1107.0,
+                            "name": "Other production equipment operators and tenders",
+                            "size": 8000.0,
+                            "age": null
+                        },
+                        {
+                            "name": "Other production workers",
+                            "size": 1280000.0,
                             "age": 41.1
                         }
                     ]
@@ -1669,148 +2804,138 @@
                     "children": [
                         {
                             "name": "Supervisors of transportation and material moving workers",
-                            "size": 217000.0,
-                            "age": 44.9
+                            "size": 349000.0,
+                            "age": 42.7
                         },
                         {
                             "name": "Aircraft pilots and flight engineers",
-                            "size": 119000.0,
-                            "age": 47.0
+                            "size": 211000.0,
+                            "age": 49.0
                         },
                         {
                             "name": "Air traffic controllers and airfield operations specialists",
-                            "size": 37000.0,
+                            "size": 39000.0,
                             "age": null
                         },
                         {
                             "name": "Flight attendants",
-                            "size": 104000.0,
-                            "age": 50.3
+                            "size": 115000.0,
+                            "age": 44.8
                         },
                         {
                             "name": "Ambulance drivers and attendants, except emergency medical technicians",
-                            "size": 12000.0,
+                            "size": 16000.0,
                             "age": null
                         },
                         {
-                            "name": "Bus drivers",
-                            "size": 599000.0,
-                            "age": 53.2
+                            "name": "Bus drivers, school",
+                            "size": 218000.0,
+                            "age": 55.5
+                        },
+                        {
+                            "name": "Bus drivers, transit and intercity",
+                            "size": 284000.0,
+                            "age": 52.8
                         },
                         {
                             "name": "Driver/sales workers and truck drivers",
-                            "size": 3549.0,
-                            "age": 46.3
+                            "size": 3551000.0,
+                            "age": 46.1
                         },
                         {
-                            "name": "Taxi drivers and chauffeurs",
-                            "size": 777000.0,
-                            "age": 46.5
+                            "name": "Shuttle drivers and chauffeurs",
+                            "size": 78000.0,
+                            "age": 54.3
+                        },
+                        {
+                            "name": "Taxi drivers",
+                            "size": 456000.0,
+                            "age": 45.9
                         },
                         {
                             "name": "Motor vehicle operators, all other",
-                            "size": 63000.0,
-                            "age": 55.9
+                            "size": 212000.0,
+                            "age": 48.1
                         },
                         {
                             "name": "Locomotive engineers and operators",
-                            "size": 36000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Railroad brake, signal, and switch operators",
-                            "size": 5000.0,
+                            "size": 44000.0,
                             "age": null
                         },
                         {
                             "name": "Railroad conductors and yardmasters",
-                            "size": 53000.0,
-                            "age": 38.5
+                            "size": 48000.0,
+                            "age": null
                         },
                         {
-                            "name": "Subway, streetcar, and other rail transportation workers",
-                            "size": 15000.0,
+                            "name": "Other rail transportation workers",
+                            "size": 24000.0,
                             "age": null
                         },
                         {
                             "name": "Sailors and marine oilers",
-                            "size": 21000.0,
+                            "size": 17000.0,
                             "age": null
                         },
                         {
                             "name": "Ship and boat captains and operators",
-                            "size": 33000.0,
+                            "size": 42000.0,
                             "age": null
                         },
                         {
                             "name": "Ship engineers",
-                            "size": 6000.0,
+                            "size": 1000.0,
                             "age": null
                         },
                         {
-                            "name": "Bridge and lock tenders",
-                            "size": 7000.0,
-                            "age": null
+                            "name": "Parking attendants",
+                            "size": 61000.0,
+                            "age": 37.0
                         },
                         {
-                            "name": "Parking lot attendants",
-                            "size": 87000.0,
-                            "age": 29.9
-                        },
-                        {
-                            "name": "Automotive and watercraft service attendants",
-                            "size": 102000.0,
-                            "age": 32.3
+                            "name": "Transportation service attendants",
+                            "size": 79000.0,
+                            "age": 28.2
                         },
                         {
                             "name": "Transportation inspectors",
-                            "size": 37000.0,
+                            "size": 35000.0,
                             "age": null
                         },
                         {
-                            "name": "Transportation attendants, except flight attendants",
-                            "size": 40000.0,
+                            "name": "Passenger attendants",
+                            "size": 26000.0,
                             "age": null
                         },
                         {
                             "name": "Other transportation workers",
-                            "size": 24000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Conveyor operators and tenders",
-                            "size": 2000.0,
+                            "size": 36000.0,
                             "age": null
                         },
                         {
                             "name": "Crane and tower operators",
-                            "size": 68000.0,
-                            "age": 42.0
+                            "size": 60000.0,
+                            "age": 44.1
                         },
                         {
-                            "name": "Dredge, excavating, and loading machine operators",
-                            "size": 24000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Hoist and winch operators",
-                            "size": 10000.0,
+                            "name": "Conveyor, dredge, and hoist and winch operators",
+                            "size": 37000.0,
                             "age": null
                         },
                         {
                             "name": "Industrial truck and tractor operators",
-                            "size": 631000.0,
-                            "age": 39.8
+                            "size": 629000.0,
+                            "age": 40.3
                         },
                         {
                             "name": "Cleaners of vehicles and equipment",
-                            "size": 329000.0,
-                            "age": 33.7
+                            "size": 401000.0,
+                            "age": 32.5
                         },
                         {
                             "name": "Laborers and freight, stock, and material movers, hand",
-                            "size": 2106.0,
-                            "age": 35.4
+                            "size": 2090000.0,
+                            "age": 35.8
                         },
                         {
                             "name": "Machine feeders and offbearers",
@@ -1819,33 +2944,28 @@
                         },
                         {
                             "name": "Packers and packagers, hand",
-                            "size": 607000.0,
-                            "age": 37.4
+                            "size": 690000.0,
+                            "age": 35.1
+                        },
+                        {
+                            "name": "Stockers and order fillers",
+                            "size": 1640000.0,
+                            "age": 31.7
                         },
                         {
                             "name": "Pumping station operators",
-                            "size": 16000.0,
+                            "size": 21000.0,
                             "age": null
                         },
                         {
                             "name": "Refuse and recyclable material collectors",
-                            "size": 91000.0,
-                            "age": 43.5
+                            "size": 112000.0,
+                            "age": 39.5
                         },
                         {
-                            "name": "Mine shuttle car operators",
-                            "size": 1000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Tank car, truck, and ship loaders",
-                            "size": 8000.0,
-                            "age": null
-                        },
-                        {
-                            "name": "Material moving workers, all other",
-                            "size": 51000.0,
-                            "age": 43.1
+                            "name": "Other material moving workers",
+                            "size": 55000.0,
+                            "age": 42.4
                         }
                     ]
                 }
